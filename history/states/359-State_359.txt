@@ -1,0 +1,27 @@
+state={
+	id=359
+	name="STATE_359"
+	manpower=2690300
+	
+	state_category = large_city
+	
+	history={
+		owner = UNT
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			arms_factory = 1
+			industrial_complex = 3
+			}
+		add_core_of = UNT 
+		victory_points = {
+			2236 30 
+		}
+		victory_points = {
+			7812 5 
+		}
+	}
+	provinces={
+		422 2236 3533 7812 7882 7959 7960 8023 8076 
+	}
+}

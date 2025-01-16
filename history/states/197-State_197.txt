@@ -1,0 +1,24 @@
+state={
+	id=197
+	name="STATE_197"
+	manpower=93200
+	
+	state_category = town
+	
+	history={
+		owner = CGM
+		buildings = {
+			infrastructure = 1
+			6023 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = CGM 
+		victory_points = {
+			1844 1 
+		}
+	}
+	provinces={
+		1192 1844 2396 3047 5955 5969 5970 6002 6022 6023 6050 6075 6100 6126 
+	}
+}

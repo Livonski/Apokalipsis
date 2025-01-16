@@ -1,0 +1,25 @@
+state={
+	id=401
+	name="STATE_401"
+	manpower=1272000
+	
+	state_category = city
+	
+	history={
+		owner = UNT
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			}
+		add_core_of = UNT 
+		victory_points = {
+			8279 30 
+		}
+		victory_points = {
+			8392 1 
+		}
+	}
+	provinces={
+		1677 2487 3880 8187 8227 8239 8244 8279 8382 8392 8399 
+	}
+}

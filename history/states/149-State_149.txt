@@ -1,0 +1,23 @@
+state={
+	id=149
+	name="STATE_149"
+	manpower=28900
+	resources = {
+			Steel = 8
+			Tungsten = 4
+	}
+	
+	state_category = town
+	
+	history={
+		owner = COB
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		add_core_of = COB 
+		}
+	provinces={
+		698 1129 1205 2177 5267 5296 5297 5346 5362 5383 5390 5413 
+	}
+}

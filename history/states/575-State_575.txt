@@ -1,0 +1,28 @@
+state={
+	id=575
+	name="STATE_575"
+	manpower=43900
+	resources = {
+			aluminium = 38
+			oil = 20
+	}
+	
+	state_category = town
+	
+	history={
+		owner = SNK
+		buildings = {
+			infrastructure = 1
+			3154 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = SNK 
+		victory_points = {
+			3787 15 
+		}
+	}
+	provinces={
+		21 155 241 822 910 948 1703 1962 2321 3154 3470 3616 3783 3787 3812 9517 9521 9547 9552 9559 9561 9563 9569 9574 9575 9585 9588 9590 9593 9598 
+	}
+}

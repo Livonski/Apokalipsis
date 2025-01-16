@@ -1,0 +1,25 @@
+state={
+	id=20
+	name="STATE_20"
+	manpower=320
+	resources = {
+			Steel = 12
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = NRD
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = NRD 
+		victory_points = {
+			4126 1 
+		}
+	}
+	provinces={
+		1399 1851 1920 2563 3168 4120 4126 4132 4137 4142 4146 4148 
+	}
+}
+

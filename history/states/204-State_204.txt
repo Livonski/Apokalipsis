@@ -1,0 +1,22 @@
+state={
+	id=204
+	name="STATE_204"
+	manpower=27300
+	resources = {
+			Steel = 22
+			Tungsten = 12
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = UNT
+		add_core_of = UNT 
+		victory_points = {
+			6326 1 
+		}
+	}
+	provinces={
+		194 461 522 1221 1492 1776 1886 2053 2329 3073 6017 6083 6124 6156 6157 6162 6170 6171 6197 6202 6231 6260 6269 6326 6328 6339 
+	}
+}

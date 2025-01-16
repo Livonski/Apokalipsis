@@ -1,0 +1,21 @@
+state={
+	id=104
+	name="STATE_104"
+	manpower=5800
+	
+	state_category = rural
+	
+	history={
+		owner = RWF
+		buildings = {
+			industrial_complex = 1
+			}
+		add_core_of = RWF 
+		victory_points = {
+			298 3 
+		}
+	}
+	provinces={
+		298 361 971 1120 1285 1322 1369 1374 1694 1848 1929 2412 2834 2948 2971 3268 3416 3628 3701 4849 4932 4933 4948 4966 4967 4987 4998 5001 5016 5030 5034 5044 5048 5053 5089 5102 5129 5143 5146 5190 
+	}
+}

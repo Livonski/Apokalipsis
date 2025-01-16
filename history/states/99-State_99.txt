@@ -1,0 +1,22 @@
+state={
+	id=99
+	name="STATE_99"
+	manpower=583500
+	
+	state_category = large_town
+	
+	history={
+		owner = ERM
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			}
+		add_core_of = ERM 
+		victory_points = {
+			1953 20 
+		}
+	}
+	provinces={
+		720 1443 1810 1953 2127 2156 2472 2483 2844 3391 3561 4723 4726 4734 4739 4745 4747 4751 4771 4772 4773 4775 4776 4782 4788 4802 4806 4819 4820 4827 4845 
+	}
+}

@@ -1,0 +1,21 @@
+state={
+	id=109
+	name="STATE_109"
+	manpower=7300
+	resources = {
+			Steel = 6
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = LIP
+		add_core_of = LIP 
+		victory_points = {
+			513 1 
+		}
+	}
+	provinces={
+		399 513 531 742 1031 1231 1838 2551 2791 2950 3098 3145 3200 3208 3262 3280 3301 3554 4805 4815 4833 4844 4852 4860 4869 4902 4903 4920 4930 4949 4952 4990 5023 
+	}
+}

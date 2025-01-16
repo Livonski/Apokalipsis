@@ -1,0 +1,18 @@
+state={
+	id=198
+	name="STATE_198"
+	manpower=173000
+	
+	state_category = rural
+	
+	history={
+		owner = UCP
+		add_core_of = UCP 
+		victory_points = {
+			2792 1 
+		}
+	}
+	provinces={
+		526 655 969 1387 1499 1620 1977 2196 2792 2829 3980 4002 5998 6343 6344 6484 6523 6597 6655 6667 
+	}
+}

@@ -1,0 +1,28 @@
+state={
+	id=101
+	name="STATE_101"
+	manpower=12300
+	resources = {
+			Tungsten = 6
+			Steel = 8
+	}
+	
+	state_category = town
+	
+	history={
+		owner = COB
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = COB 
+		victory_points = {
+			2713 1 
+		}
+		victory_points = {
+			3770 1 
+		}
+	}
+	provinces={
+		362 840 941 986 1131 1254 1321 1381 1430 1632 1647 1835 2435 2493 2713 3188 3238 3334 3770 3832 4752 4774 4781 4794 4809 4839 4858 4859 4876 4881 4891 4897 4901 4906 4919 4929 4934 4944 4960 4964 4965 4968 4977 4983 4999 5010 5011 5018 5040 5056 5086 5109 5118 5138 5148 5163 5182 5192 5200 5206 5266 
+	}
+}

@@ -1,0 +1,23 @@
+state={
+	id=368
+	name="STATE_368"
+	manpower=107400
+	
+	state_category = rural
+	
+	history={
+		owner = BDO
+		buildings = {
+			8347 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = BDO 
+		victory_points = {
+			8116 10 
+		}
+	}
+	provinces={
+		176 223 480 792 1121 1187 1230 1268 1283 1314 1981 2015 2513 2568 2874 2940 3204 7904 7974 7975 7996 8006 8014 8039 8071 8116 8126 8174 8183 8193 8204 8258 8259 8266 8340 8341 8347 8458 8559 8608 
+	}
+}

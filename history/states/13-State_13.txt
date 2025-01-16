@@ -1,0 +1,27 @@
+state={
+	id=13
+	name="STATE_13"
+	manpower=72000
+	
+	state_category = city
+	
+	history={
+		owner = NPR
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			2066 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = NPR 
+		victory_points = {
+			2066 20 
+		}
+	}
+	provinces={
+		161 893 2066 4072 4073 4077 4079 9683 
+	}
+}
+

@@ -1,0 +1,21 @@
+state={
+	id=124
+	name="STATE_124"
+	manpower=35700
+	
+	state_category = town
+	
+	history={
+		owner = SCL
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = SCL 
+		victory_points = {
+			2048 1 
+		}
+	}
+	provinces={
+		1894 2048 2101 2199 2747 2795 2853 3368 3393 3803 3949 3959 4913 4915 4922 4938 4961 4995 5014 5031 5032 5061 5087 5111 
+	}
+}

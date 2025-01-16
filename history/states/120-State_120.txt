@@ -1,0 +1,25 @@
+state={
+	id=120
+	name="STATE_120"
+	manpower=7200
+	resources = {
+			Steel = 12
+			chromium = 10
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = MHL
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = MHL 
+		victory_points = {
+			3187 1 
+		}
+	}
+	provinces={
+		3187 4936 4956 4963 4988 
+	}
+}

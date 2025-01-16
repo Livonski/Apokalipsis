@@ -1,0 +1,19 @@
+state={
+	id=463
+	name="STATE_463"
+	manpower=20000
+	resources = {
+			Steel = 20
+			Tungsten = 42
+	}
+	
+	state_category = pastoral
+	
+	history={
+		owner = CDS
+		add_core_of = CDS 
+	}
+	provinces={
+		1020 3269 8665 8677 8711 8712 
+	}
+}

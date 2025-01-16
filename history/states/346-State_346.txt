@@ -1,0 +1,30 @@
+state={
+	id=346
+	name="STATE_346"
+	manpower=1520000
+	
+	state_category = city
+	
+	history={
+		owner = BOC
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			8041 = {
+			naval_base = 3
+			}
+			}
+		add_core_of = BOC 
+		victory_points = {
+			8041 20 
+		}
+		victory_points = {
+			2833 3 
+		}
+	}
+	provinces={
+		416 666 1079 2256 2368 2833 2849 2915 2985 3298 3724 7684 7694 7728 7742 7764 7808 7809 7845 7869 7895 7912 7945 7954 7958 7986 8008 8015 8041 8063 8099 8128 8177 
+	}
+}

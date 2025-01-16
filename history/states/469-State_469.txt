@@ -1,0 +1,28 @@
+state={
+	id=469
+	name="STATE_469"
+	manpower=130300
+	resources = {
+			aluminium = 13
+	}
+	
+	state_category = large_city
+	
+	history={
+		owner = TRF
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			}
+		add_core_of = TRF 
+		victory_points = {
+			1831 20 
+		}
+		victory_points = {
+			9099 1 
+		}
+	}
+	provinces={
+		991 1066 1831 2350 2454 3110 3505 3719 3868 4010 8704 8778 8797 8814 8833 8845 8885 8907 8919 8962 8990 9067 9099 
+	}
+}

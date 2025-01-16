@@ -1,0 +1,27 @@
+state={
+	id=386
+	name="STATE_386"
+	manpower=26800
+	resources = {
+			Steel = 40
+			aluminium = 28
+	}
+	
+	state_category = megalopolis
+	
+	history={
+		owner = GNR
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 4
+			}
+		add_core_of = GNR 
+		victory_points = {
+			8077 15 
+		}
+	}
+	provinces={
+		8077 
+	}
+}

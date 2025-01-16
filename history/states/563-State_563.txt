@@ -1,0 +1,24 @@
+state={
+	id=563
+	name="STATE_563"
+	manpower=14800
+	
+	state_category = town
+	
+	history={
+		owner = PSS
+		buildings = {
+			infrastructure = 3
+			9448 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = PSS 
+		victory_points = {
+			9442 3 
+		}
+	}
+	provinces={
+		3359 9363 9408 9439 9442 9448 9466 
+	}
+}

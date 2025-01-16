@@ -1,0 +1,24 @@
+state={
+	id=544
+	name="STATE_544"
+	manpower=31000
+	
+	state_category = town
+	
+	history={
+		owner = MRE
+		buildings = {
+			infrastructure = 1
+			9353 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = MRE 
+		victory_points = {
+			2910 3 
+		}
+	}
+	provinces={
+		1024 1739 2302 2705 2910 3506 3970 9269 9284 9312 9313 9322 9342 9345 9352 9353 9367 9370 9387 
+	}
+}

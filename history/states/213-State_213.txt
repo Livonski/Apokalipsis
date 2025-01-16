@@ -1,0 +1,25 @@
+state={
+	id=213
+	name="STATE_213"
+	manpower=324000
+	
+	state_category = city
+	
+	history={
+		owner = CGM
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		add_core_of = CGM 
+		victory_points = {
+			1809 10 
+		}
+		victory_points = {
+			6264 3 
+		}
+	}
+	provinces={
+		70 611 878 939 1655 1809 2178 3134 3305 6175 6213 6219 6251 6264 6265 6280 6293 6304 6324 6342 6349 6405 6433 6434 6467 6662 6686 6766 
+	}
+}

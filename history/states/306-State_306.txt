@@ -1,0 +1,23 @@
+state={
+	id=306
+	name="STATE_306"
+	manpower=320100
+	
+	state_category = large_town
+	
+	history={
+		owner = BDT
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 1
+			}
+		add_core_of = BDT 
+		victory_points = {
+			7256 30 
+		}
+	}
+	provinces={
+		7256 7299 7359 
+	}
+}

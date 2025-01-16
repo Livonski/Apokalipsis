@@ -1,0 +1,37 @@
+state={
+	id=433
+	name="STATE_433"
+	manpower=38300
+	
+	state_category = large_city
+	
+	history={
+		owner = INL
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			8473 = {
+			bunker = 3
+			}
+			1172 = {
+			bunker = 3
+			}
+			8462 = {
+			bunker = 3
+			}
+			928 = {
+			bunker = 3
+			}
+			}
+		add_core_of = INL 
+		victory_points = {
+			8462 3 
+		}
+		victory_points = {
+			8537 1 
+		}
+	}
+	provinces={
+		928 1172 8462 8473 8516 8537 
+	}
+}

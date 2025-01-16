@@ -1,0 +1,27 @@
+state={
+	id=408
+	name="STATE_408"
+	manpower=93000
+	
+	state_category = large_town
+	
+	history={
+		owner = TRF
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+			industrial_complex = 1
+			anti_air_building = 2
+			}
+		add_core_of = TRF 
+		victory_points = {
+			1681 10 
+		}
+		victory_points = {
+			2502 1 
+		}
+	}
+	provinces={
+		1160 1587 1681 2452 2502 2842 3171 4024 8319 8351 8423 8424 8468 8479 8485 8510 8521 8522 8533 8649 
+	}
+}

@@ -1,0 +1,26 @@
+state={
+	id=224
+	name="STATE_224"
+	manpower=255300
+	
+	state_category = large_city
+	
+history={
+		owner = ALC
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 3
+			3135 = {
+			bunker = 3
+			}
+			}
+		add_core_of = ALC 
+		victory_points = {
+			6619 20 
+		}
+	}
+	provinces={
+		612 2117 3135 3573 3685 4037 4041 6334 6380 6392 6410 6428 6449 6472 6487 6526 6540 6582 6600 6619 6709 6792 
+	}
+}

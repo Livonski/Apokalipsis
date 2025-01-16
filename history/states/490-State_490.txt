@@ -1,0 +1,29 @@
+state={
+	id=490
+	name="STATE_490"
+	manpower=79300
+	resources = {
+			aluminium = 12
+			Steel = 18
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = SVG
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			9201 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = SVG 
+		victory_points = {
+			9201 15 
+		}
+	}
+	provinces={
+		2309 3375 8879 8970 9060 9167 9201 
+	}
+}

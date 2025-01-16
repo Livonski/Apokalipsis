@@ -1,0 +1,29 @@
+state={
+	id=512
+	name="STATE_512"
+	manpower=208500
+	
+	state_category = metropolis
+	
+	history={
+		owner = CRT
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 2
+			industrial_complex = 2
+			dockyard = 1
+			anti_air_building = 1
+			8995 = {
+			naval_base = 3
+			}
+			}
+		add_core_of = CRT 
+		victory_points = {
+			8910 20 
+		}
+	}
+	provinces={
+		8910 8911 8995 
+	}
+}

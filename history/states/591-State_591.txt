@@ -1,0 +1,26 @@
+state={
+	id=591
+	name="STATE_591"
+	manpower=2400
+	resources = {
+			oil = 7
+	}
+	
+	state_category = pastoral
+	
+	history={
+		owner = IRI
+		buildings = {
+			1483 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = IRI 
+		victory_points = {
+			9639 1 
+		}
+	}
+	provinces={
+		1483 9639 
+	}
+}

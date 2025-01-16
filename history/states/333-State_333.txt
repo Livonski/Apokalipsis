@@ -1,0 +1,28 @@
+state={
+	id=333
+	name="STATE_333"
+	manpower=1093400
+	resources = {
+			Oil = 12
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = BOC
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			}
+		add_core_of = BOC 
+		victory_points = {
+			7583 1 
+		}
+		victory_points = {
+			1890 3 
+		}
+	}
+	provinces={
+		158 382 880 992 1362 1890 2678 3198 3241 3410 7510 7542 7583 7594 7630 7654 7701 7741 7823 
+	}
+}

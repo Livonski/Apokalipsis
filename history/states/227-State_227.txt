@@ -1,0 +1,28 @@
+state={
+	id=227
+	name="STATE_227"
+	manpower=85400
+	resources = {
+			Oil = 20
+	}
+	
+	state_category = town
+	
+history={
+		owner = VOS
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			1455 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = VOS 
+		victory_points = {
+			1455 5 
+		}
+	}
+	provinces={
+		50 80 750 930 1022 1455 1874 2261 2573 2733 3156 3230 3399 3610 6384 6385 6456 6473 6537 6541 6542 6584 6594 6612 6634 6680 6722 6723 6754 6755 
+	}
+}

@@ -1,0 +1,23 @@
+state={
+	id=276
+	name="STATE_276"
+	manpower=87500
+	resources = {
+			Steel = 11
+			Tungsten = 4
+			Chromium = 3
+	}
+	
+	state_category = rural
+	
+history={
+		owner = BLH
+		add_core_of = BLH 
+		victory_points = {
+			1481 15 
+		}
+	}
+	provinces={
+		108 433 451 1128 1250 1433 1481 1494 1862 2017 2735 2805 3046 3439 3575 6969 6970 6981 7011 7039 7047 7048 7087 7126 7188 7223 7260 7283 7360 7380 7452 
+	}
+}

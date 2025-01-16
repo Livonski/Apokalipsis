@@ -1,0 +1,28 @@
+state={
+	id=498
+	name="STATE_498"
+	manpower=174000
+	
+	state_category = megalopolis
+	
+	history={
+		owner = INL
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 6
+			dockyard = 1
+			anti_air_building = 1
+			}
+		add_core_of = INL 
+		victory_points = {
+			9061 3 
+		}
+		victory_points = {
+			296 5 
+		}
+	}
+	provinces={
+		211 296 8959 8984 9040 9061 9115 
+	}
+}

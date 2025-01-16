@@ -1,0 +1,27 @@
+state={
+	id=355
+	name="STATE_355"
+	manpower=32500
+	resources = {
+			Oil = 11
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = BNR
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = BNR 
+		victory_points = {
+			2995 15 
+		}
+		victory_points = {
+			7981 3 
+		}
+	}
+	provinces={
+		585 841 2249 2677 2995 3175 3445 7746 7815 7883 7915 7923 7981 7982 8042 8112 8215 
+	}
+}

@@ -1,0 +1,31 @@
+state={
+	id=332
+	name="STATE_332"
+	manpower=235000
+	resources = {
+			Steel = 12
+	}
+	
+	state_category = town
+	
+	history={
+		owner = CPR
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+			970 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = CPR 
+		victory_points = {
+			970 5 
+		}
+		victory_points = {
+			2672 1 
+		}
+	}
+	provinces={
+		970 2672 7460 7494 7529 7563 7580 7653 7682 
+	}
+}

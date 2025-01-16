@@ -1,0 +1,32 @@
+state={
+	id=307
+	name="STATE_307"
+	manpower=546200
+	resources = {
+			Tungsten = 10
+	}
+	
+	state_category = city
+	
+	history={
+		owner = CGM
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 2
+			}
+		add_core_of = CGM 
+		victory_points = {
+			7306 30 
+		}
+		victory_points = {
+			1354 1 
+		}
+		victory_points = {
+			481 3 
+		}
+	}
+	provinces={
+		481 495 686 1354 2023 2122 2311 2698 2932 3062 3180 3468 3699 3967 7306 7334 7364 7365 7411 7419 7447 7475 7484 7499 7505 7536 7559 7560 
+	}
+}

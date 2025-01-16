@@ -1,0 +1,23 @@
+state={
+	id=502
+	name="STATE_502"
+	manpower=20900
+	resources = {
+			Steel = 32
+			chromium = 42
+			aluminium = 40
+	}
+	
+	state_category = pastoral
+	
+	history={
+		owner = SNK
+		add_core_of = SNK 
+		victory_points = {
+			144 5 
+		}
+	}
+	provinces={
+		260 718 853 1444 1556 1649 2004 2098 2271 2410 3423 3582 3618 3754 8967 9045 9054 9055 9131 9204 
+	}
+}

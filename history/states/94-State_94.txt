@@ -1,0 +1,26 @@
+state={
+	id=94
+	name="STATE_94"
+	manpower=1820400
+	
+	state_category = city
+	
+	history={
+		owner = ERM
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 2
+			}
+		add_core_of = ERM 
+		victory_points = {
+			4672 5 
+		}
+		victory_points = {
+			4721 15 
+		}
+	}
+	provinces={
+		106 256 635 1660 1690 1876 2135 2245 2497 2661 3941 4629 4659 4660 4663 4672 4674 4675 4682 4684 4685 4692 4696 4704 4705 4707 4712 4713 4720 4721 4730 4735 4742 4748 4756 
+	}
+}

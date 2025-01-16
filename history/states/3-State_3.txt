@@ -1,0 +1,21 @@
+state={
+	id=3
+	name="STATE_3"
+	manpower=5
+	
+	state_category = wasteland
+	
+	history={
+		owner = NHA
+		buildings = {
+			41 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = NHA 
+		}
+	provinces={
+		13 35 41 49 62 93 94 152 156 186 248 254 268 347 403 763 785 813 894 988 2159 2706 2839 3639 3816 4047 
+		}
+}
+

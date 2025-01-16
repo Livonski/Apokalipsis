@@ -1,0 +1,38 @@
+default = {
+	male = {
+		"GFX_Portrait_Skeleton_1"
+		"GFX_Portrait_Skeleton_2"
+		"GFX_Portrait_Skeleton_3"
+	}
+	female = {
+		"GFX_Portrait_Skeleton_1"
+		"GFX_Portrait_Skeleton_2"
+		"GFX_Portrait_Skeleton_3"
+	}
+	
+	army = {
+		male = {
+			"GFX_Portrait_Skeleton_1"
+			"GFX_Portrait_Skeleton_2"
+			"GFX_Portrait_Skeleton_3"
+		}
+		female = {
+			"GFX_Portrait_Skeleton_1"
+			"GFX_Portrait_Skeleton_2"
+			"GFX_Portrait_Skeleton_3"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Portrait_Skeleton_1"
+			"GFX_Portrait_Skeleton_2"
+			"GFX_Portrait_Skeleton_3"
+		}
+		female = {
+			"GFX_Portrait_Skeleton_1"
+			"GFX_Portrait_Skeleton_2"
+			"GFX_Portrait_Skeleton_3"
+		}
+	}
+}

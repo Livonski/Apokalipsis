@@ -1,0 +1,18 @@
+state={
+	id=160
+	name="STATE_160"
+	manpower=8200
+	
+	state_category = rural
+	
+	history={
+		owner = COB
+		buildings = {
+			air_base = 1
+			}
+		add_core_of = COB 
+	}
+	provinces={
+		755 850 1073 3086 3203 5512 5513 5553 5592 5611 5624 5647 5654 5675 5681 
+	}
+}

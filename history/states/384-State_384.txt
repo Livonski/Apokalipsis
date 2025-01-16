@@ -1,0 +1,25 @@
+state={
+	id=384
+	name="STATE_384"
+	manpower=252000
+	resources = {
+			Steel = 15
+	}
+	
+	state_category = city
+	
+	history={
+		owner = IAT
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 2
+			}
+		add_core_of = IAT 
+	}
+	provinces={
+		1729 3818 3919 8111 8158 8192 
+	}
+}

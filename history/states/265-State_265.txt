@@ -1,0 +1,26 @@
+state={
+	id=265
+	name="STATE_265"
+	manpower=90900
+	resources = {
+			Oil = 14
+			Rubber = 8
+	}
+	
+	state_category = town
+	
+history={
+		owner = CGM
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		add_core_of = CGM 
+		victory_points = {
+			6926 5 
+		}
+	}
+	provinces={
+		954 1146 2100 2921 3071 3695 6859 6860 6926 6933 7026 7083 7185 7186 7266 
+	}
+}

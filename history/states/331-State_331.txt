@@ -1,0 +1,21 @@
+state={
+	id=331
+	name="STATE_331"
+	manpower=29400
+	resources = {
+			Oil = 4
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = UNT
+		add_core_of = UNT 
+		victory_points = {
+			2797 1 
+		}
+	}
+	provinces={
+		120 434 956 2374 2717 2797 2917 3631 3813 7464 7534 7568 7597 7606 7632 7662 7697 7733 7783 7849 7859 
+	}
+}

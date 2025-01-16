@@ -1,0 +1,24 @@
+state={
+	id=387
+	name="STATE_387"
+	manpower=328000
+	resources = {
+			Oil = 12
+			Rubber = 8
+	}
+	
+	state_category = town
+	
+	history={
+		owner = BOC
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+			industrial_complex = 1
+			}
+		add_core_of = BOC 
+	}
+	provinces={
+		286 2584 3829 8107 8159 8213 8220 8251 
+	}
+}

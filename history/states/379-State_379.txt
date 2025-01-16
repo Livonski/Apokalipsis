@@ -1,0 +1,30 @@
+state={
+	id=379
+	name="STATE_379"
+	manpower=1182000
+	resources = {
+			aluminium = 12
+			Oil = 18
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = GEM
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+			}
+		add_core_of = GEM 
+		victory_points = {
+			8508 5 
+		}
+		victory_points = {
+			352 5 
+		}
+	}
+	provinces={
+		352 491 663 862 1210 2165 2378 2503 2656 2998 3004 3833 3979 8093 8154 8155 8212 8219 8373 8437 8508 8581 
+	}
+}

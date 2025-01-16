@@ -1,0 +1,24 @@
+state={
+	id=154
+	name="STATE_154"
+	manpower=4800
+	
+	state_category = town
+	
+	history={
+		owner = WRW
+		buildings = {
+			infrastructure = 1
+			5588 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = WRW 
+		victory_points = {
+			5588 1 
+		}
+	}
+	provinces={
+		539 1526 1878 2010 2267 2328 2814 3077 3650 3828 5366 5388 5446 5452 5501 5509 5541 5542 5543 5559 5563 5576 5588 5603 5607 5616 
+	}
+}

@@ -1,0 +1,24 @@
+state={
+	id=64
+	name="STATE_64"
+	manpower=4200
+	resources = {
+			Steel = 18
+	}
+	
+	state_category = town
+	
+	history={
+		owner = NLG
+		buildings = {
+			infrastructure = 2
+			}
+		add_core_of = NLG 
+		victory_points = {
+			870 3 
+		}
+	}
+	provinces={
+		870 1034 1466 1980 2984 3123 4387 4392 4449 
+	}
+}

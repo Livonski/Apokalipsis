@@ -1,0 +1,25 @@
+state={
+	id=556
+	name="STATE_556"
+	manpower=17300
+	resources = {
+			Steel = 14
+	}
+	
+	state_category = town
+	
+	history={
+		owner = PSS
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			}
+		add_core_of = PSS 
+		victory_points = {
+			9386 3 
+		}
+	}
+	provinces={
+		1867 9338 9346 9364 9369 9380 9386 9390 9396 9415 
+	}
+}

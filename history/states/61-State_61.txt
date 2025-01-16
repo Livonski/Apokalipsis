@@ -1,0 +1,29 @@
+state={
+	id=61
+	name="STATE_61"
+	manpower=865200
+	resources = {
+			chromium = 8
+	}
+	
+	state_category = city
+	
+	history={
+		owner = ERM
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+			}
+		add_core_of = ERM 
+		victory_points = {
+			4408 3 
+		}
+		victory_points = {
+			463 10 
+		}
+	}
+	provinces={
+		455 463 1256 1377 1379 1830 2583 2588 2846 3054 3109 3566 3781 3831 3845 4322 4334 4338 4341 4347 4366 4372 4379 4394 4408 4447 4465 4466 4482 
+	}
+}

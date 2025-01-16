@@ -1,0 +1,25 @@
+state={
+	id=156
+	name="STATE_156"
+	manpower=179000
+	resources = {
+			aluminium = 18
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = SCL
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			}
+		add_core_of = SCL 
+		victory_points = {
+			2138 5 
+		}
+	}
+	provinces={
+		746 945 1768 1807 1934 2138 2525 2611 2720 3210 3386 3739 5370 5461 5517 5518 5538 5583 5599 5604 5638 5678 
+	}
+}

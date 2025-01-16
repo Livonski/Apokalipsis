@@ -1,0 +1,25 @@
+state={
+	id=174
+	name="STATE_174"
+	manpower=58700
+	
+	state_category = large_town
+	
+	history={
+		owner = SMG
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		add_core_of = SMG 
+		victory_points = {
+			5875 3 
+		}
+		victory_points = {
+			3069 1 
+		}
+	}
+	provinces={
+		672 767 786 990 1080 2169 2220 2395 2489 3024 3069 3763 5618 5660 5672 5699 5750 5761 5808 5815 5822 5828 5843 5875 5903 5941 5973 
+	}
+}

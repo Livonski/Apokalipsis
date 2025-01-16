@@ -1,0 +1,26 @@
+state={
+	id=497
+	name="STATE_497"
+	manpower=38300
+	resources = {
+			Steel = 13
+			chromium = 6
+			Rubber = 6
+	}
+	
+	state_category = town
+	
+	history={
+		owner = SVG
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = SVG 
+		victory_points = {
+			8924 5 
+		}
+	}
+	provinces={
+		3303 8904 8924 
+	}
+}

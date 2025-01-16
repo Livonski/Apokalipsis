@@ -1,0 +1,16 @@
+state={
+	id=53
+	name="STATE_53"
+	manpower=30
+	
+	state_category = wasteland
+	
+	history={
+		owner = ARH
+		add_core_of = ARH 
+		}
+	provinces={
+		236 307 950 1518 2517 2756 4314 
+	}
+}
+

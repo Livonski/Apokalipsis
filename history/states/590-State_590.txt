@@ -1,0 +1,26 @@
+state={
+	id=590
+	name="STATE_590"
+	manpower=25300
+	resources = {
+			Steel = 13
+			Tungsten = 15
+			aluminium = 23
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = IRI
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = IRI 
+		victory_points = {
+			1361 1 
+		}
+	}
+	provinces={
+		579 1133 1361 9636 9645 9650 
+	}
+}

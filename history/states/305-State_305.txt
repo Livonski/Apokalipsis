@@ -1,0 +1,26 @@
+state={
+	id=305
+	name="STATE_305"
+	manpower=183300
+	resources = {
+			Steel = 46
+			Tungsten = 21
+	}
+	
+	state_category = town
+	
+	history={
+		owner = CGM
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			}
+		add_core_of = CGM 
+		victory_points = {
+			7292 10 
+		}
+	}
+	provinces={
+		73 1391 1750 1841 2293 2682 2752 3146 3568 3937 7220 7226 7247 7277 7292 7337 7388 7398 7412 7449 7467 7507 7520 7521 7570 7636 7650 7668 7669 7707 7757 
+	}
+}

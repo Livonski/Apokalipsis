@@ -1,0 +1,15 @@
+state={
+	id=322
+	name="STATE_322"
+	manpower=59300
+	
+	state_category = pastoral
+	
+	history={
+		owner = UNT
+		add_core_of = UNT 
+	}
+	provinces={
+		1683 2726 3025 3774 7513 7557 7565 7587 7623 7641 
+	}
+}

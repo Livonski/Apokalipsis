@@ -1,0 +1,27 @@
+state={
+	id=518
+	name="STATE_518"
+	manpower=73000
+	resources = {
+			oil = 3
+			Steel = 4
+			aluminium = 4
+	}
+	
+	state_category = town
+	
+	history={
+		owner = SVG
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			}
+		add_core_of = SVG 
+		victory_points = {
+			9085 5 
+		}
+	}
+	provinces={
+		9010 9011 9084 9085 9095 9151 9247 
+	}
+}

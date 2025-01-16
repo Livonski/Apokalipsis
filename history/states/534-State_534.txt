@@ -1,0 +1,27 @@
+state={
+	id=534
+	name="STATE_534"
+	manpower=247300
+	resources = {
+			aluminium = 7
+			chromium = 5
+	}
+	
+	state_category = large_city
+	
+	history={
+		owner = CPP
+		buildings = {
+			infrastructure = 2
+			arms_factory = 4
+			industrial_complex = 1
+			}
+		add_core_of = CPP 
+		victory_points = {
+			9199 30 
+		}
+	}
+	provinces={
+		9150 9199 9226 
+	}
+}

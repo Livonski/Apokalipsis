@@ -1,0 +1,18 @@
+state={
+	id=553
+	name="STATE_553"
+	manpower=11900
+	resources = {
+			oil = 16
+	}
+	
+	state_category = pastoral
+	
+	history={
+		owner = SNK
+		add_core_of = SNK 
+	}
+	provinces={
+		311 1032 1599 1675 2808 3644 3913 9301 9332 9343 9400 9456 
+	}
+}

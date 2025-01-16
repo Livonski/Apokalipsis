@@ -1,0 +1,21 @@
+state={
+	id=378
+	name="STATE_378"
+	manpower=174300
+	
+	state_category = pastoral
+	
+	history={
+		owner = BDO
+		buildings = {
+			industrial_complex = 1
+			}
+		add_core_of = BDO 
+		victory_points = {
+			8106 10 
+		}
+	}
+	provinces={
+		627 895 965 3383 8040 8052 8061 8106 8117 
+	}
+}

@@ -1,0 +1,26 @@
+state={
+	id=585
+	name="STATE_585"
+	manpower=137000
+	resources = {
+			Steel = 2
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = IRI
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			dockyard = 1
+			}
+		add_core_of = IRI 
+		victory_points = {
+			9616 20 
+		}
+	}
+	provinces={
+		642 1746 2789 9614 9616 9617 9622 9625 9628 
+	}
+}

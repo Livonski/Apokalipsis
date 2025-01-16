@@ -1,0 +1,25 @@
+state={
+	id=383
+	name="STATE_383"
+	manpower=26500
+	resources = {
+			Steel = 12
+	}
+	
+	state_category = town
+	
+	history={
+		owner = TRF
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		add_core_of = TRF 
+		victory_points = {
+			2960 3 
+		}
+	}
+	provinces={
+		924 1682 1943 2186 2960 3408 3417 3426 8049 8148 8181 8203 8216 8237 8293 8339 
+	}
+}

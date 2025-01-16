@@ -1,0 +1,22 @@
+state={
+	id=179
+	name="STATE_179"
+	manpower=102300
+	
+	state_category = city
+	
+	history={
+		owner = COB
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			}
+		add_core_of = COB 
+		victory_points = {
+			5906 5 
+		}
+	}
+	provinces={
+		1758 3531 5763 5797 5834 5846 5906 
+	}
+}

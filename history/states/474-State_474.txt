@@ -1,0 +1,32 @@
+state={
+	id=474
+	name="STATE_474"
+	manpower=939000
+	
+	state_category = large_city
+	
+	history={
+		owner = BFZ
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+			8935 = {
+			naval_base = 3
+			}
+			}
+		add_core_of = BFZ 
+		victory_points = {
+			8935 50 
+		}
+		victory_points = {
+			8784 5 
+		}
+		victory_points = {
+			9016 5 
+		}
+	}
+	provinces={
+		290 1932 2782 3095 3306 8728 8762 8784 8785 8813 8849 8850 8863 8882 8935 8936 8987 9016 9089 
+	}
+}

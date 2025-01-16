@@ -1,0 +1,28 @@
+state={
+	id=514
+	name="STATE_514"
+	manpower=87400
+	resources = {
+			oil = 4
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = CPP
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			3654 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = CPP 
+		victory_points = {
+			3654 10 
+		}
+	}
+	provinces={
+		1252 1858 2022 3274 3654 8982 9139 9162 9212 9227 
+	}
+}

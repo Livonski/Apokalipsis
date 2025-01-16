@@ -1,0 +1,21 @@
+state={
+	id=455
+	name="STATE_455"
+	manpower=73000
+	resources = {
+			oil = 8
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = CDS
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = CDS 
+	}
+	provinces={
+		3060 3542 8613 
+	}
+}

@@ -1,0 +1,28 @@
+state={
+	id=192
+	name="STATE_192"
+	manpower=139200
+	
+	state_category = city
+	
+	history={
+		owner = ALC
+		buildings = {
+			infrastructure = 2
+			dockyard = 2
+			6132 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = ALC 
+		victory_points = {
+			6132 5 
+		}
+		victory_points = {
+			6303 1 
+		}
+	}
+	provinces={
+		40 574 667 748 904 1181 1438 1545 2024 2667 3537 3768 5993 6042 6056 6062 6095 6104 6105 6132 6140 6154 6168 6169 6195 6211 6216 6259 6302 6303 6317 6318 6352 6366 6367 6411 6438 
+	}
+}

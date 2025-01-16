@@ -1,0 +1,25 @@
+state={
+	id=215
+	name="STATE_215"
+	manpower=121500
+	resources = {
+			oil = 8
+	}
+	
+	state_category = city
+	
+	history={
+		owner = ALC
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			}
+		add_core_of = ALC 
+		victory_points = {
+			6315 1 
+		}
+	}
+	provinces={
+		737 781 979 1163 1549 2357 2826 3983 6210 6225 6237 6246 6254 6262 6268 6307 6315 6316 6338 6364 6365 6376 
+	}
+}

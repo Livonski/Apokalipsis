@@ -1,0 +1,28 @@
+state={
+	id=299
+	name="STATE_299"
+	manpower=143400
+	resources = {
+			aluminium = 8
+	}
+	
+	state_category = town
+	
+history={
+		owner = CPR
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+			7368 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = CPR 
+		victory_points = {
+			7379 3 
+		}
+	}
+	provinces={
+		109 519 716 2058 2063 2187 2337 2861 2994 3036 3267 3378 3477 7136 7212 7351 7352 7368 7369 7379 7425 7451 7523 7530 7573 7601 
+	}
+}

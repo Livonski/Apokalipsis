@@ -1,0 +1,24 @@
+state={
+	id=284
+	name="STATE_284"
+	manpower=70100
+	
+	state_category = rural
+	
+history={
+		owner = BOC
+		buildings = {
+			infrastructure = 1
+			7280 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = BOC 
+		victory_points = {
+			7214 1 
+		}
+	}
+	provinces={
+		1004 2107 2952 7108 7109 7146 7172 7214 7239 7280 
+	}
+}

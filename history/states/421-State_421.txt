@@ -1,0 +1,27 @@
+state={
+	id=421
+	name="STATE_421"
+	manpower=71000
+	resources = {
+			Chromium = 4
+			aluminium = 8
+	}
+	
+	state_category = city
+	
+	history={
+		owner = TRF
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			arms_factory = 1
+			}
+		add_core_of = TRF 
+		victory_points = {
+			8549 5 
+		}
+	}
+	provinces={
+		389 601 621 2919 3251 3324 3451 3510 3651 3694 4045 8346 8387 8442 8505 8549 8597 8670 8706 
+	}
+}

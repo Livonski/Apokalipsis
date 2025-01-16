@@ -1,0 +1,25 @@
+state={
+	id=484
+	name="STATE_484"
+	manpower=106000
+	
+	state_category = city
+	
+	history={
+		owner = CMU
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			565 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = CMU 
+		victory_points = {
+			565 15 
+		}
+	}
+	provinces={
+		565 8818 8921 9094 
+	}
+}

@@ -1,0 +1,28 @@
+state={
+	id=258
+	name="STATE_258"
+	manpower=1740000
+	
+	state_category = megalopolis
+	
+history={
+		owner = UCP
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 6
+			dockyard = 1
+			anti_air_building = 1
+			1965 = {
+			naval_base = 4
+			}
+			}
+		add_core_of = UCP 
+		victory_points = {
+			1965 50 
+		}
+	}
+	provinces={
+		1965 6786 6870 
+	}
+}

@@ -1,0 +1,30 @@
+state={
+	id=249
+	name="STATE_249"
+	manpower=205500
+	
+	state_category = metropolis
+	
+history={
+		owner = ALC
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 2
+			dockyard = 2
+			6611 = {
+			naval_base = 5
+			}
+			}
+		add_core_of = ALC 
+		victory_points = {
+			6693 30 
+		}
+		victory_points = {
+			653 1 
+		}
+	}
+	provinces={
+		653 6576 6611 6633 6679 6693 6760 
+	}
+}

@@ -1,0 +1,33 @@
+state={
+	id=43
+	name="STATE_43"
+	manpower=50
+	
+	state_category = rural
+	
+	history={
+		owner = FPA
+		buildings = {
+			infrastructure = 5
+			3904 = {
+			bunker = 10
+			}
+			4252 = {
+			bunker = 10
+			}
+			3652 = {
+			bunker = 10
+			}
+			4264 = {
+			bunker = 10
+			}
+			1542 = {
+			bunker = 10
+			}
+			}
+		add_core_of = FPA 
+		}
+	provinces={
+		1542 3652 3904 4252 4258 4264 
+	}
+}

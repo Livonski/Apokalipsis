@@ -1,0 +1,24 @@
+state={
+	id=586
+	name="STATE_586"
+	manpower=41900
+	resources = {
+			oil = 11
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = IRI
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = IRI 
+		victory_points = {
+			3991 3 
+		}
+	}
+	provinces={
+		1477 3576 3690 3991 9618 9620 9621 9626 9630 9638 9640 9646 9648 
+	}
+}

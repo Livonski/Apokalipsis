@@ -1,0 +1,22 @@
+state={
+	id=438
+	name="STATE_438"
+	manpower=206400
+	
+	state_category = large_town
+	
+	history={
+		owner = INL
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			}
+		add_core_of = INL 
+		victory_points = {
+			8699 15 
+		}
+	}
+	provinces={
+		916 8484 8584 8699 8783 
+	}
+}

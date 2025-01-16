@@ -1,0 +1,29 @@
+state={
+	id=100
+	name="STATE_100"
+	manpower=875000
+	resources = {
+			Steel = 4
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = ERM
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			dockyard = 1
+			}
+		add_core_of = ERM 
+		victory_points = {
+			4796 1 
+		}
+		victory_points = {
+			3585 5 
+		}
+	}
+	provinces={
+		343 423 820 1030 1132 1893 2110 2426 2818 2972 3517 3585 3646 3656 3661 3777 4724 4727 4749 4757 4760 4763 4765 4777 4778 4779 4784 4785 4789 4796 4797 4800 4803 4810 4811 4813 4816 4821 4822 4828 4829 4834 4836 4837 4838 4840 4846 4855 4856 4864 
+	}
+}

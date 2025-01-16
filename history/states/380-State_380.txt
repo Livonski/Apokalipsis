@@ -1,0 +1,29 @@
+state={
+	id=380
+	name="STATE_380"
+	manpower=48300
+	resources = {
+			Steel = 38
+			Tungsten = 12
+	}
+	
+	state_category = town
+	
+	history={
+		owner = TRF
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+			}
+		add_core_of = TRF 
+		victory_points = {
+			8091 3 
+		}
+		victory_points = {
+			8236 1 
+		}
+	}
+	provinces={
+		671 1062 1158 1370 1753 2244 2460 2786 3028 3129 3508 3778 8027 8070 8079 8091 8152 8163 8180 8235 8236 8249 8291 8292 8307 8356 8409 
+	}
+}

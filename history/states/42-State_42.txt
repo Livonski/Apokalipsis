@@ -1,0 +1,18 @@
+state={
+	id=42
+	name="STATE_42"
+	manpower=30
+	
+	state_category = wasteland
+	
+	history={
+		owner = ARH
+		add_core_of = ARH 
+		victory_points = {
+			141 15 
+		}
+	}
+	provinces={
+		141 338 3580 4248 
+	}
+}

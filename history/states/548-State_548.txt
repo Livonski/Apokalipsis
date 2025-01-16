@@ -1,0 +1,28 @@
+state={
+	id=548
+	name="STATE_548"
+	manpower=425900
+	resources = {
+			Steel = 4
+	}
+	
+	state_category = town
+	
+	history={
+		owner = DWO
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			}
+		add_core_of = DWO 
+		victory_points = {
+			3602 20 
+		}
+		victory_points = {
+			1559 1 
+		}
+	}
+	provinces={
+		72 1085 1261 1559 2819 2939 3090 3602 3915 9263 9296 9337 9373 9374 9388 9394 9428 
+	}
+}

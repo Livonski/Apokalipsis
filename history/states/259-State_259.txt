@@ -1,0 +1,25 @@
+state={
+	id=259
+	name="STATE_259"
+	manpower=122500
+	resources = {
+			Steel = 12
+			Tungsten = 7
+	}
+	
+	state_category = rural
+	
+history={
+		owner = GEM
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = GEM 
+		victory_points = {
+			2413 1 
+		}
+	}
+	provinces={
+		175 1246 1598 2181 2413 3849 6758 6776 6790 6809 6842 6862 6871 6917 6955 
+	}
+}

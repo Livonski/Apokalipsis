@@ -1,0 +1,26 @@
+state={
+	id=543
+	name="STATE_543"
+	manpower=53000
+	resources = {
+			Tungsten = 3
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = CPP
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+			}
+		add_core_of = CPP 
+		victory_points = {
+			2646 10 
+		}
+	}
+	provinces={
+		2646 9235 9236 9237 9273 9291 9309 
+	}
+}

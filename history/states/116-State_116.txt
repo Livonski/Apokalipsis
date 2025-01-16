@@ -1,0 +1,30 @@
+state={
+	id=116
+	name="STATE_116"
+	manpower=278000
+	
+	state_category = large_town
+	
+	history={
+		owner = SCL
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			industrial_complex = 1
+			dockyard = 1
+			4003 = {
+			naval_base = 3
+			}
+			}
+		add_core_of = SCL 
+		victory_points = {
+			4003 10 
+		}
+		victory_points = {
+			4997 3 
+		}
+	}
+	provinces={
+		251 626 901 1027 1098 2633 2745 3446 3543 4003 4871 4878 4894 4907 4926 4940 4959 4970 4971 4985 4997 5005 5024 5028 5042 5043 5058 
+	}
+}

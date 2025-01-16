@@ -1,0 +1,25 @@
+state={
+	id=85
+	name="STATE_85"
+	manpower=292000
+	resources = {
+			Steel = 6
+	}
+	
+	state_category = town
+	
+	history={
+		owner = ERM
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+			}
+		add_core_of = ERM 
+		victory_points = {
+			4690 5 
+		}
+	}
+	provinces={
+		452 506 730 795 1088 1538 1553 1699 1722 1735 2336 2595 3059 4546 4547 4580 4581 4598 4603 4620 4642 4647 4669 4681 4690 4691 4701 
+	}
+}

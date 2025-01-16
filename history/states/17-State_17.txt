@@ -1,0 +1,28 @@
+state={
+	id=17
+	name="STATE_17"
+	manpower=5300
+	resources = {
+			oil = 3
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = OGV
+		buildings = {
+			infrastructure = 2
+			4140 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = OGV 
+		victory_points = {
+			4140 5 
+		}
+	}
+	provinces={
+		209 472 944 1101 1202 1415 1576 1818 2183 2459 2802 3291 3373 3635 4081 4083 4090 4094 4095 4100 4103 4107 4111 4112 4115 4118 4122 4123 4124 4128 4131 4133 4134 4138 4139 4140 4141 4144 
+	}
+}
+

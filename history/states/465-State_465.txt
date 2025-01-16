@@ -1,0 +1,28 @@
+state={
+	id=465
+	name="STATE_465"
+	manpower=88800
+	resources = {
+			aluminium = 28
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = BFZ
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+			}
+		add_core_of = BFZ 
+		victory_points = {
+			8775 1 
+		}
+		victory_points = {
+			3775 1 
+		}
+	}
+	provinces={
+		243 710 777 832 1376 1895 2195 2312 2534 2764 3775 3824 3840 8668 8729 8738 8774 8775 8806 8938 9017 9032 9078 9254 9305 
+	}
+}

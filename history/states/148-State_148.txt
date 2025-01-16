@@ -1,0 +1,25 @@
+state={
+	id=148
+	name="STATE_148"
+	manpower=95400
+	resources = {
+			Steel = 20
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = SCL
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			}
+		add_core_of = SCL 
+		victory_points = {
+			3013 15 
+		}
+	}
+	provinces={
+		219 492 1043 1122 1498 1706 1740 2264 2275 2317 2523 2821 3013 3615 3884 5251 5252 5260 5276 5283 5298 5299 5300 5319 5336 5343 5369 5384 5414 5415 5428 5438 5449 5455 5468 5469 5498 5516 5528 5546 5573 
+	}
+}

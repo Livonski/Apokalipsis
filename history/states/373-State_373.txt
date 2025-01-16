@@ -1,0 +1,22 @@
+state={
+	id=373
+	name="STATE_373"
+	manpower=19300
+	resources = {
+			Steel = 4
+			Oil = 3
+	}
+	
+	state_category = pastoral
+	
+	history={
+		owner = BNR
+		add_core_of = BNR 
+		victory_points = {
+			1736 3 
+		}
+	}
+	provinces={
+		1 689 1279 1564 1723 1736 2021 2724 3519 3953 8056 8133 8230 8231 8305 8344 8394 8406 8422 8466 
+	}
+}

@@ -1,0 +1,26 @@
+state={
+	id=466
+	name="STATE_466"
+	manpower=209400
+	resources = {
+			Rubber = 12
+	}
+	
+	state_category = megalopolis
+	
+	history={
+		owner = TRF
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 4
+			}
+		add_core_of = TRF 
+		victory_points = {
+			3956 40 
+		}
+	}
+	provinces={
+		3956 8722 
+	}
+}

@@ -1,0 +1,18 @@
+state={
+	id=97
+	name="STATE_97"
+	manpower=210
+	resources = {
+			oil = 12
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = WRW
+		add_core_of = WRW 
+		}
+	provinces={
+		118 281 308 369 561 572 664 805 1092 1604 1941 2304 2544 2605 3384 4005 4896 5234 5272 5301 5323 5367 5373 
+	}
+}

@@ -1,0 +1,21 @@
+state={
+	id=165
+	name="STATE_165"
+	manpower=1700
+	
+	state_category = rural
+	
+	history={
+		owner = CGM
+		buildings = {
+			infrastructure = 1
+			5639 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = CGM 
+		}
+	provinces={
+		3905 5521 5532 5587 5639 5649 
+	}
+}

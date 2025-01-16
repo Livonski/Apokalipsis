@@ -1,0 +1,329 @@
+TST = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+#ЖР
+IRI = {
+	color = rgb { 63 72 204 }
+	color_ui = rgb { 0 0 204 }
+	}
+#Орлы
+EAG = {
+	color = rgb { 194 99 99 }
+	color_ui = rgb { 153 80 80 }
+	}
+#Нордпорт
+NRD = {
+	color = rgb { 96 214 229 }
+	color_ui = rgb { 81 181 194 }
+	}
+#Новый порядок
+NPR = {
+	color = rgb { 222 240 250 }
+	color_ui = rgb { 209 225 235 }
+	}
+#Северное войско мертвых
+NHA = {
+	color = rgb { 245 120 232 }
+	color_ui = rgb { 229 110 218 }
+	}
+#Таинственный остров
+MSL = {
+	color = rgb { 173 173 173 }
+	color_ui = rgb { 161 161 161 }
+	}
+#Забытые острова
+FIS = {
+	color = rgb { 170 255 117 }
+	color_ui = rgb { 149 222 104 }
+	}
+#Старое правительство
+OGV = {
+	color = rgb { 105 182 255 }
+	color_ui = rgb { 97 167 232 }
+	}
+#Оборотни
+WRW = {
+	color = rgb { 125 125 125 }
+	color_ui = rgb { 106 106 107 }
+	}
+#Пилоты корка
+PLK = {
+	color = rgb { 143 234 255 }
+	color_ui = rgb { 116 194 212 }
+	}
+#Асы
+ACS = {
+	color = rgb { 102 102 102 }
+	color_ui = rgb { 89 89 89 }
+	}
+#Северная лига
+NLG = {
+	color = rgb { 0 0 255 }
+	color_ui = rgb { 0 0 204 }
+	}
+#Мятежные оборотнеборцы
+RWF = {
+	color = rgb { 23 34 130 }
+	color_ui = rgb { 19 28 102 }
+	}
+#СГПЗ
+UCP = {
+	color = rgb { 152 126 50 }
+	color_ui = rgb { 122 102 40 }
+	}
+#Племя Гиссера (Племя бедуинов 2)
+BDT = {
+	color = rgb { 255 222 125 }
+	color_ui = rgb { 204 180 106 }
+	}
+#Табуны Матери Альмары (Племя бедуинов 1)
+BDO = {
+	color = rgb { 255 222 125 }
+	color_ui = rgb { 204 180 106 }
+	}
+#Орда Мансура (Племя бедуинов 3)
+BDH = {
+	color = rgb { 255 222 125 }
+	color_ui = rgb { 204 180 106 }
+	}
+#Пираты султана Хиджита - Племя бедуинов 4
+BDF = {
+	color = rgb { 255 222 125 }
+	color_ui = rgb { 204 180 106 }
+	}
+#Община урламы
+CMU = {
+	color = rgb { 34 115 61 }
+	color_ui = rgb { 25 79 43 }
+	}
+#Синдикат
+SNK = {
+	color = rgb { 56 56 56 }
+	color_ui = rgb { 30 31 30 }
+	}
+#Арахниды
+ARH = {
+	color = rgb { 216 150 209 }
+	color_ui = rgb { 173 120 168 }
+	}
+#Фауна
+FAU = {
+	color = rgb { 0 143 48 }
+	color_ui = rgb { 0 105 35 }
+	}
+#СПА
+FPA = {
+	color = rgb { 142 77 196 }
+	color_ui = rgb { 107 60 145 }
+	}
+#Темнолесье
+DWO = {
+	color = rgb { 239 228 176 }
+	color_ui = rgb { 191 184 145 }
+	}
+#Пираты архипелагеи
+PAH = {
+	color = rgb { 71 68 74 }
+	color_ui = rgb { 47 45 48 }
+	}
+#Остров Ате
+IAT = {
+	color = rgb { 117 136 151 }
+	color_ui = rgb { 79 92 102 }
+	}
+#ТФ
+TRF = {
+	color = rgb { 34 177 76 }
+	color_ui = rgb { 23 115 50 }
+	}
+#Гномы хребта
+GNR = {
+	color = rgb { 255 255 128 }
+	color_ui = rgb { 207 207 105 }
+	}
+#Конгломерат
+CGM = {
+	color = rgb { 127 127 127 }
+	color_ui = rgb { 79 79 79 }
+	}
+#Полуостровное государство
+PSS = {
+	color = rgb { 181 230 29 }
+	color_ui = rgb { 128 163 21 }
+	}
+#Киль
+KIL = {
+	color = rgb { 102 138 104 }
+	color_ui = rgb { 77 102 78 }
+	}
+#Рейдеры Мэйда
+MRE = {
+	color = rgb { 255 174 40 }
+	color_ui = rgb { 150 103 26 }
+	}
+#Буферная зона
+BFZ = {
+	color = rgb { 234 182 0 }
+	color_ui = rgb { 168 132 0 }
+	}
+#Станция мангутай
+MST = {
+	color = rgb { 128 128 0 }
+	color_ui = rgb { 97 97 0 }
+	}
+#Рейдеры Борна
+BNR = {
+	color = rgb { 112 146 190 }
+	color_ui = rgb { 89 114 148 }
+	}
+#Индустриальные земли
+INL = {
+	color = rgb { 255 127 39 }
+	color_ui = rgb { 189 96 34 }
+	}
+#ПАТР
+PTR = {
+	color = rgb { 71 177 117 }
+	color_ui = rgb { 50 122 81 }
+	}
+#Мусорщики
+SVG = {
+	color = rgb { 179 45 125 }
+	color_ui = rgb { 112 30 79 }
+	}
+#Капписты	
+CPP = {
+	color = rgb { 237 28 36 }
+	color_ui = rgb { 158 19 24 }
+	}
+#Племена
+TBS = {
+	color = rgb { 194 87 132 }
+	color_ui = rgb { 143 64 97 }
+	}
+#Эллисты
+	ELI = {
+	color = rgb { 101 175 194 }
+	color_ui = rgb { 84 141 156 }
+	}
+#Снайперы каньона
+	CSN = {
+	color = rgb { 224 174 74 }
+	color_ui = rgb { 181 141 62 }
+	}
+#Кадийские штаты
+	CDS = {
+	color = rgb { 255 242 0 }
+	color_ui = rgb { 189 179 0 }
+	}
+#Торговая Конфедерация
+	TCN = {
+	color = rgb { 211 84 56 }
+	color_ui = rgb { 166 76 56 }
+	}
+#Бандиты склона
+	SLB = {
+	color = rgb { 84 66 62 }
+	color_ui = rgb { 48 38 36 }
+	}
+#Исправительные колонии ОТ
+	PCO = {
+	color = rgb { 0 162 232 }
+	color_ui = rgb { 0 137 196 }
+	}
+#Объединенные Территории
+	UNT = {
+	color = rgb { 0 162 232 }
+	color_ui = rgb { 0 137 196 }
+	}
+#Анархисты
+	ANH = {
+	color = rgb { 65 65 65 }
+	color_ui = rgb { 28 28 28 }
+	}
+#Кевларовое братство
+	KLB = {
+	color = rgb { 134 77 78 }
+	color_ui = rgb { 102 60 61 }
+	}
+#Бандиты Ротпорта
+	RPB = {
+	color = rgb { 29 29 29 }
+	color_ui = rgb { 15 15 15 }
+	}
+#Эррум
+	ERM = {
+	color = rgb { 255 128 128 }
+	color_ui = rgb { 196 102 102 }
+	}
+#Губы
+	LIP = {
+	color = rgb { 85 223 19 }
+	color_ui = rgb { 65 171 15 }
+	}
+#Зона влияния Корнсби
+	COB = {
+	color = rgb { 182 182 182 }
+	color_ui = rgb { 105 105 105 }
+	}
+#Выжженные Земли
+	SCL = {
+	color = rgb { 0 64 0 }
+	color_ui = rgb { 0 40 0 }
+	}
+#Камаляхтича
+	KMT = {
+	color = rgb { 102 247 102 }
+	color_ui = rgb { 78 181 78 }
+	}
+#Укуренные
+	STN = {
+	color = rgb { 131 164 108 }
+	color_ui = rgb { 102 125 85 }
+	}
+#Сланцевые Угодники (вассалы укуренных)
+	VOS = {
+	color = rgb { 131 164 108 }
+	color_ui = rgb { 102 125 85 }
+	}
+#Родина
+	MHL = {
+	color = rgb { 154 173 90 }
+	color_ui = rgb { 114 127 68 }
+	}
+#Смог
+	SMG = {
+	color = rgb { 194 54 54 }
+	color_ui = rgb { 145 45 45 }
+	}
+#Альянс
+	ALC = {
+	color = rgb { 64 0 64 }
+	color_ui = rgb { 36 0 36 }
+	}
+#Бароны Дона (протекторат Картеля)
+	CPR = {
+	color = rgb { 195 195 195 }
+	color_ui = rgb { 135 135 135 }
+	}
+#Кровавая Орда
+	BLH = {
+	color = rgb { 255 174 201 }
+	color_ui = rgb { 196 137 157 }
+	}
+#Картель
+	CRT = {
+	color = rgb { 195 195 195 }
+	color_ui = rgb { 135 135 135 }
+	}
+#Клан Костей
+	BOC = {
+	color = rgb { 185 122 87 }
+	color_ui = rgb { 145 95 68 }
+	}
+#Империя Гремлинов
+	GEM = {
+	color = rgb { 136 0 21 }
+	color_ui = rgb { 84 1 13 }
+	}

@@ -1,0 +1,22 @@
+state={
+	id=580
+	name="STATE_580"
+	manpower=253000
+	
+	state_category = rural
+	
+	history={
+		owner = DWO
+		buildings = {
+			infrastructure = 1
+			dockyard = 1
+			}
+		add_core_of = DWO 
+		victory_points = {
+			9532 1 
+		}
+	}
+	provinces={
+		1496 2817 3625 3846 9525 9526 9532 9534 9539 9541 9546 9551 9557 9562 9571 9573 
+	}
+}

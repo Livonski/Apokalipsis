@@ -1,0 +1,23 @@
+state={
+	id=364
+	name="STATE_364"
+	manpower=18400
+	resources = {
+			Steel = 26
+			Tungsten = 18
+			Chromium = 14
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = GNR
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = GNR 
+	}
+	provinces={
+		42 964 1439 1760 2486 3603 7863 7901 7917 7962 7992 8019 8047 8058 8069 8109 
+	}
+}

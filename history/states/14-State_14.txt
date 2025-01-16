@@ -1,0 +1,27 @@
+state={
+	id=14
+	name="STATE_14"
+	manpower=52000
+	resources = {
+			oil = 8
+	}
+	
+	state_category = town
+	
+	history={
+		owner = NPR
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			dockyard = 1
+			}
+		add_core_of = NPR 
+		victory_points = {
+			2626 5 
+		}
+	}
+	provinces={
+		328 1783 2247 2257 2626 3992 4086 4093 4097 4099 4101 4102 4109 4110 4121 4130 
+	}
+}
+

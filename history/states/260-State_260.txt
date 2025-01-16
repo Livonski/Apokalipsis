@@ -1,0 +1,15 @@
+state={
+	id=260
+	name="STATE_260"
+	manpower=82400
+	
+	state_category = rural
+	
+history={
+		owner = UNT
+		add_core_of = UNT 
+	}
+	provinces={
+		505 1513 2653 2894 3072 3217 3292 3999 6728 6746 6797 6820 6889 6899 6920 6937 6988 7004 7021 7053 7072 7090 7117 
+	}
+}

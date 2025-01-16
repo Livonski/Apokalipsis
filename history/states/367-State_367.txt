@@ -1,0 +1,26 @@
+state={
+	id=367
+	name="STATE_367"
+	manpower=32500
+	
+	state_category = town
+	
+	history={
+		owner = TRF
+		buildings = {
+			infrastructure = 2
+			air_base = 4
+			dockyard = 1
+			7984 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = TRF 
+		victory_points = {
+			7984 5 
+		}
+	}
+	provinces={
+		1207 1996 2356 3174 3270 3669 7942 7984 8020 8051 8080 8081 8136 8210 
+	}
+}

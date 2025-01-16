@@ -1,0 +1,23 @@
+state={
+	id=571
+	name="STATE_571"
+	manpower=63000
+	resources = {
+			oil = 43
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = SNK
+		buildings = {
+			9560 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = SNK 
+	}
+	provinces={
+		275 694 884 999 1461 1487 1766 2013 2427 2811 3240 3588 3965 9495 9500 9507 9508 9511 9512 9516 9519 9524 9529 9531 9536 9545 9548 9555 9556 9560 9567 
+	}
+}

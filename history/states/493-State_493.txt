@@ -1,0 +1,25 @@
+state={
+	id=493
+	name="STATE_493"
+	manpower=538000
+	resources = {
+			Steel = 13
+	}
+	
+	state_category = large_city
+	
+	history={
+		owner = CDS
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			}
+		add_core_of = CDS 
+		victory_points = {
+			933 15 
+		}
+	}
+	provinces={
+		933 2246 3068 8958 9046 9122 
+	}
+}

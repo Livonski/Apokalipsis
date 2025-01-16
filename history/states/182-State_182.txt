@@ -1,0 +1,25 @@
+state={
+	id=182
+	name="STATE_182"
+	manpower=532500
+	resources = {
+			oil = 36
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = UCP
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			}
+		add_core_of = UCP 
+		victory_points = {
+			5901 1 
+		}
+	}
+	provinces={
+		95 1001 1596 1761 2924 3765 3806 5736 5737 5738 5741 5792 5793 5806 5812 5813 5855 5868 5901 5919 5948 5960 5980 6038 
+	}
+}

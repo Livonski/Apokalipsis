@@ -1,0 +1,23 @@
+state={
+	id=290
+	name="STATE_290"
+	manpower=140600
+	
+	state_category = town
+	
+history={
+		owner = UNT
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			arms_factory = 1
+			}
+		add_core_of = UNT 
+		victory_points = {
+			1035 1 
+		}
+	}
+	provinces={
+		414 1035 1727 2823 7110 7154 7230 7319 7361 
+	}
+}

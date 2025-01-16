@@ -1,0 +1,21 @@
+state={
+	id=500
+	name="STATE_500"
+	manpower=72400
+	
+	state_category = rural
+	
+	history={
+		owner = MRE
+		add_core_of = MRE 
+		victory_points = {
+			8929 5 
+		}
+		victory_points = {
+			9144 1 
+		}
+	}
+	provinces={
+		184 206 370 375 504 631 1456 1885 2149 2197 3434 3495 3711 3722 8873 8929 8949 8950 8972 8973 8988 8989 9025 9033 9079 9092 9098 9124 9143 9144 9145 9165 9173 9205 9218 9219 9220 9259 
+	}
+}

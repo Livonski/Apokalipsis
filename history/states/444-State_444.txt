@@ -1,0 +1,26 @@
+state={
+	id=444
+	name="STATE_444"
+	manpower=248300
+	
+	state_category = megalopolis
+	
+	history={
+		owner = TRF
+		buildings = {
+			infrastructure = 5
+			arms_factory = 2
+			industrial_complex = 7
+			}
+		add_core_of = TRF 
+		victory_points = {
+			8595 50 
+		}
+		victory_points = {
+			8702 5 
+		}
+	}
+	provinces={
+		1397 2650 8523 8544 8595 8686 8702 
+	}
+}

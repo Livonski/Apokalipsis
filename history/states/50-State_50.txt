@@ -1,0 +1,18 @@
+state={
+	id=50
+	name="STATE_50"
+	manpower=260
+	
+	state_category = rural
+	
+	history={
+		owner = ARH
+		add_core_of = ARH 
+		victory_points = {
+			3352 3 
+		}
+	}
+	provinces={
+		443 569 619 1312 2147 3352 4309 4310 4336 
+	}
+}

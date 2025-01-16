@@ -1,0 +1,22 @@
+state={
+	id=404
+	name="STATE_404"
+	manpower=394000
+	
+	state_category = city
+	
+	history={
+		owner = IAT
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			}
+		add_core_of = IAT 
+		victory_points = {
+			8368 10 
+		}
+	}
+	provinces={
+		1046 1716 1806 8300 8357 8368 
+	}
+}

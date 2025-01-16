@@ -1,0 +1,28 @@
+state={
+	id=59
+	name="STATE_59"
+	manpower=32500
+	resources = {
+			oil = 34
+	}
+	
+	state_category = city
+	
+	history={
+		owner = RPB
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			1505 = {
+			naval_base = 3
+			}
+			}
+		add_core_of = RPB 
+		victory_points = {
+			1505 15 
+		}
+	}
+	provinces={
+		417 1505 1532 1618 1801 2987 4331 4333 4345 4364 
+	}
+}

@@ -1,0 +1,24 @@
+state={
+	id=545
+	name="STATE_545"
+	manpower=16400
+	resources = {
+			Rubber = 4
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = DWO
+		buildings = {
+			infrastructure = 2
+			}
+		add_core_of = DWO 
+		victory_points = {
+			3683 3 
+		}
+	}
+	provinces={
+		3115 3683 3738 9289 9325 
+	}
+}

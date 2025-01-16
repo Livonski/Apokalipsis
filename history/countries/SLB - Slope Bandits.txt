@@ -1,0 +1,30 @@
+capital = 411 # state Nomer
+
+oob = "SLB_1259"
+
+set_research_slots = 1
+
+set_convoys = 0
+
+set_politics = {
+		ruling_party = neutrality
+		last_election = "1259.1.1"
+		election_frequency = 48
+		elections_allowed = no
+}
+
+set_popularities = {
+		democratic = 0
+		neutrality = 100
+		communism = 0
+		fascism = 0
+}
+
+create_country_leader = {
+	name = "Имя"
+	desc = ""
+	picture = ""
+	expire = "1989.1.1"
+	ideology = despotism
+	traits = { }
+}

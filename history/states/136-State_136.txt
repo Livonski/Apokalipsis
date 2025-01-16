@@ -1,0 +1,28 @@
+state={
+	id=136
+	name="STATE_136"
+	manpower=348700
+	resources = {
+			oil = 32
+	}
+	
+	state_category = city
+	
+	history={
+		owner = SCL
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		add_core_of = SCL 
+		victory_points = {
+			5217 5 
+		}
+		victory_points = {
+			1157 3 
+		}
+	}
+	provinces={
+		192 661 800 891 1157 1311 1373 1663 1667 1802 2073 2228 2559 2883 2906 3876 3978 4008 5046 5047 5077 5082 5099 5116 5121 5126 5127 5142 5145 5153 5154 5159 5167 5168 5176 5189 5194 5195 5196 5216 5217 5218 5226 5238 5246 
+	}
+}

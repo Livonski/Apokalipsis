@@ -1,0 +1,23 @@
+state={
+	id=218
+	name="STATE_218"
+	manpower=1130000
+	
+	state_category = metropolis
+	
+	history={
+		owner = UCP
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 4
+			}
+		add_core_of = UCP 
+		victory_points = {
+			6282 30 
+		}
+	}
+	provinces={
+		6282 
+	}
+}

@@ -1,0 +1,15 @@
+state={
+	id=558
+	name="STATE_558"
+	manpower=25000
+	
+	state_category = large_town
+	
+	history={
+		owner = DWO
+		add_core_of = DWO 
+	}
+	provinces={
+		632 2899 3082 9361 9392 
+	}
+}

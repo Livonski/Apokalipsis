@@ -1,0 +1,29 @@
+state={
+	id=140
+	name="STATE_140"
+	manpower=78300
+	
+	state_category = large_town
+	
+	history={
+		owner = SMG
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			dockyard = 1
+			3807 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = SMG 
+		victory_points = {
+			3807 5 
+		}
+		victory_points = {
+			1273 1
+		}
+	}
+	provinces={
+		596 1273 1679 3201 3299 3653 3807 4035 5076 5095 5113 5134 5135 5158 5180 5185 5211 5223 5242 5281 5310 5316 5327 5328 5355 5356 
+	}
+}

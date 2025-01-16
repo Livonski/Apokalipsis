@@ -1,0 +1,22 @@
+state={
+	id=360
+	name="STATE_360"
+	manpower=375400
+	
+	state_category = large_town
+	
+	history={
+		owner = UNT
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			}
+		add_core_of = UNT 
+		victory_points = {
+			8168 1 
+		}
+	}
+	provinces={
+		1244 2468 2732 7846 7877 7896 7913 7978 7979 8009 8085 8141 8168 
+	}
+}

@@ -1,0 +1,29 @@
+state={
+	id=169
+	name="STATE_169"
+	manpower=39200
+	
+	state_category = town
+	
+	history={
+		owner = ACS
+		buildings = {
+			infrastructure = 2
+			air_base = 5
+			arms_factory = 1
+			5780 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = ACS 
+		victory_points = {
+			5650 3 
+		}
+		victory_points = {
+			2115 15 
+		}
+	}
+	provinces={
+		728 1220 1359 2115 2417 3096 3479 3521 3782 3882 3969 5601 5602 5633 5634 5650 5651 5679 5687 5702 5708 5721 5758 5759 5780 5880 
+	}
+}

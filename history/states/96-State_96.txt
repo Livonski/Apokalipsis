@@ -1,0 +1,28 @@
+state={
+	id=96
+	name="STATE_96"
+	manpower=12120
+	resources = {
+			aluminium = 5
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = PLK
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			3742 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = PLK 
+		victory_points = {
+			4714 15 
+		}
+	}
+	provinces={
+		464 857 3742 4644 4673 4714 
+	}
+}

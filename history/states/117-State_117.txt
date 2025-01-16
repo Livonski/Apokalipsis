@@ -1,0 +1,29 @@
+state={
+	id=117
+	name="STATE_117"
+	manpower=9200
+	resources = {
+			Steel = 20
+			Tungsten = 12
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = WRW
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			5258 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = WRW 
+		victory_points = {
+			5258 5 
+		}
+	}
+	provinces={
+		47 238 351 836 1011 1189 1617 1634 1708 2198 2241 2589 2870 2986 5054 5258 5307 5324 5431 
+	}
+}

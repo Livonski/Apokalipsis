@@ -1,0 +1,25 @@
+state={
+	id=350
+	name="STATE_350"
+	manpower=93300
+	resources = {
+			Steel = 8
+			Tungsten = 6
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = CGM
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = CGM 
+		victory_points = {
+			1788 3 
+		}
+	}
+	provinces={
+		138 266 371 584 1529 1756 1788 2571 3202 3316 3734 7705 7749 7785 7786 7826 7834 7850 7899 7900 7916 7936 7948 7961 7969 8000 8001 8024 8057 8086 8087 8113 
+	}
+}

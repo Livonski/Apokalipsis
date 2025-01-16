@@ -1,0 +1,26 @@
+state={
+	id=30
+	name="STATE_30"
+	manpower=2300
+	resources = {
+			Steel = 20
+			aluminium = 12
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = WRW
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = WRW 
+		victory_points = {
+			4243 3 
+		}
+	}
+	provinces={
+		20 81 162 190 207 408 428 838 1180 1260 2103 2475 4168 4184 4192 4209 4243 
+	}
+}
+

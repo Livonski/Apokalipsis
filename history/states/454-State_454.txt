@@ -1,0 +1,21 @@
+state={
+	id=454
+	name="STATE_454"
+	manpower=153000
+	resources = {
+			Tungsten = 12
+	}
+	
+	state_category = town
+	
+	history={
+		owner = CDS
+		buildings = {
+			infrastructure = 2
+			}
+		add_core_of = CDS 
+	}
+	provinces={
+		625 1524 3466 8614 8726 
+	}
+}

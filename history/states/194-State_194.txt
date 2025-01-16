@@ -1,0 +1,21 @@
+state={
+	id=194
+	name="STATE_194"
+	manpower=24400
+	resources = {
+			Steel = 12
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = COB
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = COB 
+		}
+	provinces={
+		257 3485 5930 5994 6010 6081 
+	}
+}

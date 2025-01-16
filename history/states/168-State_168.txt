@@ -1,0 +1,30 @@
+state={
+	id=168
+	name="STATE_168"
+	manpower=209300
+	
+	state_category = large_town
+	
+	history={
+		owner = CGM
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			arms_factory = 1
+			industrial_complex = 1
+			3192 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = CGM 
+		victory_points = {
+			3192 5 
+		}
+		victory_points = {
+			5819 1 
+		}
+	}
+	provinces={
+		751 897 1600 1717 1960 1995 2018 2095 2973 3147 3192 3697 3809 5671 5719 5720 5748 5749 5766 5767 5819 5831 5838 5839 5866 5871 5898 5912 5913 5934 
+	}
+}

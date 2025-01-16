@@ -1,0 +1,23 @@
+state={
+	id=569
+	name="STATE_569"
+	manpower=42100
+	
+	state_category = city
+	
+	history={
+		owner = PSS
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+			}
+		add_core_of = PSS 
+		victory_points = {
+			9420 15 
+		}
+	}
+	provinces={
+		1459 2238 2638 9420 9435 9454 9467 9476 
+	}
+}

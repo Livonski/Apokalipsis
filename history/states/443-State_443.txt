@@ -1,0 +1,25 @@
+state={
+	id=443
+	name="STATE_443"
+	manpower=134000
+	
+	state_category = megalopolis
+	
+	history={
+		owner = INL
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 7
+			}
+		add_core_of = INL 
+		victory_points = {
+			2798 10 
+		}
+		victory_points = {
+			2804 1 
+		}
+	}
+	provinces={
+		453 2798 2804 8538 8691 
+	}
+}

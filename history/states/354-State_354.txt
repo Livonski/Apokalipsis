@@ -1,0 +1,22 @@
+state={
+	id=354
+	name="STATE_354"
+	manpower=179000
+	resources = {
+			Steel = 15
+			Chromium = 4
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = GEM
+		add_core_of = GEM 
+		victory_points = {
+			8118 1 
+		}
+	}
+	provinces={
+		459 849 1638 2043 3889 3955 7740 7830 7831 7868 7894 7911 7964 7965 8030 8062 8074 8118 
+	}
+}

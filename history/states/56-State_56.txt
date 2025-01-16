@@ -1,0 +1,28 @@
+state={
+	id=56
+	name="STATE_56"
+	manpower=7200
+	resources = {
+			Rubber = 8
+	}
+	
+	state_category = city
+	
+	history={
+		owner = FPA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			4293 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = FPA 
+		victory_points = {
+			4293 3 
+		}
+	}
+	provinces={
+		4293 4294 4295 4302 
+	}
+}

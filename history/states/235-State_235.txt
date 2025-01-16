@@ -1,0 +1,25 @@
+state={
+	id=235
+	name="STATE_235"
+	manpower=235000
+	resources = {
+			aluminium = 15
+	}
+	
+	state_category = town
+	
+history={
+		owner = CGM
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		add_core_of = CGM
+		victory_points = {
+			6625 5 
+		}
+	}
+	provinces={
+		426 685 934 1067 3397 3525 3820 6466 6498 6550 6571 6609 6625 6626 6654 6673 6733 6765 6854 6855 6913 6925 6952 6976 7007 
+	}
+}

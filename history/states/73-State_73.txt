@@ -1,0 +1,26 @@
+state={
+	id=73
+	name="STATE_73"
+	manpower=32700
+	
+	state_category = megalopolis
+	
+	history={
+		owner = FPA
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 5
+			dockyard = 1
+			1654 = {
+			naval_base = 3
+			}
+			}
+		add_core_of = FPA 
+		victory_points = {
+			4441 20 
+		}
+	}
+	provinces={
+		1654 4441 
+	}
+}

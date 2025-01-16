@@ -1,0 +1,28 @@
+state={
+	id=256
+	name="STATE_256"
+	manpower=127400
+	resources = {
+			aluminium = 5
+	}
+	
+	state_category = town
+	
+history={
+		owner = PCO
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		add_core_of = PCO 
+		victory_points = {
+			6778 5 
+		}
+		victory_points = {
+			6761 1 
+		}
+	}
+	provinces={
+		427 2385 2411 6670 6694 6695 6696 6745 6761 6778 6795 6796 6826 6851 6864 6935 6972 7003 
+	}
+}

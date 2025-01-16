@@ -1,0 +1,28 @@
+state={
+	id=34
+	name="STATE_34"
+	manpower=80
+	resources = {
+			Steel = 6
+	}
+	
+	state_category = small_island
+	
+	history={
+		owner = FIS
+		buildings = {
+			infrastructure = 1
+			233 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = FIS 
+		victory_points = {
+			233 1 
+		}
+	}
+	provinces={
+		233 
+	}
+}
+

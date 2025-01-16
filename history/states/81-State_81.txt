@@ -1,0 +1,24 @@
+state={
+	id=81
+	name="STATE_81"
+	manpower=4500
+	resources = {
+			oil = 6
+	}
+	
+	state_category = town
+	
+	history={
+		owner = LIP
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = LIP 
+		victory_points = {
+			4687 1 
+		}
+	}
+	provinces={
+		27 758 908 1138 1232 1307 1484 1509 1539 1606 1697 2754 2801 2810 2942 3053 3244 3311 3494 4558 4573 4579 4601 4602 4619 4633 4650 4655 4668 4687 4697 4710 4711 4716 4717 4722 4737 4738 4753 4787 
+	}
+}

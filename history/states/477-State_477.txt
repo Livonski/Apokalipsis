@@ -1,0 +1,22 @@
+state={
+	id=477
+	name="STATE_477"
+	manpower=373000
+	
+	state_category = city
+	
+	history={
+		owner = CDS
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			}
+		add_core_of = CDS 
+		victory_points = {
+			8934 1 
+		}
+	}
+	provinces={
+		2961 8804 8859 8913 8934 
+	}
+}

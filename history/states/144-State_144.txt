@@ -1,0 +1,24 @@
+state={
+	id=144
+	name="STATE_144"
+	manpower=54300
+	resources = {
+			oil = 4
+	}
+	
+	state_category = town
+	
+	history={
+		owner = SMG
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = SMG 
+		victory_points = {
+			5376 1 
+		}
+	}
+	provinces={
+		36 475 982 1614 1674 2739 3931 4034 5181 5230 5275 5311 5360 5376 5377 5420 5426 5433 5459 5473 5503 5506 5524 5536 5571 5636 5673 5704 5727 5762 
+	}
+}

@@ -1,0 +1,32 @@
+state={
+	id=78
+	name="STATE_78"
+	manpower=1360000
+	resources = {
+			oil = 4
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = ERM
+		buildings = {
+			infrastructure = 2
+			arms_factory = 3
+			industrial_complex = 1
+			386 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = ERM 
+		victory_points = {
+			386 5 
+		}
+		victory_points = {
+			4430 15 
+		}
+	}
+	provinces={
+		116 386 454 825 2461 2507 3792 4430 4434 4457 4458 4481 4486 4487 4491 4501 4505 4510 4522 4527 4533 4551 4552 4566 4586 4593 4606 4607 4621 
+	}
+}

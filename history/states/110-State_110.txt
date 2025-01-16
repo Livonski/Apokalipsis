@@ -1,0 +1,21 @@
+state={
+	id=110
+	name="STATE_110"
+	manpower=3500
+	resources = {
+			Steel = 30
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = RWF
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = RWF 
+		}
+	provinces={
+		183 1816 2150 2190 3005 4814 4818 4826 4841 4843 4850 4866 4868 4887 4895 4911 
+	}
+}

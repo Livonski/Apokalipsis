@@ -1,0 +1,33 @@
+state={
+	id=549
+	name="STATE_549"
+	manpower=218000
+	resources = {
+			oil = 24
+	}
+	
+	state_category = city
+	
+	history={
+		owner = BFZ
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 1
+			dockyard = 1
+			9427 = {
+			naval_base = 3
+			}
+			}
+		add_core_of = BFZ 
+		victory_points = {
+			9427 20 
+		}
+		victory_points = {
+			9377 3 
+		}
+	}
+	provinces={
+		261 724 2104 2702 2742 3112 3120 3385 3704 4001 9258 9311 9321 9335 9341 9344 9351 9366 9377 9383 9402 9403 9416 9427 
+	}
+}

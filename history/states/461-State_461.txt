@@ -1,0 +1,25 @@
+state={
+	id=461
+	name="STATE_461"
+	manpower=46400
+	resources = {
+			oil = 13
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = TRF
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			}
+		add_core_of = TRF 
+		victory_points = {
+			1103 1 
+		}
+	}
+	provinces={
+		101 1103 1112 2108 2558 2610 3239 3362 3851 8660 8696 8715 8739 8776 8795 8842 8851 8865 8906 
+	}
+}

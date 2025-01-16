@@ -1,0 +1,27 @@
+state={
+	id=458
+	name="STATE_458"
+	manpower=232000
+	
+	state_category = metropolis
+	
+	history={
+		owner = TRF
+		buildings = {
+			infrastructure = 4
+			air_base = 2
+			arms_factory = 2
+			industrial_complex = 4
+			}
+		add_core_of = TRF 
+		victory_points = {
+			8687 40 
+		}
+		victory_points = {
+			8779 15 
+		}
+	}
+	provinces={
+		946 1968 2970 3420 3859 8624 8652 8680 8687 8779 8815 8825 8834 8854 8886 
+	}
+}

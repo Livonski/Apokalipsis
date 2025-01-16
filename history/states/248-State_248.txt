@@ -1,0 +1,27 @@
+state={
+	id=248
+	name="STATE_248"
+	manpower=234000
+	resources = {
+			Oil = 8
+	}
+	
+	state_category = rural
+	
+history={
+		owner = BDH
+		add_core_of = BDH 
+		victory_points = {
+			2277 1 
+		}
+		victory_points = {
+			7328 1 
+		}
+		victory_points = {
+			335 3 
+		}
+	}
+	provinces={
+		160 335 465 518 586 701 757 787 937 1029 1145 1262 1323 1334 1336 1528 1889 1952 2277 2689 2723 2728 2863 3339 3589 3626 3645 3715 3737 3789 3912 6665 6674 6770 6848 6884 7098 7328 7556 
+	}
+}

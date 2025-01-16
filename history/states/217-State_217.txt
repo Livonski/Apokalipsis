@@ -1,0 +1,27 @@
+state={
+	id=217
+	name="STATE_217"
+	manpower=359300
+	resources = {
+			oil = 8
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = CGM
+		buildings = {
+			infrastructure = 2
+			}
+		add_core_of = CGM 
+		victory_points = {
+			1306 5 
+		}
+		victory_points = {
+			6608 5 
+		}
+	}
+	provinces={
+		796 1195 1305 1306 1906 2119 2263 3144 3800 3875 6255 6298 6323 6416 6432 6442 6474 6503 6512 6549 6560 6561 6608 6639 6652 6683 6684 6703 6731 6803 6804 
+	}
+}

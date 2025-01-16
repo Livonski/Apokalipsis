@@ -1,0 +1,29 @@
+state={
+	id=480
+	name="STATE_480"
+	manpower=184000
+	resources = {
+			Steel = 20
+	}
+	
+	state_category = city
+	
+	history={
+		owner = BOC
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			}
+		add_core_of = BOC 
+		victory_points = {
+			3791 5 
+		}
+		victory_points = {
+			9057 1 
+		}
+	}
+	provinces={
+		2617 3791 8770 9057 
+	}
+}

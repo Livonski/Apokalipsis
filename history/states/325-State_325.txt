@@ -1,0 +1,21 @@
+state={
+	id=325
+	name="STATE_325"
+	manpower=72400
+	resources = {
+			Oil = 8
+	}
+	
+	state_category = pastoral
+	
+	history={
+		owner = BDH
+		add_core_of = BDH 
+		victory_points = {
+			865 5 
+		}
+	}
+	provinces={
+		34 149 493 501 512 624 703 743 865 1049 1056 1300 1544 1550 1666 2130 2341 7699 7844 8028 8166 
+	}
+}

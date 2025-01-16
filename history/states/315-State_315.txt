@@ -1,0 +1,21 @@
+state={
+	id=315
+	name="STATE_315"
+	manpower=28400
+	
+	state_category = large_town
+	
+	history={
+		owner = CGM
+		buildings = {
+			infrastructure = 3
+			}
+		add_core_of = CGM 
+		victory_points = {
+			3293 5 
+		}
+	}
+	provinces={
+		1568 1897 2741 2885 3293 7349 7387 7421 7466 7538 7613 
+	}
+}

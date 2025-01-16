@@ -1,0 +1,24 @@
+state={
+	id=376
+	name="STATE_376"
+	manpower=72500
+	resources = {
+			Oil = 11
+	}
+	
+	state_category = town
+	
+	history={
+		owner = UNT
+		buildings = {
+			infrastructure = 2
+			}
+		add_core_of = UNT 
+		victory_points = {
+			4028 3 
+		}
+	}
+	provinces={
+		1400 2067 3924 4028 7988 8034 8129 8139 8178 8195 8196 8207 8252 
+	}
+}

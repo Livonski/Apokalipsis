@@ -1,0 +1,27 @@
+state={
+	id=499
+	name="STATE_499"
+	manpower=175000
+	resources = {
+			chromium = 8
+	}
+	
+	state_category = town
+	
+	history={
+		owner = BFZ
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = BFZ 
+		victory_points = {
+			9164 3 
+		}
+		victory_points = {
+			2793 1 
+		}
+	}
+	provinces={
+		348 1186 1463 2793 2879 3867 8883 8918 8937 9004 9005 9076 9097 9108 9164 
+	}
+}

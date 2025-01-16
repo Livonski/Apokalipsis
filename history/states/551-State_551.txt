@@ -1,0 +1,21 @@
+state={
+	id=551
+	name="STATE_551"
+	manpower=31000
+	resources = {
+			chromium = 42
+	}
+	
+	state_category = pastoral
+	
+	history={
+		owner = CPP
+		add_core_of = CPP 
+		victory_points = {
+			2993 5 
+		}
+	}
+	provinces={
+		1234 2993 9292 
+	}
+}

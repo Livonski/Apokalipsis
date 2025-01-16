@@ -1,0 +1,29 @@
+state={
+	id=486
+	name="STATE_486"
+	manpower=47300
+	resources = {
+			oil = 12
+	}
+	
+	state_category = town
+	
+	history={
+		owner = TRF
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			arms_factory = 1
+			1531 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = TRF 
+		victory_points = {
+			1531 10 
+		}
+	}
+	provinces={
+		791 1531 2077 2301 3275 8791 8807 8888 8932 8964 8965 8975 8991 9053 9147 9178 
+	}
+}

@@ -1,0 +1,18 @@
+state={
+	id=208
+	name="STATE_208"
+	manpower=137400
+	
+	state_category = town
+	
+	history={
+		owner = CGM
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = CGM 
+		}
+	provinces={
+		1820 2753 3341 3549 6051 6068 6101 6111 6151 6183 6204 6205 
+	}
+}

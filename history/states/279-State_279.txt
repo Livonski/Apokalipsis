@@ -1,0 +1,18 @@
+state={
+	id=279
+	name="STATE_279"
+	manpower=48400
+	
+	state_category = pastoral
+	
+history={
+		owner = BDH
+		add_core_of = BDH 
+		victory_points = {
+			7267 1 
+		}
+	}
+	provinces={
+		834 977 2285 7267 
+	}
+}

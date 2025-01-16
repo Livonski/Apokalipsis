@@ -1,0 +1,32 @@
+state={
+	id=68
+	name="STATE_68"
+	manpower=29300
+	resources = {
+			oil = 40
+	}
+	
+	state_category = large_city
+	
+	history={
+		owner = KLB
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 2
+			4475 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = KLB 
+		victory_points = {
+			1797 20 
+		}
+		victory_points = {
+			4475 5 
+		}
+	}
+	provinces={
+		559 925 996 1797 2491 2673 2878 4406 4413 4448 4467 4475 4506 4508 4509 4541 4542 
+	}
+}

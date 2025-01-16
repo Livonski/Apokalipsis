@@ -1,0 +1,18 @@
+state={
+	id=271
+	name="STATE_271"
+	manpower=59500
+	resources = {
+			Rubber = 6
+	}
+	
+	state_category = pastoral
+	
+history={
+		owner = CGM
+		add_core_of = CGM 
+	}
+	provinces={
+		313 2923 2931 2949 7043 7097 7113 7142 7219 7253 7377 
+	}
+}

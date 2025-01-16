@@ -1,0 +1,24 @@
+state={
+	id=311
+	name="STATE_311"
+	manpower=91400
+	
+	state_category = large_town
+	
+	history={
+		owner = PCO
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = PCO 
+		victory_points = {
+			7392 3 
+		}
+		victory_points = {
+			7454 1 
+		}
+	}
+	provinces={
+		927 951 2000 2014 2437 2991 3276 3424 7322 7344 7345 7392 7409 7454 7620 
+	}
+}

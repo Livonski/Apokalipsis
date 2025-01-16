@@ -1,0 +1,21 @@
+state={
+	id=557
+	name="STATE_557"
+	manpower=3200
+	resources = {
+			oil = 4
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = TCN
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = TCN 
+	}
+	provinces={
+		1170 3379 3642 
+	}
+}

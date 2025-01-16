@@ -1,0 +1,26 @@
+state={
+	id=91
+	name="STATE_91"
+	manpower=14900
+	
+	state_category = large_town
+	
+	history={
+		owner = NLG
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			dockyard = 1
+			4651 = {
+			naval_base = 3
+			}
+			}
+		add_core_of = NLG 
+		victory_points = {
+			3606 15 
+		}
+	}
+	provinces={
+		3606 4596 4624 4651 
+	}
+}

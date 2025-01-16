@@ -1,0 +1,21 @@
+state={
+	id=272
+	name="STATE_272"
+	manpower=173000
+	
+	state_category = town
+	
+history={
+		owner = GEM
+		buildings = {
+			infrastructure = 2
+			}
+		add_core_of = GEM 
+		victory_points = {
+			6945 5 
+		}
+	}
+	provinces={
+		1579 3524 6885 6945 6984 7070 
+	}
+}

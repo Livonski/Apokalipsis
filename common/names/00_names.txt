@@ -1,0 +1,947 @@
+Default = {
+	male = {
+		names = {
+			Имя
+		}
+		surnames = {
+			Фамилия
+		}
+		callsigns = {
+			Позывной
+		}
+	}
+	
+	
+
+}
+
+IRI = {
+    male = {
+	    names = { Gibert Urnan Ganmed Almatras Hibars Otwer Lot Vismun Mangaus Arker
+		}
+	}
+	female = {
+	    names = { Alancia Aria Lina }
+	}
+	surnames = {
+	        Pact Talp Pier Sverg Elm Rodau Lotar Douholst
+	
+	}
+	callsigns = { Bocman Moriak Admiral General }
+	}
+EAG = {
+    male = {
+	    names = { Орел
+		}
+	}
+	female = {
+	    names = { Орлица }
+	}
+	surnames = {
+	        Орлов
+	
+	}
+	callsigns = { Орёл }
+	}
+NRD = {
+    male = {
+	    names = { Орел
+		}
+	}
+	female = {
+	    names = { Орлица }
+	}
+	surnames = {
+	        Орлов
+	
+	}
+	callsigns = { Орёл }
+	}
+NPR = {
+    male = {
+	    names = { Призрак
+		}
+	}
+	female = {
+	    names = { Призрак }
+	}
+	surnames = {
+	        Призраков
+	
+	}
+	callsigns = { Призрачный }
+	}
+NHA = {
+    male = {
+	    names = { Ходок
+		}
+	}
+	female = {
+	    names = { Ходок }
+	}
+	surnames = {
+	        Ходоков
+	
+	}
+	callsigns = { Ходячий }
+	}
+MSL = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+FIS = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+OGV = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+WRW = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+PLK = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+ACS = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+NLG = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+RWF = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+UCP = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+BDT = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+BDO = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+BDH = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+BDF = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+CMU = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+SNK = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+ARH = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+FAU = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+FPA = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+DWO = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+PAH = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+IAT = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+TRF = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+GNR = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+CGM = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+PSS = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+KIL = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+MRE = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+BFZ = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+MST = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+BNR = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+INL = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+PTR = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+SVG = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+CPP = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+TBS = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+ELI = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+CSN = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+CDS = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+TCN = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+SLB = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+PCO = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+UNT = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+ANH = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+KLB = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+RPB = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+ERM = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+LIP = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+COB = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+SCL = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+KMT = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+STN = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+VOS = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+MHL = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+SMG = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+ALC = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+CPR = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+BLH = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+CRT = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}
+BOC = {
+    #male = {
+	#    names = { Имя
+	#	}
+	#}
+	#female = {
+	#    names = { Женскоеимя }
+	#}
+	#surnames = {
+	#        Фамилия
+	#
+	#}
+	#callsigns = { Позывной }
+	male = {
+		first_names = {
+			"Имя"
+		}
+		last_names = {
+			"Фамилия"
+		}
+	}
+	
+	female = {
+		first_names = {
+			"Имя"
+		}
+		last_names = {
+			"Фамилия"
+		}
+	}
+	
+	
+	
+}
+GEM = {
+    male = {
+	    names = { Имя
+		}
+	}
+	female = {
+	    names = { Женскоеимя }
+	}
+	surnames = {
+	        Фамилия
+	
+	}
+	callsigns = { Позывной }
+	}

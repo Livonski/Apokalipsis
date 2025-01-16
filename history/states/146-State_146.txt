@@ -1,0 +1,24 @@
+state={
+	id=146
+	name="STATE_146"
+	manpower=11000
+	resources = {
+			oil = 12
+	}
+	
+	state_category = town
+	
+	history={
+		owner = WRW
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = WRW 
+		victory_points = {
+			1127 1 
+		}
+	}
+	provinces={
+		293 873 983 1127 1276 1472 1786 1866 2499 2701 3572 3691 4040 5326 5352 5359 5389 5397 5398 5412 5442 5463 5464 5465 5486 5487 5494 5510 5533 5544 5564 5569 5589 
+	}
+}

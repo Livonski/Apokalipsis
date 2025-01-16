@@ -1,0 +1,24 @@
+state={
+	id=295
+	name="STATE_295"
+	manpower=92100
+	resources = {
+			Tungsten =12
+	}
+	
+	state_category = pastoral
+	
+history={
+		owner = GEM
+		buildings = {
+			infrastructure = 2
+			}
+		add_core_of = GEM 
+		victory_points = {
+			7693 1 
+		}
+	}
+	provinces={
+		137 1422 1474 1938 2099 2406 2565 3248 7329 7330 7408 7470 7524 7581 7693 
+	}
+}

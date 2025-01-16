@@ -1,0 +1,19 @@
+state={
+	id=562
+	name="STATE_562"
+	manpower=5300
+	
+	state_category = rural
+	
+	history={
+		owner = TCN
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+			}
+		add_core_of = TCN 
+	}
+	provinces={
+		3369 9407 9430 
+	}
+}

@@ -1,0 +1,29 @@
+state={
+	id=392
+	name="STATE_392"
+	manpower=52400
+	resources = {
+			Steel = 20
+			Tungsten = 14
+			Chromium = 12
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = GNR
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = GNR 
+		victory_points = {
+			8345 15 
+		}
+		victory_points = {
+			3431 3 
+		}
+	}
+	provinces={
+		300 542 1053 1914 2136 2262 2708 3039 3431 3730 3808 3925 3962 8147 8173 8202 8234 8247 8248 8256 8257 8264 8284 8290 8320 8337 8338 8345 8354 8355 8385 8407 8408 
+	}
+}

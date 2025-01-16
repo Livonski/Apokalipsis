@@ -1,0 +1,25 @@
+state={
+	id=251
+	name="STATE_251"
+	manpower=387500
+	resources = {
+			Oil = 28
+	}
+	
+	state_category = town
+	
+history={
+		owner = UCP
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			}
+		add_core_of = UCP 
+		victory_points = {
+			6831 3 
+		}
+	}
+	provinces={
+		344 471 660 709 1315 2016 2055 3020 3236 3507 3916 3950 6564 6617 6631 6706 6707 6719 6785 6807 6808 6831 6849 6850 6868 6869 6907 6927 6953 6967 7000 7028 7062 7066 7073 7104 
+	}
+}

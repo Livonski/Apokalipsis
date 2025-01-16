@@ -1,0 +1,27 @@
+state={
+	id=552
+	name="STATE_552"
+	manpower=118300
+	
+	state_category = metropolis
+	
+	history={
+		owner = INL
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 6
+			dockyard = 1
+			anti_air_building = 4
+			9293 = {
+			naval_base = 3
+			}
+			}
+		add_core_of = INL 
+		victory_points = {
+			3222 30 
+		}
+	}
+	provinces={
+		3222 9293 
+	}
+}

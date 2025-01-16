@@ -1,0 +1,35 @@
+state={
+	id=358
+	name="STATE_358"
+	manpower=230100
+	resources = {
+			aluminium = 16
+			Oil = 15
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = CPR
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			7796 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = CPR 
+		victory_points = {
+			7822 3 
+		}
+		victory_points = {
+			7906 3
+		}
+		victory_points = {
+			8072 3 
+		}
+	}
+	provinces={
+		358 715 1226 1695 2928 3027 3407 3490 3712 7796 7821 7822 7855 7893 7906 7918 7985 7997 8007 8029 8033 8067 8072 8073 8092 8137 8138 8153 8184 8206 8218 8296 8359 
+	}
+}

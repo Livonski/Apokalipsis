@@ -1,0 +1,21 @@
+state={
+	id=170
+	name="STATE_170"
+	manpower=95000
+	resources = {
+			oil = 8
+	}
+	
+	state_category = town
+	
+	history={
+		owner = UCP
+		add_core_of = UCP 
+		victory_points = {
+			3127 1 
+		}
+	}
+	provinces={
+		217 628 788 1197 1822 1833 1928 1972 2234 2765 3127 3404 5622 5652 5680 5692 5698 5703 5742 5755 5784 5794 5814 5820 
+	}
+}

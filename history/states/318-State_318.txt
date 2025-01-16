@@ -1,0 +1,19 @@
+state={
+	id=318
+	name="STATE_318"
+	manpower=26400
+	resources = {
+			Chromium = 4
+			Tungsten = 3
+	}
+	
+	state_category = wasteland
+	
+	history={
+		owner = BDO
+		add_core_of = BDO 
+	}
+	provinces={
+		169 193 507 697 1913 2343 2709 3155 7407 7486 7592 7629 7679 7680 7723 7751 7769 7805 7806 7843 7891 7892 7926 7972 7976 
+	}
+}

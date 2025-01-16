@@ -1,0 +1,26 @@
+state={
+	id=365
+	name="STATE_365"
+	manpower=136700
+	resources = {
+			Oil = 10
+	}
+	
+	state_category = town
+	
+	history={
+		owner = BDF
+		buildings = {
+			8488 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = BDF 
+		victory_points = {
+			1000 3 
+		}
+	}
+	provinces={
+		52 227 240 314 876 1000 1139 1289 1301 1497 1624 1645 1940 2007 2072 2781 3361 3497 3548 3662 3780 8021 8167 8175 8205 8217 8268 8269 8285 8321 8327 8343 8417 8427 8436 8488 8580 
+	}
+}

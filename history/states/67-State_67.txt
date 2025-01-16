@@ -1,0 +1,28 @@
+state={
+	id=67
+	name="STATE_67"
+	manpower=39200
+	resources = {
+			Steel = 1
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = LIP
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			4427 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = LIP 
+		victory_points = {
+			4427 10 
+		}
+	}
+	provinces={
+		258 885 899 981 1401 1842 2372 2766 3356 4349 4352 4383 4384 4399 4407 4427 4438 4473 4485 4519 
+	}
+}

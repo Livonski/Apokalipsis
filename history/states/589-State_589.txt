@@ -1,0 +1,24 @@
+state={
+	id=589
+	name="STATE_589"
+	manpower=58300
+	
+	state_category = town
+	
+	history={
+		owner = IRI
+		buildings = {
+			infrastructure = 2
+			9642 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = IRI 
+		victory_points = {
+			9642 5 
+		}
+	}
+	provinces={
+		3855 9629 9632 9634 9635 9641 9642 9644 9647 
+	}
+}

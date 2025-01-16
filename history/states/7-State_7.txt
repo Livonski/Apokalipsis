@@ -1,0 +1,22 @@
+state={
+	id=7
+	name="STATE_7"
+	manpower=38200
+	
+	state_category = rural
+	
+	history={
+		owner = NPR
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = NPR 
+		victory_points = {
+			573 5 
+		}
+	}
+	provinces={
+		59 71 87 99 131 132 134 143 267 277 458 466 485 530 573 669 713 735 896 1280 1325 1767 3450 4054 4055 4059 4061 4082 4085 4087 9678 9679 9680 
+	}
+}
+

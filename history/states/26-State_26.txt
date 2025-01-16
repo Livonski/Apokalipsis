@@ -1,0 +1,22 @@
+state={
+	id=26
+	name="STATE_26"
+	manpower=20
+	
+	state_category = rural
+	
+	history={
+		owner = ARH
+		add_core_of = ARH 
+		victory_points = {
+			366 1 
+		}
+		victory_points = {
+			4167 10 
+		}
+	}
+	provinces={
+		125 228 229 366 415 556 1115 1839 2319 2864 4160 4167 4169 4172 
+	}
+}
+

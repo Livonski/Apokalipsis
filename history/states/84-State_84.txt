@@ -1,0 +1,28 @@
+state={
+	id=84
+	name="STATE_84"
+	manpower=11700
+	resources = {
+			oil = 6
+			Steel = 16
+			chromium = 16
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = NLG
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+			}
+		add_core_of = NLG 
+		victory_points = {
+			2061 15 
+		}
+	}
+	provinces={
+		1153 1348 1396 1924 2061 2222 2477 3084 3177 3406 4534 4543 4562 4571 4589 4600 4614 4618 4625 4640 4645 4670 4680 4689 4695 4700 4715 4741 4754 4764 4769 
+	}
+}

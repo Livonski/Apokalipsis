@@ -1,0 +1,19 @@
+state={
+	id=370
+	name="STATE_370"
+	manpower=10400
+	resources = {
+			Steel = 20
+			Tungsten = 6
+	}
+	
+	state_category = pastoral
+	
+	history={
+		owner = GNR
+		add_core_of = GNR 
+	}
+	provinces={
+		133 614 1651 1704 1921 2064 3455 3879 4033 7950 7963 7970 7993 8004 8011 8026 8048 8065 8078 8089 8090 8105 8114 8135 
+	}
+}

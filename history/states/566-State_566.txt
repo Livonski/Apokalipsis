@@ -1,0 +1,25 @@
+state={
+	id=566
+	name="STATE_566"
+	manpower=305000
+	resources = {
+			oil = 7
+	}
+	
+	state_category = town
+	
+	history={
+		owner = DWO
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			}
+		add_core_of = DWO 
+		victory_points = {
+			9463 10 
+		}
+	}
+	provinces={
+		1224 1522 1868 1926 1994 2237 3081 9405 9447 9450 9463 9470 9478 9488 9496 
+	}
+}

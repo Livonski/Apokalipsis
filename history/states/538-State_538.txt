@@ -1,0 +1,24 @@
+state={
+	id=538
+	name="STATE_538"
+	manpower=37300
+	resources = {
+			Rubber = 4
+	}
+	
+	state_category = town
+	
+	history={
+		owner = TRF
+		buildings = {
+			infrastructure = 2
+			}
+		add_core_of = TRF 
+		victory_points = {
+			9297 3 
+		}
+	}
+	provinces={
+		2046 9223 9232 9264 9265 9279 9297 
+	}
+}

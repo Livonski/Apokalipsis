@@ -1,0 +1,19 @@
+state={
+	id=138
+	name="STATE_138"
+	manpower=17900
+	
+	state_category = town
+	
+	history={
+		owner = COB
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			}
+		add_core_of = COB 
+		}
+	provinces={
+		503 700 793 2515 3128 3381 3547 3929 4022 5059 5090 5103 5144 5147 5186 5191 5212 5235 5243 5244 5265 5270 5289 5312 5317 
+	}
+}

@@ -1,0 +1,21 @@
+state={
+	id=472
+	name="STATE_472"
+	manpower=18900
+	
+	state_category = town
+	
+	history={
+		owner = TRF
+		buildings = {
+			infrastructure = 2
+			}
+		add_core_of = TRF 
+		victory_points = {
+			8940 1 
+		}
+	}
+	provinces={
+		154 1846 2157 2423 3216 3527 3798 3865 4013 8768 8787 8799 8835 8866 8874 8940 8963 9052 9069 9112 9127 
+	}
+}

@@ -1,0 +1,28 @@
+state={
+	id=196
+	name="STATE_196"
+	manpower=72400
+	resources = {
+			Steel = 24
+			chromium = 15
+	}
+	
+	state_category = town
+	
+	history={
+		owner = ALC
+		buildings = {
+			infrastructure = 1
+			6253 = {
+			bunker = 3
+			}
+			}
+		add_core_of = ALC 
+		victory_points = {
+			2651 5 
+		}
+	}
+	provinces={
+		406 2065 2599 2651 3078 3900 5957 6031 6055 6079 6093 6115 6116 6144 6160 6190 6215 6253 
+	}
+}

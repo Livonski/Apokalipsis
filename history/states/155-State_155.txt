@@ -1,0 +1,26 @@
+state={
+	id=155
+	name="STATE_155"
+	manpower=71000
+	resources = {
+			Tungsten = 12
+			chromium = 30
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = SMG
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			}
+		add_core_of = SMG 
+		victory_points = {
+			2509 10 
+		}
+	}
+	provinces={
+		19 871 2160 2509 2779 2822 3411 3666 3758 4027 5375 5419 5423 5424 5425 5432 5471 5472 5495 5496 5511 5523 5535 5565 5566 5567 5570 5577 5610 5617 5623 
+	}
+}

@@ -1,0 +1,21 @@
+state={
+	id=201
+	name="STATE_201"
+	manpower=197400
+	
+	state_category = town
+	
+	history={
+		owner = UCP
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = UCP 
+		victory_points = {
+			3826 1 
+		}
+	}
+	provinces={
+		6 79 858 1142 1672 1787 2642 3826 3888 6006 6131 6166 6214 6222 6244 
+	}
+}

@@ -1,0 +1,22 @@
+state={
+	id=175
+	name="STATE_175"
+	manpower=43800
+	
+	state_category = large_town
+	
+	history={
+		owner = SCL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			}
+		add_core_of = SCL 
+		victory_points = {
+			912 1 
+		}
+	}
+	provinces={
+		764 912 1044 1573 1595 1988 2231 2820 2929 3102 5657 5668 5695 5696 5716 5724 5731 5745 5778 5779 5849 5916 5923 
+	}
+}

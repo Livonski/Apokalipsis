@@ -1,0 +1,25 @@
+state={
+	id=255
+	name="STATE_255"
+	manpower=195000
+	
+	state_category = metropolis
+	
+history={
+		owner = PCO
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			6646 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = PCO 
+		victory_points = {
+			6646 30 
+		}
+	}
+	provinces={
+		2268 6646 6744 
+	}
+}

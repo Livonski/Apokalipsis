@@ -1,0 +1,21 @@
+state={
+	id=402
+	name="STATE_402"
+	manpower=280100
+	
+	state_category = rural
+	
+	history={
+		owner = BOC
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = BOC 
+		victory_points = {
+			3288 1 
+		}
+	}
+	provinces={
+		39 2114 2415 2703 3288 3998 8315 8379 8419 
+	}
+}

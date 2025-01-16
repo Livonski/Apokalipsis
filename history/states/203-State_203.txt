@@ -1,0 +1,24 @@
+state={
+	id=203
+	name="STATE_203"
+	manpower=211900
+	resources = {
+			Steel = 12
+	}
+	
+	state_category = town
+	
+	history={
+		owner = UCP
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = UCP 
+		victory_points = {
+			1411 5 
+		}
+	}
+	provinces={
+		379 674 1411 3050 6209 
+	}
+}

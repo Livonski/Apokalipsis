@@ -1,0 +1,27 @@
+state={
+	id=212
+	name="STATE_212"
+	manpower=460500
+	
+	state_category = megalopolis
+	
+	history={
+		owner = CGM
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 3
+			dockyard = 2
+			3773 = {
+			naval_base = 5
+			}
+			}
+		add_core_of = CGM 
+		victory_points = {
+			3773 40 
+		}
+	}
+	provinces={
+		3773 6152 6206 
+	}
+}

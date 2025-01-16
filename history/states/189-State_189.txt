@@ -1,0 +1,24 @@
+state={
+	id=189
+	name="STATE_189"
+	manpower=47300
+	resources = {
+			oil = 82
+	}
+	
+	state_category = town
+	
+	history={
+		owner = UCP
+		buildings = {
+			infrastructure = 2
+			}
+		add_core_of = UCP 
+		victory_points = {
+			2593 5 
+		}
+	}
+	provinces={
+		920 1002 2593 5856 5882 5920 5937 5938 
+	}
+}

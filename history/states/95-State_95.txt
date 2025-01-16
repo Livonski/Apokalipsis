@@ -1,0 +1,24 @@
+state={
+	id=95
+	name="STATE_95"
+	manpower=403000
+	resources = {
+			Tungsten = 2
+	}
+	
+	state_category = town
+	
+	history={
+		owner = ERM
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = ERM
+		victory_points = {
+			4676 3 
+		}		
+	}
+	provinces={
+		75 1069 1083 1535 1829 2146 2825 2959 2997 3179 3659 3687 4634 4643 4648 4653 4658 4664 4665 4676 4686 4688 4693 4698 4702 4708 4718 4746 
+	}
+}

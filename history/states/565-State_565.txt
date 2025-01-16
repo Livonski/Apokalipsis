@@ -1,0 +1,25 @@
+state={
+	id=565
+	name="STATE_565"
+	manpower=19400
+	resources = {
+			chromium = 20
+	}
+	
+	state_category = town
+	
+	history={
+		owner = PSS
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			}
+		add_core_of = PSS 
+		victory_points = {
+			9376 1 
+		}
+	}
+	provinces={
+		1615 2082 2767 9375 9376 9381 9399 9406 9409 
+	}
+}

@@ -1,0 +1,34 @@
+state={
+	id=583
+	name="STATE_583"
+	manpower=217000
+	resources = {
+			Steel = 17
+	}
+	
+	state_category = metropolis
+	
+	history={
+		owner = IRI
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 3
+			9606 = {
+			naval_base = 3
+			}
+			}
+		add_core_of = IRI 
+		victory_points = {
+			9605 50 
+		}
+		victory_points = {
+			1903 1 
+		}
+	}
+	provinces={
+		31 1903 3620 9604 9605 9606 9610 
+	}
+}

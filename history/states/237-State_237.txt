@@ -1,0 +1,27 @@
+state={
+	id=237
+	name="STATE_237"
+	manpower=57300
+	
+	state_category = town
+	
+history={
+		owner = PCO
+		buildings = {
+			infrastructure = 1
+			1406 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = PCO 
+		victory_points = {
+			6402 3 
+		}
+		victory_points = {
+			1990 1 
+		}
+	}
+	provinces={
+		1406 1447 1720 1990 2070 2397 6402 6464 6488 6489 6501 6543 6567 6602 6620 6647 
+	}
+}

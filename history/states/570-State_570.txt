@@ -1,0 +1,30 @@
+state={
+	id=570
+	name="STATE_570"
+	manpower=1960000
+	
+	state_category = large_city
+	
+	history={
+		owner = DWO
+		buildings = {
+			infrastructure = 1
+			arms_factory = 3
+			industrial_complex = 1
+			dockyard = 1
+			9485 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = DWO 
+		victory_points = {
+			1930 40 
+		}
+		victory_points = {
+			9485 3 
+		}
+	}
+	provinces={
+		1555 1930 2531 3344 9455 9464 9471 9485 9514 9522 
+	}
+}

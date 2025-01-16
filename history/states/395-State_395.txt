@@ -1,0 +1,35 @@
+state={
+	id=395
+	name="STATE_395"
+	manpower=143000
+	resources = {
+			Steel = 22
+			Chromium = 15
+	}
+	
+	state_category = metropolis
+	
+	history={
+		owner = TRF
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			arms_factory = 1
+			industrial_complex = 3
+			dockyard = 1
+			8566 = {
+			naval_base = 3
+			}
+			}
+		add_core_of = TRF 
+		victory_points = {
+			8410 30 
+		}
+		victory_points = {
+			8566 5 
+		}
+	}
+	provinces={
+		45 845 1271 1291 1383 1937 2251 2562 2604 2635 3001 3312 3492 3608 3671 3713 8191 8238 8265 8311 8312 8376 8395 8396 8410 8443 8457 8506 8512 8524 8565 8566 8578 8598 8630 8671 8682 8697 8720 8730 8731 8732 8740 8747 8788 8789 8790 8800 8816 8855 8867 8868 8887 8941 8954 
+	}
+}

@@ -1,0 +1,26 @@
+state={
+	id=77
+	name="STATE_77"
+	manpower=5100
+	resources = {
+			aluminium = 15
+			Steel = 24
+	}
+	
+	state_category = town
+	
+	history={
+		owner = NLG
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		add_core_of = NLG 
+		victory_points = {
+			4554 5 
+		}
+	}
+	provinces={
+		196 342 392 829 867 1171 1512 2827 2916 2954 3321 3493 4439 4488 4503 4507 4518 4537 4545 4554 4563 4568 4572 4584 4597 4608 4611 4615 4622 4637 4641 4646 4654 4662 4667 4683 
+	}
+}

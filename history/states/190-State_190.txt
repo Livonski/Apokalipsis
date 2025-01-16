@@ -1,0 +1,23 @@
+state={
+	id=190
+	name="STATE_190"
+	manpower=104600
+	
+	state_category = large_city
+	
+	history={
+		owner = ALC
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+			}
+		add_core_of = ALC 
+		victory_points = {
+			733 15 
+		}
+	}
+	provinces={
+		733 2758 5876 5929 5942 5992 
+	}
+}

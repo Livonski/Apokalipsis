@@ -1,0 +1,27 @@
+state={
+	id=520
+	name="STATE_520"
+	manpower=43900
+	resources = {
+			aluminium = 5
+	}
+	
+	state_category = town
+	
+	history={
+		owner = TRF
+		buildings = {
+			infrastructure = 3
+			}
+		add_core_of = TRF 
+		victory_points = {
+			9070 5 
+		}
+		victory_points = {
+			9119 1 
+		}
+	}
+	provinces={
+		355 1429 9007 9027 9036 9070 9119 9120 9130 9176 9177 9242 
+	}
+}

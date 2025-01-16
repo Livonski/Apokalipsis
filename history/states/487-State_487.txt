@@ -1,0 +1,30 @@
+state={
+	id=487
+	name="STATE_487"
+	manpower=148300
+	resources = {
+			Rubber = 16
+	}
+	
+	state_category = city
+	
+	history={
+		owner = CRT
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			industrial_complex = 3
+			dockyard = 1
+			8957 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = CRT 
+		victory_points = {
+			3228 15 
+		}
+	}
+	provinces={
+		889 1475 3228 8846 8933 8957 9030 
+	}
+}

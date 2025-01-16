@@ -1,0 +1,26 @@
+state={
+	id=298
+	name="STATE_298"
+	manpower=1489000
+	
+	state_category = megalopolis
+	
+history={
+		owner = UNT
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 5
+			}
+		add_core_of = UNT 
+		victory_points = {
+			2905 50 
+		}
+		victory_points = {
+			7217 1 
+		}
+	}
+	provinces={
+		2905 7217 
+	}
+}

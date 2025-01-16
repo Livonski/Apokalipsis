@@ -1,0 +1,29 @@
+state={
+	id=23
+	name="STATE_23"
+	manpower=10800
+	
+	state_category = city
+	
+	history={
+		owner = NRD
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			4153 = {
+			naval_base = 1
+			}
+			4156 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = NRD 
+		victory_points = {
+			3193 15 
+		}
+	}
+	provinces={
+		855 2532 2812 3193 4152 4153 4156 
+	}
+}
+

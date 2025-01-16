@@ -1,0 +1,26 @@
+state={
+	id=93
+	name="STATE_93"
+	manpower=3500
+	resources = {
+			Tungsten = 10
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = WRW
+		buildings = {
+			1335 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = WRW 
+		victory_points = {
+			1335 3 
+		}
+	}
+	provinces={
+		76 283 412 442 527 654 1335 1382 1880 2297 2537 4812 5017 5162 
+	}
+}

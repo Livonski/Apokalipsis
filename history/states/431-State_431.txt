@@ -1,0 +1,27 @@
+state={
+	id=431
+	name="STATE_431"
+	manpower=83800
+	resources = {
+			Rubber = 18
+	}
+	
+	state_category = city
+	
+	history={
+		owner = TRF
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+			arms_factory = 1
+			industrial_complex = 1
+			}
+		add_core_of = TRF 
+		victory_points = {
+			8844 10 
+		}
+	}
+	provinces={
+		926 1589 1825 1964 2225 3357 3854 3995 8469 8534 8615 8616 8638 8650 8651 8703 8716 8717 8777 8786 8796 8824 8843 8844 8852 8898 
+	}
+}

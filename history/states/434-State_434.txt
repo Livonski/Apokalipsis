@@ -1,0 +1,25 @@
+state={
+	id=434
+	name="STATE_434"
+	manpower=55200
+	resources = {
+			Steel = 21
+			aluminium = 20
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = BFZ
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = BFZ 
+		victory_points = {
+			8494 3 
+		}
+	}
+	provinces={
+		1711 2142 2344 3541 3591 8477 8494 8500 8542 8628 
+	}
+}

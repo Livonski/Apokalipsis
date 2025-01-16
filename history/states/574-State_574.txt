@@ -1,0 +1,18 @@
+state={
+	id=574
+	name="STATE_574"
+	manpower=114900
+	
+	state_category = rural
+	
+	history={
+		owner = DWO
+		add_core_of = DWO 
+		victory_points = {
+			3907 3 
+		}
+	}
+	provinces={
+		1873 2200 3019 3124 3194 3907 9502 9509 
+	}
+}

@@ -1,0 +1,38 @@
+state={
+	id=363
+	name="STATE_363"
+	manpower=94300
+	resources = {
+			Rubber = 16
+	}
+	
+	state_category = large_city
+	
+	history={
+		owner = STN
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			arms_factory = 3
+			industrial_complex = 1
+			dockyard = 2
+			anti_air_building = 1
+			7765 = {
+			naval_base = 4
+			}
+			7836 = {
+			naval_base = 1
+			}
+			7602 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = STN 
+		victory_points = {
+			7765 20 
+		}
+	}
+	provinces={
+		643 3425 7602 7713 7765 7836 
+	}
+}

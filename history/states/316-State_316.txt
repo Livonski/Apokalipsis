@@ -1,0 +1,29 @@
+state={
+	id=316
+	name="STATE_316"
+	manpower=417300
+	resources = {
+			Steel = 50
+	}
+	
+	state_category = large_city
+	
+	history={
+		owner = CGM
+		buildings = {
+			infrastructure = 3
+			arms_factory = 4
+			dockyard = 2
+			7321 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = CGM 
+		victory_points = {
+			1507 20 
+		}
+	}
+	provinces={
+		405 966 1507 2052 2215 2416 7321 7358 7423 7468 7493 7554 7555 7571 7615 7616 7617 7671 7677 7678 7738 7739 7803 7804 7828 7841 7865 7876 7925 
+	}
+}

@@ -1,0 +1,36 @@
+state={
+	id=593
+	name="STATE_593"
+	manpower=8300
+	resources = {
+			chromium = 5
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = IRI
+		buildings = {
+			infrastructure = 1
+			9660 = {
+			naval_base = 1
+			}
+			9662 = {
+			naval_base = 1
+			}
+			9602 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = IRI 
+		victory_points = {
+			9661 1 
+		}
+		victory_points = {
+			9662 3 
+		}
+	}
+	provinces={
+		9599 9602 9660 9661 9662 9663  
+	}
+}

@@ -1,0 +1,20 @@
+state={
+	id=411
+	name="STATE_411"
+	manpower=42000
+	
+	state_category = rural
+	
+	history={
+		owner = SLB
+		buildings = {
+			8323 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = SLB 
+	}
+	provinces={
+		1293 1923 2025 8323 8374 8397 
+	}
+}

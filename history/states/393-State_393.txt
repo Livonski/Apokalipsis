@@ -1,0 +1,29 @@
+state={
+	id=393
+	name="STATE_393"
+	manpower=4250000
+	resources = {
+			Rubber = 8
+	}
+	
+	state_category = megalopolis
+	
+	history={
+		owner = UNT
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 6
+			}
+		add_core_of = UNT 
+		victory_points = {
+			2479 50 
+		}
+		victory_points = {
+			8186 30 
+		}
+	}
+	provinces={
+		2479 8186 
+	}
+}

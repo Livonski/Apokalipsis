@@ -1,0 +1,28 @@
+state={
+	id=366
+	name="STATE_366"
+	manpower=360100
+	resources = {
+			Oil = 16
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = UNT
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		add_core_of = UNT 
+		victory_points = {
+			8108 15 
+		}
+		victory_points = {
+			3518 3 
+		}
+	}
+	provinces={
+		421 1154 1804 2519 3295 3518 7920 7980 8031 8108 8142 8143 8160 8170 
+	}
+}

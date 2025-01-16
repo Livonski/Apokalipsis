@@ -1,0 +1,38 @@
+state={
+	id=495
+	name="STATE_495"
+	manpower=184000
+	resources = {
+			oil = 10
+			Rubber = 18
+	}
+	
+	state_category = large_city
+	
+	history={
+		owner = CPR
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			9149 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = CPR 
+		victory_points = {
+			9149 15 
+		}
+		victory_points = {
+			3454 15 
+		}
+		victory_points = {
+			8980 3 
+		}
+		victory_points = {
+			2105 1 
+		}
+	}
+	provinces={
+		1310 1450 2105 2538 2631 3454 3665 8909 8968 8980 8993 8994 9022 9056 9082 9149 
+	}
+}

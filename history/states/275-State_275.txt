@@ -1,0 +1,21 @@
+state={
+	id=275
+	name="STATE_275"
+	manpower=173000
+	resources = {
+			Oil = 32
+	}
+	
+	state_category = rural
+	
+history={
+		owner = UCP
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = UCP 
+	}
+	provinces={
+		529 980 1686 2983 3392 6979 7010 7029 7038 7046 7074 7086 7099 7125 
+	}
+}

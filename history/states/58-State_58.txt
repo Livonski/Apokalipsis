@@ -1,0 +1,25 @@
+state={
+	id=58
+	name="STATE_58"
+	manpower=1600
+	
+	state_category = town
+	
+	history={
+		owner = FPA
+		buildings = {
+			infrastructure = 2
+			4323 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = FPA 
+		victory_points = {
+			1248 3 
+		}
+	}
+	provinces={
+		1248 4312 4317 4318 4323 4325 4327 4328 4335 4343 4348 
+	}
+}
+

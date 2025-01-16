@@ -1,0 +1,26 @@
+state={
+	id=330
+	name="STATE_330"
+	manpower=105300
+	resources = {
+			Steel = 9
+			Tungsten = 3
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = BLH
+		buildings = {
+			arms_factory = 1
+			industrial_complex = 1
+			}
+		add_core_of = BLH 
+		victory_points = {
+			3331 20 
+		}
+	}
+	provinces={
+		263 973 2226 2615 2978 3331 3632 3779 7477 7509 7540 7659 7700 7711 7770 7829 7867 7907 7928 
+	}
+}

@@ -1,0 +1,27 @@
+state={
+	id=441
+	name="STATE_441"
+	manpower=84000
+	resources = {
+			Rubber = 3
+	}
+	
+	state_category = town
+	
+	history={
+		owner = CDS
+		buildings = {
+			infrastructure = 1
+			8554 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = CDS 
+		victory_points = {
+			8554 5 
+		}
+	}
+	provinces={
+		2500 8491 8553 8554 8569 8611 8627 
+	}
+}

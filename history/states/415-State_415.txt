@@ -1,0 +1,26 @@
+state={
+	id=415
+	name="STATE_415"
+	manpower=722400
+	resources = {
+			Steel = 8
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = UNT
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			industrial_complex = 1
+			}
+		add_core_of = UNT 
+		victory_points = {
+			8601 10 
+		}
+	}
+	provinces={
+		345 2213 2313 2809 3157 8449 8450 8461 8571 8601 8657 
+	}
+}

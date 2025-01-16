@@ -1,0 +1,21 @@
+state={
+	id=372
+	name="STATE_372"
+	manpower=288400
+	
+	state_category = town
+	
+	history={
+		owner = CGM
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = CGM 
+		victory_points = {
+			8102 10 
+		}
+	}
+	provinces={
+		32 1152 1581 1630 2210 2587 3080 3317 3330 3483 3693 3951 7989 8018 8025 8036 8037 8044 8064 8088 8097 8102 8122 8123 8124 8146 8162 8171 8179 8246 8283 8299 8350 
+	}
+}

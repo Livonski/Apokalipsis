@@ -1,0 +1,20 @@
+state={
+	id=102
+	name="STATE_102"
+	manpower=5
+	
+	state_category = small_island
+	
+	history={
+		owner = FAU
+		buildings = {
+			4792 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = FAU 
+		}
+	provinces={
+		1467 1916 2540 2680 4767 4792 4795 4824 
+	}
+}

@@ -1,0 +1,29 @@
+state={
+	id=530
+	name="STATE_530"
+	manpower=74900
+	resources = {
+			chromium = 32
+	}
+	
+	state_category = metropolis
+	
+	history={
+		owner = KIL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			dockyard = 5
+			1791 = {
+			naval_base = 7
+			}
+			}
+		add_core_of = KIL 
+		victory_points = {
+			1791 10 
+		}
+	}
+	provinces={
+		376 633 1104 1304 1791 2384 2751 2904 9166 9175 9229 9230 9261 9278 9317 9328 9378 
+	}
+}

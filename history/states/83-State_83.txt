@@ -1,0 +1,24 @@
+state={
+	id=83
+	name="STATE_83"
+	manpower=3300
+	resources = {
+			aluminium = 20
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = WRW
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = WRW 
+		victory_points = {
+			1025 3 
+		}
+	}
+	provinces={
+		182 237 271 1025 1884 2744 3837 4808 
+	}
+}

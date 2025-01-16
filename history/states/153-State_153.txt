@@ -1,0 +1,26 @@
+state={
+	id=153
+	name="STATE_153"
+	manpower=794500
+	resources = {
+			oil = 35
+	}
+	
+	state_category = large_city
+	
+	history={
+		owner = SCL
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 3
+			}
+		add_core_of = SCL 
+		victory_points = {
+			5481 20 
+		}
+	}
+	provinces={
+		46 511 815 843 1206 1718 1832 2134 2166 2597 2628 2693 2868 3553 3592 5348 5368 5392 5436 5437 5467 5474 5480 5481 5490 5527 5537 5580 5581 5582 5593 5594 5598 5614 5637 5643 5715 5775 
+	}
+}

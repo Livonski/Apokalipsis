@@ -1,0 +1,22 @@
+state={
+	id=261
+	name="STATE_261"
+	manpower=23000
+	
+	state_category = rural
+	
+history={
+		owner = PCO
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			}
+		add_core_of = PCO 
+		victory_points = {
+			6910 1 
+		}
+	}
+	provinces={
+		121 6710 6743 6794 6825 6835 6896 6897 6910 6971 
+	}
+}

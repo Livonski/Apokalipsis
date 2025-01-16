@@ -1,0 +1,16 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_Portrait_Skeleton_1"
+		texturefile = "gfx/leaders/skeletons/skeleton_1.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_Portrait_Skeleton_2"
+		texturefile = "gfx/leaders/skeletons/skeleton_2.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_Portrait_Skeleton_3"
+		texturefile = "gfx/leaders/skeletons/skeleton_3.dds"
+	}
+}

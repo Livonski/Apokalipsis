@@ -1,0 +1,28 @@
+state={
+	id=301
+	name="STATE_301"
+	manpower=249300
+	resources = {
+			Oil = 10
+	}
+	
+	state_category = town
+	
+	history={
+		owner = BDF
+		buildings = {
+			infrastructure = 1
+			dockyard = 1
+			2170 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = BDF 
+		victory_points = {
+			1687 5 
+		}
+	}
+	provinces={
+		74 552 695 734 802 1277 1687 1792 2026 2170 2365 2388 2390 2480 2918 3453 3480 3673 7160 7199 7222 7227 7237 7258 7259 7268 7367 7608 7905 8084 8127 
+	}
+}

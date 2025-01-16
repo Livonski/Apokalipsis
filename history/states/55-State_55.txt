@@ -1,0 +1,21 @@
+state={
+	id=55
+	name="STATE_55"
+	manpower=27000
+	
+	state_category = rural
+	
+	history={
+		owner = ERM
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = ERM 
+		victory_points = {
+			4289 1 
+		}
+	}
+	provinces={
+		940 2518 3266 4289 4297 4300 4307 4311 4324 4342 4361 4373 
+	}
+}

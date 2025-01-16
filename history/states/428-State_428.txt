@@ -1,0 +1,25 @@
+state={
+	id=428
+	name="STATE_428"
+	manpower=124900
+	
+	state_category = large_city
+	
+	history={
+		owner = INL
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			8421 = {
+			bunker = 3
+			}
+			8475 = {
+			bunker = 3
+			}
+			}
+		add_core_of = INL 
+	}
+	provinces={
+		975 8421 8463 8474 8475 
+	}
+}

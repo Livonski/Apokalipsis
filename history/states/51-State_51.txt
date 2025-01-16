@@ -1,0 +1,22 @@
+state={
+	id=51
+	name="STATE_51"
+	manpower=1200
+	
+	state_category = town
+	
+	history={
+		owner = FPA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			4271 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = FPA 
+		}
+	provinces={
+		247 551 1860 3516 4271 4272 4278 4281 4283 4286 4288 4292 4296 4301 4303 4305 4308 4319 4339 4346 4357 4362 
+	}
+}

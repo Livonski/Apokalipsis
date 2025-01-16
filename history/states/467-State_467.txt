@@ -1,0 +1,18 @@
+state={
+	id=467
+	name="STATE_467"
+	manpower=43000
+	resources = {
+			oil = 10
+	}
+	
+	state_category = town
+	
+	history={
+		owner = CMU
+		add_core_of = CMU 
+	}
+	provinces={
+		761 1184 
+	}
+}

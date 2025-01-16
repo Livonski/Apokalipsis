@@ -1,0 +1,18 @@
+state={
+	id=106
+	name="STATE_106"
+	manpower=40
+	resources = {
+			Steel = 3
+	}
+	
+	state_category = small_island
+	
+	history={
+		owner = FAU
+		add_core_of = FAU 
+		}
+	provinces={
+		280 1712 1857 1912 4786 4804 4830 4865 
+	}
+}

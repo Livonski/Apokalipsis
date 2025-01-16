@@ -1,0 +1,22 @@
+state={
+	id=54
+	name="STATE_54"
+	manpower=800
+	resources = {
+			aluminium = 14
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = WRW
+		add_core_of = WRW 
+		victory_points = {
+			171 3 
+		}
+	}
+	provinces={
+		171 255 605 675 978 3624 4321 4628 
+	}
+}
+

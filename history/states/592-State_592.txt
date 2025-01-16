@@ -1,0 +1,26 @@
+state={
+	id=592
+	name="STATE_592"
+	manpower=49300
+	resources = {
+			aluminium = 6
+	}
+	
+	state_category = town
+	
+	history={
+		owner = IRI
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			dockyard = 1
+			}
+		add_core_of = IRI 
+		victory_points = {
+			9655 5 
+		}
+	}
+	provinces={
+		3183 9651 9652 9655 9656 9659 9664 
+	}
+}

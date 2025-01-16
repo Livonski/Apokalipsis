@@ -1,0 +1,23 @@
+state={
+	id=80
+	name="STATE_80"
+	manpower=5
+	resources = {
+			oil = 8
+	}
+	
+	state_category = small_island
+	
+	history={
+		owner = FAU
+		buildings = {
+			3574 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = FAU 
+		}
+	provinces={
+		3574 3843 4515 
+	}
+}

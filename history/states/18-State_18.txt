@@ -1,0 +1,25 @@
+state={
+	id=18
+	name="STATE_18"
+	manpower=1200
+	
+	state_category = rural
+	
+	history={
+		owner = WRW
+		buildings = {
+			infrastructure = 1
+			1973 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = WRW 
+		victory_points = {
+			67 1 
+		}
+	}
+	provinces={
+		67 273 318 613 696 1215 1239 1601 1721 1902 1973 4092 4114 4129 
+	}
+}
+

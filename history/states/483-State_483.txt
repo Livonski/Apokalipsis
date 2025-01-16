@@ -1,0 +1,29 @@
+state={
+	id=483
+	name="STATE_483"
+	manpower=248000
+	resources = {
+			Steel = 16
+			chromium = 12
+	}
+	
+	state_category = city
+	
+	history={
+		owner = BFZ
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		add_core_of = BFZ 
+		victory_points = {
+			9157 15 
+		}
+		victory_points = {
+			3594 3 
+		}
+	}
+	provinces={
+		119 1572 2273 2902 3513 3594 8841 9091 9155 9156 9157 9195 9202 9203 9249 9257 
+	}
+}

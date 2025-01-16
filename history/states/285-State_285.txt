@@ -1,0 +1,26 @@
+state={
+	id=285
+	name="STATE_285"
+	manpower=149200
+	resources = {
+			Tungsten = 3
+	}
+	
+	state_category = town
+	
+history={
+		owner = BDT
+		buildings = {
+			2185 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = BDT 
+		victory_points = {
+			2185 1 
+		}
+	}
+	provinces={
+		1580 1642 1713 1733 1751 1849 2139 2185 2209 2485 2601 2898 3052 3273 3567 3586 3600 4043 7044 7115 7298 7309 7341 7401 7469 7522 7528 7533 7572 7589 7590 7591 7638 7651 7652 7710 7722 7761 7768 7795 7842 7866 7881 7943 7953 
+	}
+}

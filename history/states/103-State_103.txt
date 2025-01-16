@@ -1,0 +1,18 @@
+state={
+	id=103
+	name="STATE_103"
+	manpower=3200
+	resources = {
+			oil = 10
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = WRW
+		add_core_of = WRW 
+		}
+	provinces={
+		592 609 651 947 1123 2153 4976 
+	}
+}

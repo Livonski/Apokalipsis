@@ -1,0 +1,28 @@
+state={
+	id=173
+	name="STATE_173"
+	manpower=208300
+	
+	state_category = city
+	
+	history={
+		owner = SCL
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			6058 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = SCL 
+		victory_points = {
+			6058 3 
+		}
+		victory_points = {
+			5863 3 
+		}
+	}
+	provinces={
+		269 391 578 765 1726 1944 2347 2393 2429 2778 2872 2992 3091 3372 3429 3461 3464 3759 5629 5630 5644 5656 5667 5677 5706 5744 5753 5776 5777 5790 5802 5817 5829 5863 5870 5887 5888 5896 5897 5932 5943 5953 5995 6018 6035 6058 6059 6063 
+	}
+}

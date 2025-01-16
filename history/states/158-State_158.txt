@@ -1,0 +1,18 @@
+state={
+	id=158
+	name="STATE_158"
+	manpower=25500
+	
+	state_category = town
+	
+	history={
+		owner = SMG
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = SMG 
+		}
+	provinces={
+		1177 1590 1609 3442 3655 5418 5466 5522 5534 5545 5552 5590 5591 5608 5640 
+	}
+}

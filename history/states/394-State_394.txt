@@ -1,0 +1,24 @@
+state={
+	id=394
+	name="STATE_394"
+	manpower=34800
+	resources = {
+			Tungsten = 36
+	}
+	
+	state_category = town
+	
+	history={
+		owner = GNR
+		buildings = {
+			infrastructure = 2
+			}
+		add_core_of = GNR 
+		victory_points = {
+			8232 3 
+		}
+	}
+	provinces={
+		564 1174 1949 2401 2474 8151 8209 8232 8241 8274 8306 8366 8412 8453 8454 8511 
+	}
+}

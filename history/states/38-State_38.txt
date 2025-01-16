@@ -1,0 +1,21 @@
+state={
+	id=38
+	name="STATE_38"
+	manpower=380
+	resources = {
+			Steel = 6
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = ARH
+		add_core_of = ARH 
+		victory_points = {
+			4279 1 
+		}
+	}
+	provinces={
+		37 86 357 1378 1413 1950 2140 2860 3118 3838 4211 4218 4232 4263 4268 4273 4279 4285 4287 
+	}
+}

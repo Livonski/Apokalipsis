@@ -1,0 +1,22 @@
+state={
+	id=111
+	name="STATE_111"
+	manpower=13900
+
+	state_category = rural
+
+	history={
+		owner = MHL
+		buildings = {
+			infrastructure = 2
+			}
+		add_core_of = MHL
+		victory_points = {
+			3706 5 
+		} 
+	}
+	provinces={
+		2577 3706 
+	}
+}
+

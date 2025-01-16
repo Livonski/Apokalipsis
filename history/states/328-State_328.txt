@@ -1,0 +1,24 @@
+state={
+	id=328
+	name="STATE_328"
+	manpower=17300
+	resources = {
+			Oil = 8
+	}
+	
+	state_category = pastoral
+	
+	history={
+		owner = UNT
+		add_core_of = UNT 
+		victory_points = {
+			360 1 
+		}
+		victory_points = {
+			7626 3 
+		}
+	}
+	provinces={
+		117 360 1007 1452 1948 2254 2548 3211 7547 7548 7604 7605 7626 7627 7661 7695 7696 7775 
+	}
+}

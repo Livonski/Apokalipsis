@@ -1,0 +1,33 @@
+state={
+	id=413
+	name="STATE_413"
+	manpower=38400
+	resources = {
+			aluminium = 4
+	}
+	
+	state_category = city
+	
+	history={
+		owner = INL
+		buildings = {
+			infrastructure = 3
+			3289 = {
+			bunker = 3
+			}
+			8383 = {
+			bunker = 3
+			}
+			2737 = {
+			bunker = 3
+			}
+			}
+		add_core_of = INL 
+		victory_points = {
+			2737 1 
+		}
+	}
+	provinces={
+		1982 2737 3289 8287 8335 8362 8383 8452 
+	}
+}

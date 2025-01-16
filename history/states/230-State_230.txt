@@ -1,0 +1,23 @@
+state={
+	id=230
+	name="STATE_230"
+	manpower=164000
+	
+	state_category = large_town
+	
+history={
+		owner = ALC
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			dockyard = 2
+			}
+		add_core_of = ALC 
+		victory_points = {
+			6721 3 
+		}
+	}
+	provinces={
+		598 1888 2030 2794 3014 3255 3746 6412 6462 6463 6507 6508 6527 6554 6583 6593 6645 6657 6669 6678 6692 6721 6742 6793 6810 6817 6834 6886 6887 6909 6956 6957 6958 
+	}
+}

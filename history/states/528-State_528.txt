@@ -1,0 +1,18 @@
+state={
+	id=528
+	name="STATE_528"
+	manpower=23900
+	
+	state_category = rural
+	
+	history={
+		owner = DWO
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = DWO 
+	}
+	provinces={
+		9128 9137 9190 9207 
+	}
+}

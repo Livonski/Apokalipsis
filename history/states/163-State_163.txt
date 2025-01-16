@@ -1,0 +1,24 @@
+state={
+	id=163
+	name="STATE_163"
+	manpower=37400
+	
+	state_category = town
+	
+	history={
+		owner = ALC
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = ALC 
+		victory_points = {
+			5845 3 
+		}
+		victory_points = {
+			5816 3 
+		}
+	}
+	provinces={
+		1108 1491 1901 2691 2700 3142 3400 3703 3814 4016 5619 5653 5674 5693 5713 5743 5773 5785 5816 5823 5844 5845 5877 5904 5905 5962 5984 
+	}
+}

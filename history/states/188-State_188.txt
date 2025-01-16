@@ -1,0 +1,25 @@
+state={
+	id=188
+	name="STATE_188"
+	manpower=189400
+	
+	state_category = large_town
+	
+	history={
+		owner = BDT
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			1480 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = BDT 
+		victory_points = {
+			1480 15 
+		}
+	}
+	provinces={
+		104 589 989 1425 1480 1621 1662 2079 2129 2376 2714 2799 3125 3207 3209 3539 3847 3976 5832 5872 5893 5899 5926 5959 5971 5989 5990 6027 6036 6037 6052 6102 6127 6257 6332 6361 6397 6418 6514 6581 
+	}
+}

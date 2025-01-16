@@ -1,0 +1,24 @@
+state={
+	id=181
+	name="STATE_181"
+	manpower=80400
+	resources = {
+			Steel = 42
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = CGM
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = CGM 
+		victory_points = {
+			5851 5 
+		}
+	}
+	provinces={
+		394 1054 1346 1971 2369 2843 3224 3284 3609 3657 3994 5746 5810 5837 5850 5851 5865 5889 5910 5944 5954 6001 6012 6066 6120 
+	}
+}

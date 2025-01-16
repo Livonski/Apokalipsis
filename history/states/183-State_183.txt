@@ -1,0 +1,26 @@
+state={
+	id=183
+	name="STATE_183"
+	manpower=729300
+	
+	state_category = large_city
+	
+	history={
+		owner = UCP
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 3
+			5735 = {
+			naval_base = 3
+			}
+			}
+		add_core_of = UCP 
+		victory_points = {
+			2217 30 
+		}
+	}
+	provinces={
+		2217 5735 
+	}
+}

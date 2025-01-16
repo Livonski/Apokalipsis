@@ -1,0 +1,26 @@
+state={
+	id=577
+	name="STATE_577"
+	manpower=32800
+	resources = {
+			oil = 14
+			Steel = 7
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = SNK
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			}
+		add_core_of = SNK 
+		victory_points = {
+			2570 5 
+		}
+	}
+	provinces={
+		523 562 1219 1414 1435 1915 2020 2051 2342 2570 2824 3130 3514 3684 3910 4011 9527 9570 9577 9578 9581 9582 9583 9584 9586 9589 9591 9592 9594 9595 9596 9597 9600 9601 9607 
+	}
+}

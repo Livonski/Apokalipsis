@@ -1,0 +1,29 @@
+state={
+	id=397
+	name="STATE_397"
+	manpower=593400
+	resources = {
+			aluminium = 12
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = GEM
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 1
+			}
+		add_core_of = GEM 
+		victory_points = {
+			2652 15 
+		}
+		victory_points = {
+			8664 15 
+		}
+	}
+	provinces={
+		961 1297 2443 2652 2803 8176 8194 8225 8250 8308 8314 8322 8377 8378 8432 8447 8490 8507 8525 8568 8590 8610 8642 8664 8724 8756 8802 
+	}
+}

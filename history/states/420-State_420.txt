@@ -1,0 +1,27 @@
+state={
+	id=420
+	name="STATE_420"
+	manpower=14200
+	resources = {
+			Rubber = 24
+			Oil = 10
+	}
+	
+	state_category = metropolis
+	
+	history={
+		owner = INL
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 4
+			}
+		add_core_of = INL 
+		victory_points = {
+			2951 3 
+		}
+	}
+	provinces={
+		2097 2951 8370 
+	}
+}

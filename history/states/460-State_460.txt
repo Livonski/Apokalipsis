@@ -1,0 +1,22 @@
+state={
+	id=460
+	name="STATE_460"
+	manpower=34300
+	
+	state_category = rural
+	
+	history={
+		owner = CDS
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+			}
+		add_core_of = CDS 
+		victory_points = {
+			8803 1 
+		}
+	}
+	provinces={
+		1365 3853 3961 8643 8725 8757 8803 8829 8847 8877 
+	}
+}

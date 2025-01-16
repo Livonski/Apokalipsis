@@ -1,0 +1,25 @@
+state={
+	id=63
+	name="STATE_63"
+	manpower=6000
+	resources = {
+			aluminium = 10
+	}
+	
+	state_category = town
+	
+	history={
+		owner = WRW
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			}
+		add_core_of = WRW 
+		victory_points = {
+			1692 5 
+		}
+	}
+	provinces={
+		96 136 234 322 402 630 864 922 995 1005 1194 1623 1692 1772 2498 2641 3484 4380 4398 4445 4512 4536 4582 4588 
+	}
+}

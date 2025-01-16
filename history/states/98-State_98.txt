@@ -1,0 +1,22 @@
+state={
+	id=98
+	name="STATE_98"
+	manpower=54920
+	resources = {
+			oil = 24
+			chromium = 6
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = KMT
+		add_core_of = KMT 
+		victory_points = {
+			3728 5 
+		}
+	}
+	provinces={
+		1111 2442 2930 3728 4744 4762 
+	}
+}

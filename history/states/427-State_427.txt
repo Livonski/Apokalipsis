@@ -1,0 +1,21 @@
+state={
+	id=427
+	name="STATE_427"
+	manpower=52400
+	resources = {
+			Oil = 2
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = SLB
+		add_core_of = SLB 
+		victory_points = {
+			8438 1 
+		}
+	}
+	provinces={
+		174 3556 8438 8509 8555 
+	}
+}

@@ -1,0 +1,33 @@
+state={
+	id=40
+	name="STATE_40"
+	manpower=108000
+	
+	state_category = megalopolis
+	
+	history={
+		owner = FPA
+		buildings = {
+			infrastructure = 5
+			air_base = 3
+			arms_factory = 2
+			industrial_complex = 8
+			dockyard = 2
+			anti_air_building = 1
+			3786 = {
+			naval_base = 5
+			}
+			}
+		add_core_of = FPA 
+		victory_points = {
+			4229 40 
+		}
+		victory_points = {
+			3247 5 
+		}
+	}
+	provinces={
+		2462 3152 3247 3786 4213 4214 4223 4224 4228 4229 4230 4236 4239 4240 
+	}
+}
+

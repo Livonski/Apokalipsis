@@ -1,0 +1,29 @@
+state={
+	id=533
+	name="STATE_533"
+	manpower=17300
+	resources = {
+			Steel = 17
+	}
+	
+	state_category = megalopolis
+	
+	history={
+		owner = ELI
+		buildings = {
+			infrastructure = 5
+			arms_factory = 2
+			industrial_complex = 8
+			}
+		add_core_of = ELI 
+		victory_points = {
+			9191 20 
+		}
+		victory_points = {
+			3148 20 
+		}
+	}
+	provinces={
+		3148 9132 9191 
+	}
+}

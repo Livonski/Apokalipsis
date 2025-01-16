@@ -1,0 +1,26 @@
+state={
+	id=19
+	name="STATE_19"
+	manpower=8100
+	resources = {
+			Tungsten = 20
+	}
+	
+	state_category = town
+	
+	history={
+		owner = WRW
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			}
+		add_core_of = WRW 
+		victory_points = {
+			58 10 
+		}
+	}
+	provinces={
+		48 58 103 359 474 771 803 984 1023 1199 1238 2049 2659 3103 4136 4173 
+	}
+}
+

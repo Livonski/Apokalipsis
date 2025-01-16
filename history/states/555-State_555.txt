@@ -1,0 +1,21 @@
+state={
+	id=555
+	name="STATE_555"
+	manpower=295000
+	resources = {
+			Steel = 7
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = DWO
+		add_core_of = DWO 
+		victory_points = {
+			1193 15 
+		}
+	}
+	provinces={
+		477 741 1182 1193 1405 1583 2414 9324 9357 9358 9359 9360 9384 9385 9437 
+	}
+}

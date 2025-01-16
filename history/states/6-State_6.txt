@@ -1,0 +1,26 @@
+state={
+	id=6
+	name="STATE_6"
+	manpower=315000
+	resources = {
+			Steel = 42
+			Tungsten = 12
+			chromium = 26
+	}
+	
+	state_category = city
+	
+	history={
+		owner = NPR
+		buildings = {
+			infrastructure = 1
+			arms_factory = 2
+			industrial_complex = 2
+			}
+		add_core_of = NPR 
+		}
+	provinces={
+		23 43 56 60 159 172 204 213 262 319 541 571 646 721 1052 2174 2360 2536 3903 
+		}
+}
+

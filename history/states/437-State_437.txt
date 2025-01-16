@@ -1,0 +1,22 @@
+state={
+	id=437
+	name="STATE_437"
+	manpower=49200
+	resources = {
+			Tungsten = 10
+			Chromium = 4
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = CDS
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = CDS 
+	}
+	provinces={
+		92 1652 3389 8570 8612 8690 
+	}
+}

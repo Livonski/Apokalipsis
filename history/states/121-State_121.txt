@@ -1,0 +1,29 @@
+state={
+	id=121
+	name="STATE_121"
+	manpower=138000
+	resources = {
+			oil = 16
+			Steel = 8
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = SCL
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			}
+		add_core_of = SCL 
+		victory_points = {
+			1985 15 
+		}
+		victory_points = {
+			2205 3 
+		}
+	}
+	provinces={
+		447 1678 1855 1985 2081 2205 2655 2669 2719 2774 3094 4893 4909 4916 4996 5019 5091 5115 5125 5132 5150 5188 5201 5202 5209 5215 
+	}
+}

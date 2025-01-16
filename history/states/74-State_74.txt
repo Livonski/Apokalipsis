@@ -1,0 +1,15 @@
+state={
+	id=74
+	name="STATE_74"
+	manpower=70
+	
+	state_category = small_island
+	
+	history={
+		owner = FAU
+		add_core_of = FAU 
+		}
+	provinces={
+		4418 4435 4436 4450 4461 4468 
+	}
+}

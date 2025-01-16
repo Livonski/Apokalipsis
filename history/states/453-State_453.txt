@@ -1,0 +1,29 @@
+state={
+	id=453
+	name="STATE_453"
+	manpower=819000
+	resources = {
+			Rubber = 8
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = GEM
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			industrial_complex = 2
+			3022 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = GEM 
+		victory_points = {
+			8710 10 
+		}
+	}
+	provinces={
+		863 2126 3022 3064 3908 8632 8633 8656 8689 8710 8750 8751 8781 8838 8893 8923 
+	}
+}

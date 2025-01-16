@@ -1,0 +1,25 @@
+state={
+	id=388
+	name="STATE_388"
+	manpower=547200
+	
+	state_category = large_town
+	
+	history={
+		owner = UNT
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		add_core_of = UNT 
+		victory_points = {
+			469 15 
+		}
+		victory_points = {
+			8277 3 
+		}
+	}
+	provinces={
+		469 1349 1353 1685 2351 3250 3772 8075 8130 8140 8208 8272 8277 8324 8329 
+	}
+}

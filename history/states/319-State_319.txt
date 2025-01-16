@@ -1,0 +1,22 @@
+state={
+	id=319
+	name="STATE_319"
+	manpower=193400
+	
+	state_category = town
+	
+	history={
+		owner = BOC
+		buildings = {
+			infrastructure = 2
+			dockyard = 2
+			}
+		add_core_of = BOC 
+		victory_points = {
+			7478 5 
+		}
+	}
+	provinces={
+		668 1546 1592 2770 7343 7382 7416 7471 7478 7511 7564 7619 
+	}
+}

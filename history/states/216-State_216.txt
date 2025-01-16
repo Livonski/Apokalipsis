@@ -1,0 +1,26 @@
+state={
+	id=216
+	name="STATE_216"
+	manpower=93400
+	resources = {
+			Steel = 24
+			aluminium = 18
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = ALC
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		add_core_of = ALC 
+		victory_points = {
+			852 5 
+		}
+	}
+	provinces={
+		852 987 1217 1646 2339 2567 2596 2743 3057 3350 3394 6236 6275 6306 6314 6363 6401 6420 6437 6471 6486 6506 6536 6574 
+	}
+}

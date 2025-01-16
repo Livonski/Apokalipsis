@@ -1,0 +1,22 @@
+state={
+	id=200
+	name="STATE_200"
+	manpower=472000
+	
+	state_category = large_town
+	
+	history={
+		owner = CGM
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		add_core_of = CGM 
+		victory_points = {
+			6048 10 
+		}
+	}
+	provinces={
+		1670 2816 2850 3026 3449 3599 3663 6014 6021 6048 6049 6074 6086 6097 6098 6109 6110 6136 6141 6142 6150 6164 6174 6212 6242 
+	}
+}

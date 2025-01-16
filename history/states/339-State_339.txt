@@ -1,0 +1,25 @@
+state={
+	id=339
+	name="STATE_339"
+	manpower=43400
+	resources = {
+			Steel = 7
+			Chromium = 4
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = UNT
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = UNT 
+		victory_points = {
+			819 1 
+		}
+	}
+	provinces={
+		819 1673 2695 3753 4004 7551 7665 7674 7689 7726 7727 7747 7748 7792 7799 7861 7873 7934 7935 7999 
+	}
+}

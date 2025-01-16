@@ -1,0 +1,26 @@
+state={
+	id=369
+	name="STATE_369"
+	manpower=294000
+	resources = {
+			Steel = 18
+			Chromium = 12
+	}
+	
+	state_category = city
+	
+	history={
+		owner = UNT
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			}
+		add_core_of = UNT 
+		victory_points = {
+			8150 20 
+		}
+	}
+	provinces={
+		333 576 736 745 1476 2211 2463 3322 3430 3555 7946 8022 8055 8150 8214 
+	}
+}

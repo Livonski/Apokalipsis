@@ -1,0 +1,29 @@
+state={
+	id=172
+	name="STATE_172"
+	manpower=165300
+	resources = {
+			Steel = 20
+			oil = 4
+	}
+	
+	state_category = city
+	
+	history={
+		owner = SMG
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			}
+		add_core_of = SMG 
+		victory_points = {
+			5712 5 
+		}
+		victory_points = {
+			 5821 1 
+		}
+	}
+	provinces={
+		525 684 1091 1432 1495 1731 2188 2470 2541 2629 2854 3119 3264 3332 3968 5609 5664 5688 5689 5712 5795 5796 5807 5821 5827 5869 5874 5884 5885 5915 5921 5928 5950 5961 6008 6072 6138 6143 
+	}
+}

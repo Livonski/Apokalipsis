@@ -1,0 +1,28 @@
+state={
+	id=131
+	name="STATE_131"
+	manpower=90500
+	
+	state_category = city
+	
+	history={
+		owner = MHL
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			}
+		add_core_of = MHL 
+		victory_points = {
+			5049 15 
+		}
+		victory_points = {
+			419 3 
+		}
+	}
+	provinces={
+		419 2348 3802 5049 
+	}
+}

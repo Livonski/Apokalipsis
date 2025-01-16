@@ -1,0 +1,21 @@
+state={
+	id=273
+	name="STATE_273"
+	manpower=104000
+	
+	state_category = town
+	
+history={
+		owner = UNT
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = UNT 
+		victory_points = {
+			7024 5 
+		}
+	}
+	provinces={
+		693 1591 2074 2090 2324 2947 3006 6902 6921 6930 6961 6990 7023 7024 7042 7079 7080 7148 
+	}
+}

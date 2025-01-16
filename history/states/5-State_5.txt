@@ -1,0 +1,19 @@
+state={
+	id=5
+	name="STATE_5"
+	manpower=2
+	resources = {
+			Steel = 2
+	}
+	
+	state_category = wasteland
+	
+	history={
+		owner = EAG
+		add_core_of = EAG 
+		}
+	provinces={
+		66 218 221 276 340 383 409 448 460 462 550 560 591 731 754 932 1061 1151 1175 1426 1471 2671 4050 4058 9676 
+		}
+}
+

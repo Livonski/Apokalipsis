@@ -1,0 +1,25 @@
+state={
+	id=240
+	name="STATE_240"
+	manpower=87300
+	resources = {
+			Steel = 12
+			aluminium = 12
+	}
+	
+	state_category = town
+	
+history={
+		owner = CPR
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = CPR 
+		victory_points = {
+			6824 5 
+		}
+	}
+	provinces={
+		151 336 509 844 1076 2242 2464 2511 2526 2800 3475 3682 6535 6592 6598 6644 6676 6689 6690 6720 6741 6775 6787 6824 6894 6895 6928 6942 6968 6980 7030 7068 7100 7105 7228 
+	}
+}

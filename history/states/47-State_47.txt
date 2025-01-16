@@ -1,0 +1,23 @@
+state={
+	id=47
+	name="STATE_47"
+	manpower=2
+	resources = {
+			Steel = 1
+	}
+	
+	state_category = small_island
+	
+	history={
+		owner = WRW
+		buildings = {
+			1329 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = WRW 
+		}
+	provinces={
+		1329 
+	}
+}

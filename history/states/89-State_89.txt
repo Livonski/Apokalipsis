@@ -1,0 +1,28 @@
+state={
+	id=89
+	name="STATE_89"
+	manpower=82600
+	resources = {
+			oil = 16
+			Steel = 12
+			Rubber = 28
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = KMT
+		buildings = {
+		4729 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = KMT 
+		victory_points = {
+			478 15 
+		}
+	}
+	provinces={
+		425 478 1096 3522 3634 4578 4585 4616 4729 
+	}
+}

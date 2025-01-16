@@ -1,0 +1,25 @@
+state={
+	id=476
+	name="STATE_476"
+	manpower=352000
+	
+	state_category = metropolis
+	
+	history={
+		owner = INL
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			}
+		add_core_of = INL 
+		victory_points = {
+			8831 15 
+		}
+		victory_points = {
+			8794 3 
+		}
+	}
+	provinces={
+		784 3503 8767 8794 8811 8831 
+	}
+}

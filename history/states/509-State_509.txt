@@ -1,0 +1,22 @@
+state={
+	id=509
+	name="STATE_509"
+	manpower=94000
+	resources = {
+			Steel = 24
+			Tungsten = 12
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = CPP
+		add_core_of = CPP 
+		victory_points = {
+			9103 5 
+		}
+	}
+	provinces={
+		2314 8997 9039 9047 9059 9103 
+	}
+}

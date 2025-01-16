@@ -1,0 +1,21 @@
+state={
+	id=389
+	name="STATE_389"
+	manpower=8200
+	resources = {
+			Oil = 5
+	}
+	
+	state_category = town
+	
+	history={
+		owner = MST
+		add_core_of = MST 
+		victory_points = {
+			3422 50 
+		}
+	}
+	provinces={
+		259 473 510 747 848 1236 2132 2221 2616 3338 3422 3605 3708 8263 8349 8440 8478 8623 8659 
+	}
+}

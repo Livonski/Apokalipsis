@@ -1,0 +1,21 @@
+state={
+	id=584
+	name="STATE_584"
+	manpower=39000
+	
+	state_category = town
+	
+	history={
+		owner = IRI
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = IRI 
+		victory_points = {
+			9624 3 
+		}
+	}
+	provinces={
+		1436 2549 9613 9615 9619 9624 
+	}
+}

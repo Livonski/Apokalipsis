@@ -1,0 +1,25 @@
+state={
+	id=286
+	name="STATE_286"
+	manpower=137800
+	resources = {
+			Steel = 4
+	}
+	
+	state_category = rural
+	
+history={
+		owner = BDF
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			}
+		add_core_of = BDF 
+		victory_points = {
+			7180 3 
+		}
+	}
+	provinces={
+		29 54 287 309 325 1384 1628 1709 2078 2354 2539 3029 3536 7067 7085 7124 7150 7180 7187 7211 7236 7248 7300 7311 7317 7390 7424 7600 7618 
+	}
+}

@@ -1,0 +1,27 @@
+state={
+	id=581
+	name="STATE_581"
+	manpower=27500
+	resources = {
+			oil = 7
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = PSS
+		buildings = {
+			infrastructure = 2
+			1821 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = PSS 
+		victory_points = {
+			1821 5 
+		}
+	}
+	provinces={
+		1821 3749 9538 9540 9544 9550 
+	}
+}

@@ -1,0 +1,21 @@
+state={
+	id=349
+	name="STATE_349"
+	manpower=32300
+	
+	state_category = pastoral
+	
+	history={
+		owner = UNT
+		add_core_of = UNT 
+		victory_points = {
+			7860 1 
+		}
+		victory_points = {
+			1324 1 
+		}
+	}
+	provinces={
+		284 1012 1324 1875 2155 2272 3229 3811 7717 7734 7755 7784 7816 7824 7825 7833 7860 7897 7898 7910 7967 7968 
+	}
+}

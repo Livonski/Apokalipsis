@@ -1,0 +1,24 @@
+state={
+	id=44
+	name="STATE_44"
+	manpower=2500
+	resources = {
+			Steel = 12
+	}
+	
+	state_category = town
+	
+	history={
+		owner = WRW
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = WRW 
+		victory_points = {
+			2218 1 
+		}
+	}
+	provinces={
+		150 246 306 756 821 923 1470 1668 1811 2003 2019 2204 2218 2521 2607 2848 3108 3388 3678 3948 4261 4274 4282 4315 4330 4332 4350 4351 4356 4370 4374 4375 4390 4391 4403 
+	}
+}

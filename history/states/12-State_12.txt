@@ -1,0 +1,22 @@
+state={
+	id=12
+	name="STATE_12"
+	manpower=18100
+	
+	state_category = rural
+	
+	history={
+		owner = NPR
+		buildings = {
+			infrastructure = 1
+			dockyard = 1
+			}
+		add_core_of = NPR 
+		victory_points = {
+			339 3 
+		}
+	}
+	provinces={
+		339 9681 9682 
+	}
+}

@@ -1,0 +1,27 @@
+state={
+	id=178
+	name="STATE_178"
+	manpower=317200
+	resources = {
+			Steel = 12
+			chromium = 16
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = CGM
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+			}
+		add_core_of = CGM 
+		victory_points = {
+			1338 10 
+		}
+	}
+	provinces={
+		179 608 768 775 909 1338 1571 1970 3018 3557 3989 5701 5707 5717 5718 5747 5756 5764 5765 5825 5830 5852 5890 5911 5917 5924 5925 5945 5968 5976 5977 
+	}
+}

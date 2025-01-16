@@ -1,0 +1,36 @@
+state={
+	id=422
+	name="STATE_422"
+	manpower=289400
+	
+	state_category = large_city
+	
+	history={
+		owner = CPR
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			arms_factory = 2
+			industrial_complex = 2
+			8755 = {
+			naval_base = 1
+			}
+			8550 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = CPR 
+		victory_points = {
+			8550 40 
+		}
+		victory_points = {
+			8755 5 
+		}
+		victory_points = {
+			1850 1 
+		}
+	}
+	provinces={
+		413 706 1337 1375 1850 3272 3727 3906 8444 8445 8550 8551 8626 8755 
+	}
+}

@@ -1,0 +1,21 @@
+state={
+	id=356
+	name="STATE_356"
+	manpower=15600
+	resources = {
+			Steel = 8
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = BNR
+		add_core_of = BNR 
+		victory_points = {
+			467 3 
+		}
+	}
+	provinces={
+		24 467 494 861 949 1114 1840 1961 2069 3232 3597 7776 8132 8145 8199 8221 8240 8261 8262 8282 8326 8336 8364 8405 8434 
+	}
+}

@@ -1,0 +1,19 @@
+state={
+	id=2
+	name="STATE_2"
+	manpower=400
+	resources = {
+			chromium = 12
+	}
+	
+	state_category = pastoral
+	
+	history={
+		owner = NHA
+		add_core_of = NHA 
+		}
+	provinces={
+		2 7 10 18 22 28 55 102 173 189 201 208 272 295 305 381 438 444 484 577 581 670 998 1100 1102 2085 2363 4046 4048 4051 4056 9674 
+		}
+}
+

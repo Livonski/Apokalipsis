@@ -1,0 +1,23 @@
+state={
+	id=327
+	name="STATE_327"
+	manpower=2162000
+	
+	state_category = megalopolis
+	
+	history={
+		owner = BOC
+		buildings = {
+			infrastructure = 3
+			arms_factory = 5
+			industrial_complex = 2
+			}
+		add_core_of = BOC 
+		victory_points = {
+			7495 40 
+		}
+	}
+	provinces={
+		1991 3261 7495 
+	}
+}

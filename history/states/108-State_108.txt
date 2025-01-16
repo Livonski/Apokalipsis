@@ -1,0 +1,28 @@
+state={
+	id=108
+	name="STATE_108"
+	manpower=46900
+	
+	state_category = town
+	
+	history={
+		owner = ANH
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+			4857 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = ANH 
+		victory_points = {
+			4817 5 
+		}
+		victory_points = {
+			4958 1 
+		}
+	}
+	provinces={
+		1045 1420 1610 2229 2887 2925 3010 3456 3511 3563 4791 4817 4823 4842 4847 4853 4857 4861 4867 4877 4886 4888 4890 4910 4917 4918 4958 4975 4984 5004 
+	}
+}

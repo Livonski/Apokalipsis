@@ -1,0 +1,22 @@
+state={
+	id=220
+	name="STATE_220"
+	manpower=48500
+	resources = {
+			Steel = 8
+			aluminium = 6
+	}
+	
+	state_category = town
+	
+	history={
+		owner = GEM
+		add_core_of = GEM 
+		victory_points = {
+			6448 1 
+		}
+	}
+	provinces={
+		89 1643 2375 3067 3185 3226 3390 3472 3709 6274 6301 6327 6351 6375 6379 6399 6400 6419 6436 6448 6461 6470 6485 6505 6525 6539 6565 6610 6618 6708 
+	}
+}

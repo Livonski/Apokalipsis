@@ -1,0 +1,25 @@
+state={
+	id=71
+	name="STATE_71"
+	manpower=3200
+	resources = {
+			chromium = 8
+	}
+	
+	state_category = town
+	
+	history={
+		owner = NLG
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		add_core_of = NLG 
+		victory_points = {
+			3123 3 
+		}
+	}
+	provinces={
+		91 177 1303 1508 1664 3139 3323 3326 3523 3526 3815 4000 4038 4415 4416 4455 4496 4523 4524 4529 4530 4535 4557 4564 4587 4605 
+	}
+}

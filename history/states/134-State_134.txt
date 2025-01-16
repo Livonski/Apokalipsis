@@ -1,0 +1,33 @@
+state={
+	id=134
+	name="STATE_134"
+	manpower=235000
+	resources = {
+			Rubber = 12
+	}
+	
+	state_category = large_city
+	
+	history={
+		owner = SCL
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 2
+			dockyard = 1
+			2050 = {
+			naval_base = 3
+			}
+			5219 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = SCL 
+		victory_points = {
+			5064 20 
+		}
+	}
+	provinces={
+		534 650 823 1229 1719 2050 2889 3242 3822 3898 3957 3966 5021 5064 5093 5106 5128 5133 5155 5199 5219 5239 5285 5293 5315 
+	}
+}

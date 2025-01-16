@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_apok_bookmark"
+		texturefile = "gfx/interface/bookmark_apok.tga"
+	}
+}

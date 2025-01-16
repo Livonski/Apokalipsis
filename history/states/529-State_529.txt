@@ -1,0 +1,32 @@
+state={
+	id=529
+	name="STATE_529"
+	manpower=167000
+	resources = {
+			Steel = 18
+	}
+	
+	state_category = metropolis
+	
+	history={
+		owner = INL
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 7
+			}
+		add_core_of = INL 
+		victory_points = {
+			9152 1 
+		}
+		victory_points = {
+			2173 15 
+		}
+		victory_points = {
+			1486 5 
+		}
+	}
+	provinces={
+		1225 1486 2173 3058 3432 9152 9169 
+	}
+}

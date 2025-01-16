@@ -1,0 +1,29 @@
+state={
+	id=90
+	name="STATE_90"
+	manpower=8100
+	resources = {
+			Tungsten = 16
+	}
+	
+	state_category = town
+	
+	history={
+		owner = NLG
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+			4635 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = NLG 
+		victory_points = {
+			4635 10 
+		}
+	}
+	provinces={
+		331 1372 4635 
+	}
+}

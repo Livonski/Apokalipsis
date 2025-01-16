@@ -1,0 +1,26 @@
+state={
+	id=447
+	name="STATE_447"
+	manpower=12500
+	resources = {
+			Rubber = 72
+	}
+	
+	state_category = megalopolis
+	
+	history={
+		owner = PTR
+		buildings = {
+			infrastructure = 5
+			arms_factory = 2
+			industrial_complex = 8
+			}
+		add_core_of = PTR 
+		victory_points = {
+			1286 40 
+		}
+	}
+	provinces={
+		1286 
+	}
+}

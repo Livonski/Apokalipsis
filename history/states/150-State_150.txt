@@ -1,0 +1,24 @@
+state={
+	id=150
+	name="STATE_150"
+	manpower=32400
+	resources = {
+			Steel = 6
+	}
+	
+	state_category = town
+	
+	history={
+		owner = SCL
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = SCL 
+		victory_points = {
+			3852 1 
+		}
+	}
+	provinces={
+		514 602 1015 1446 1493 2011 2466 2710 3761 3764 3852 5292 5338 5349 5350 5380 5393 5394 5409 5421 5439 5457 5470 5476 5484 5493 5505 5519 5550 5551 5562 5585 5645 
+	}
+}

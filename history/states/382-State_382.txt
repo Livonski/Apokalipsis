@@ -1,0 +1,22 @@
+state={
+	id=382
+	name="STATE_382"
+	manpower=7500
+	resources = {
+			Steel = 72
+			Chromium = 52
+	}
+	
+	state_category = pastoral
+	
+	history={
+		owner = GNR
+		add_core_of = GNR 
+		victory_points = {
+			1216 1 
+		}
+	}
+	provinces={
+		203 291 385 489 691 702 900 1036 1216 1488 1967 2555 2681 2873 3099 3871 8038 8103 8104 8125 8134 8156 8157 8189 8190 8201 8223 8233 8255 8288 8289 8352 8353 
+	}
+}

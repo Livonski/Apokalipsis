@@ -1,0 +1,24 @@
+state={
+	id=113
+	name="STATE_113"
+	manpower=42700
+	resources = {
+			oil = 8
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = SCL
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = SCL 
+		victory_points = {
+			4924 3 
+		}
+	}
+	provinces={
+		98 181 638 2106 2440 3333 3790 4851 4862 4882 4892 4898 4924 4950 4953 4978 4979 4991 5012 
+	}
+}

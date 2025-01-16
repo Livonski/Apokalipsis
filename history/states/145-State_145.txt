@@ -1,0 +1,22 @@
+state={
+	id=145
+	name="STATE_145"
+	manpower=29600
+	
+	state_category = large_town
+	
+	history={
+		owner = SMG
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		add_core_of = SMG 
+		victory_points = {
+			5382 3 
+		}
+	}
+	provinces={
+		644 2674 3178 3498 5172 5179 5205 5222 5264 5269 5274 5374 5382 
+	}
+}

@@ -1,0 +1,25 @@
+state={
+	id=129
+	name="STATE_129"
+	manpower=17400
+	resources = {
+			Steel = 4
+	}
+	
+	state_category = town
+	
+	history={
+		owner = MHL
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = MHL 
+		victory_points = {
+			5006 1 
+		}
+	}
+	provinces={
+		4972 4973 5006 
+	}
+}
+

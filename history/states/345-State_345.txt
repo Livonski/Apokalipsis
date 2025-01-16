@@ -1,0 +1,24 @@
+state={
+	id=345
+	name="STATE_345"
+	manpower=304500
+	resources = {
+			Tungsten = 4
+	}
+	
+	state_category = town
+	
+	history={
+		owner = UNT
+		buildings = {
+			infrastructure = 2
+			}
+		add_core_of = UNT 
+		victory_points = {
+			7858 3 
+		}
+	}
+	provinces={
+		1956 3534 4021 7687 7754 7858 7947 8010 8017 8035 
+	}
+}

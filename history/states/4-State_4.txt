@@ -1,0 +1,16 @@
+state={
+	id=4
+	name="STATE_4"
+	manpower=1
+	
+	state_category = wasteland
+	
+	history={
+		owner = EAG
+		add_core_of = EAG 
+		}
+	provinces={
+		15 61 77 100 113 122 145 195 317 393 487 496 548 809 929 974 1117 1125 1185 1309 1366 2785 2841 4052 4057 4063 9673 
+		}
+}
+

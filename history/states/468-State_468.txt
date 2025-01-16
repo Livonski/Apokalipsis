@@ -1,0 +1,28 @@
+state={
+	id=468
+	name="STATE_468"
+	manpower=4500
+	resources = {
+			oil = 60
+	}
+	
+	state_category = megalopolis
+	
+	history={
+		owner = INL
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 12
+			}
+		add_core_of = INL 
+		victory_points = {
+			2590 40 
+		}
+		victory_points = {
+			8727 5 
+		}
+	}
+	provinces={
+		2590 3056 8727 
+	}
+}

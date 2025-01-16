@@ -1,0 +1,24 @@
+state={
+	id=115
+	name="STATE_115"
+	manpower=72400
+	
+	state_category = rural
+	
+	history={
+		owner = PAH
+		buildings = {
+			infrastructure = 1
+			4914 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = PAH 
+		victory_points = {
+			2989 3 
+		}
+	}
+	provinces={
+		1434 2888 2989 4873 4883 4905 4914 4923 4941 
+	}
+}

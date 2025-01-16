@@ -1,0 +1,21 @@
+state={
+	id=297
+	name="STATE_297"
+	manpower=63900
+	
+	state_category = rural
+	
+history={
+		owner = CGM
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = CGM 
+		victory_points = {
+			2300 5 
+		}
+	}
+	provinces={
+		1057 1223 2300 2400 2664 2934 2957 3927 7254 7320 7325 7340 7350 7357 7400 7422 7435 7539 
+	}
+}

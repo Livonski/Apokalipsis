@@ -1,0 +1,25 @@
+state={
+	id=527
+	name="STATE_527"
+	manpower=74900
+	resources = {
+			Steel = 4
+	}
+	
+	state_category = town
+	
+	history={
+		owner = TBS
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			}
+		add_core_of = TBS 
+		victory_points = {
+			9181 5 
+		}
+	}
+	provinces={
+		1738 3023 4023 9114 9181 
+	}
+}

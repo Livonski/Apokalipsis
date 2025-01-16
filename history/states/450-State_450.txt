@@ -1,0 +1,25 @@
+state={
+	id=450
+	name="STATE_450"
+	manpower=47300
+	resources = {
+			Steel = 12
+	}
+	
+	state_category = town
+	
+	history={
+		owner = TRF
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			}
+		add_core_of = TRF 
+		victory_points = {
+			8709 1 
+		}
+	}
+	provinces={
+		198 1347 3048 3491 8672 8709 8754 8769 8875 8920 8955 8956 9021 
+	}
+}

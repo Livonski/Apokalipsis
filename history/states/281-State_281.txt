@@ -1,0 +1,15 @@
+state={
+	id=281
+	name="STATE_281"
+	manpower=41800
+	
+	state_category = pastoral
+	
+history={
+		owner = BDT
+		add_core_of = BDT 
+	}
+	provinces={
+		2446 3051 3648 7060 7171 7210 7257 7327 7406 
+	}
+}

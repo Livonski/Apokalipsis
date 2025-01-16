@@ -1,0 +1,26 @@
+state={
+	id=223
+	name="STATE_223"
+	manpower=108400
+	
+	state_category = city
+	
+history={
+		owner = VOS 
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			2856 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = VOS 
+		victory_points = {
+			2856 15 
+		}
+	}
+	provinces={
+		457 2856 3136 6335 6422 
+	}
+}

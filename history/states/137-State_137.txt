@@ -1,0 +1,25 @@
+state={
+	id=137
+	name="STATE_137"
+	manpower=209000
+	resources = {
+			chromium = 8
+	}
+	
+	state_category = town
+	
+	history={
+		owner = SCL
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			}
+		add_core_of = SCL 
+		victory_points = {
+			5174 1 
+		}
+	}
+	provinces={
+		641 1041 1343 1462 1502 1653 1714 1737 1899 2248 2320 2550 3016 3355 3486 3538 3842 4012 5073 5081 5104 5114 5120 5140 5141 5166 5174 5187 5208 5214 5290 5318 5342 5379 
+	}
+}

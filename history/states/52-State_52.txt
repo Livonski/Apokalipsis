@@ -1,0 +1,26 @@
+state={
+	id=52
+	name="STATE_52"
+	manpower=19500
+	resources = {
+			Steel = 30
+	}
+	
+	state_category = city
+	
+	history={
+		owner = NLG
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			}
+		add_core_of = NLG 
+		victory_points = {
+			544 30 
+		}
+	}
+	provinces={
+		253 544 607 4313 4320 
+	}
+}
+

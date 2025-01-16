@@ -1,0 +1,25 @@
+state={
+	id=162
+	name="STATE_162"
+	manpower=44200
+	resources = {
+			Rubber = 12
+	}
+	
+	state_category = town
+	
+	history={
+		owner = COB
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			}
+		add_core_of = COB 
+		victory_points = {
+			5525 1 
+		}
+	}
+	provinces={
+		115 3638 3938 5525 5578 5625 5676 
+	}
+}

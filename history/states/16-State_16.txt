@@ -1,0 +1,22 @@
+state={
+	id=16
+	name="STATE_16"
+	manpower=3900
+	resources = {
+			aluminium = 8
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = WRW
+		add_core_of = WRW 
+		victory_points = {
+			232 1 
+		}
+	}
+	provinces={
+		232 430 486 498 959 1298 2721 3101 3922 4084 4088 4091 4096 4106 4125 
+	}
+}
+

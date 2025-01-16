@@ -1,0 +1,34 @@
+state={
+	id=66
+	name="STATE_66"
+	manpower=1270500
+	resources = {
+			aluminium = 2
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = ERM
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			2113 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = ERM 
+		victory_points = {
+			2113 3 
+		}
+		victory_points = {
+			648 1 
+		}
+		victory_points = {
+			2201 5 
+		}
+	}
+	provinces={
+		648 1558 1636 1734 1781 2113 2201 2591 2600 2776 3225 3710 3932 3964 4337 4340 4353 4354 4359 4365 4385 4397 4400 4404 4417 4421 4422 4428 4442 4446 4456 4460 4474 4476 4497 4520 4525 
+	}
+}

@@ -1,0 +1,21 @@
+state={
+	id=294
+	name="STATE_294"
+	manpower=56300
+	resources = {
+			aluminium = 6
+	}
+	
+	state_category = rural
+	
+history={
+		owner = UNT
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = UNT 
+	}
+	provinces={
+		938 1696 1922 2289 2398 2430 2858 3427 7183 7204 7265 7281 7347 7375 7410 7430 
+	}
+}

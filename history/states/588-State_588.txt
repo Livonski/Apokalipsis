@@ -1,0 +1,35 @@
+state={
+	id=588
+	name="STATE_588"
+	manpower=182300
+	resources = {
+			Steel = 21
+			chromium = 23
+	}
+	
+	state_category = large_city
+	
+	history={
+		owner = IRI
+		buildings = {
+			infrastructure = 3
+			dockyard = 5
+			9658 = {
+			naval_base = 1
+			}
+			9654 = {
+			naval_base = 6
+			}
+			}
+		add_core_of = IRI 
+		victory_points = {
+			1272 30 
+		}
+		victory_points = {
+			9654 3 
+		}
+	}
+	provinces={
+		1272 2161 2895 3433 3985 9631 9633 9643 9649 9654 9657 9658 
+	}
+}

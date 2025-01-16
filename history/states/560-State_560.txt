@@ -1,0 +1,19 @@
+state={
+	id=560
+	name="STATE_560"
+	manpower=18300
+	resources = {
+			Steel = 53
+			chromium = 32
+	}
+	
+	state_category = pastoral
+	
+	history={
+		owner = SNK
+		add_core_of = SNK 
+	}
+	provinces={
+		690 1008 1793 2520 9461 9486 
+	}
+}

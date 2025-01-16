@@ -1,0 +1,27 @@
+state={
+	id=405
+	name="STATE_405"
+	manpower=384000
+	resources = {
+			Steel = 75
+			aluminium = 52
+			Tungsten = 48
+	}
+	
+	state_category = town
+	
+	history={
+		owner = GEM
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		add_core_of = GEM 
+		victory_points = {
+			8418 15 
+		}
+	}
+	provinces={
+		288 327 1360 1931 2012 3011 3448 3571 8211 8270 8271 8313 8328 8389 8418 8428 8446 8489 8567 
+	}
+}

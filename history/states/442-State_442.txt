@@ -1,0 +1,26 @@
+state={
+	id=442
+	name="STATE_442"
+	manpower=96400
+	
+	state_category = large_town
+	
+	history={
+		owner = TRF
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+			}
+		add_core_of = TRF 
+		victory_points = {
+			8826 15 
+		}
+		victory_points = {
+			8705 3 
+		}
+	}
+	provinces={
+		2455 2501 2576 3009 8564 8629 8662 8681 8705 8719 8798 8826 
+	}
+}

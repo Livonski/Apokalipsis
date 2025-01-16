@@ -1,0 +1,25 @@
+state={
+	id=29
+	name="STATE_29"
+	manpower=1400
+	resources = {
+			Steel = 6
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = WRW
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = WRW 
+		victory_points = {
+			2148 1 
+		}
+		}
+	provinces={
+		69 130 199 1014 1165 2091 2148 2288 3061 3515 3540 3799 4179 4194 
+	}
+}
+

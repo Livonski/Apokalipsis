@@ -1,0 +1,25 @@
+state={
+	id=470
+	name="STATE_470"
+	manpower=143000
+	resources = {
+			Steel = 14
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = TRF
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			}
+		add_core_of = TRF 
+		victory_points = {
+			8748 3 
+		}
+	}
+	provinces={
+		683 1328 2552 8721 8748 8780 8857 8890 8900 8966 9020 9038 9044 
+	}
+}

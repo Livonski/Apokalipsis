@@ -1,0 +1,24 @@
+state={
+	id=191
+	name="STATE_191"
+	manpower=30000
+	
+	state_category = rural
+	
+	history={
+		owner = COB
+		buildings = {
+			infrastructure = 1
+			6033 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = COB 
+		victory_points = {
+			3686 1 
+		}
+	}
+	provinces={
+		367 960 985 1200 1774 3325 3670 3686 5879 5892 5895 5907 5958 5963 5964 5965 6025 6033 6043 
+	}
+}

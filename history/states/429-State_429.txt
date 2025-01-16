@@ -1,0 +1,26 @@
+state={
+	id=429
+	name="STATE_429"
+	manpower=27400
+	resources = {
+			Steel = 36
+			Tungsten = 30
+			Chromium = 4
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = SNK
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = SNK 
+		victory_points = {
+			64 5 
+		}
+	}
+	provinces={
+		64 1065 1560 2276 2283 8482 8486 8561 8625 8763 8978 9113 9159 9224 9250 
+	}
+}

@@ -1,0 +1,27 @@
+state={
+	id=142
+	name="STATE_142"
+	manpower=54900
+	resources = {
+			Tungsten = 2
+	}
+	
+	state_category = town
+	
+	history={
+		owner = MHL
+		buildings = {
+			infrastructure = 1
+			1166 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = MHL 
+		victory_points = {
+			725 5 
+		}
+	}
+	provinces={
+		725 906 936 1166 2047 3133 3402 3926 5137 5178 5229 5241 5263 5273 5308 5309 5353 5354 5399 5405 5447 5502 
+	}
+}

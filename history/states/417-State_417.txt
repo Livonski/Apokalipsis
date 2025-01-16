@@ -1,0 +1,18 @@
+state={
+	id=417
+	name="STATE_417"
+	manpower=12600
+	
+	state_category = rural
+	
+	history={
+		owner = TRF
+		add_core_of = TRF 
+		victory_points = {
+			645 1 
+		}
+	}
+	provinces={
+		645 799 1176 1479 1593 1796 3530 3705 8365 8467 8520 8576 8585 8594 8648 8695 
+	}
+}

@@ -1,0 +1,27 @@
+state={
+	id=280
+	name="STATE_280"
+	manpower=117500
+	resources = {
+			Steel = 52
+	}
+	
+	state_category = town
+	
+history={
+		owner = PCO
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = PCO 
+		victory_points = {
+			7164 1 
+		}
+		victory_points = {
+			7012 1 
+		}
+	}
+	provinces={
+		535 883 1059 1081 1179 2831 3176 3714 3984 6946 7012 7019 7050 7051 7075 7076 7089 7101 7129 7147 7151 7163 7164 7173 7181 7201 7202 7229 7240 7286 7287 7302 
+	}
+}

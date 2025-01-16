@@ -1,0 +1,18 @@
+state={
+	id=107
+	name="STATE_107"
+	manpower=1300
+	
+	state_category = rural
+	
+	history={
+		owner = WRW
+		add_core_of = WRW 
+		victory_points = {
+			388 1 
+		}
+	}
+	provinces={
+		388 521 804 921 1208 1386 1448 2377 2482 2627 2640 2716 3844 5002 5035 5075 5094 5130 5157 5177 5240 5262 5295 5322 
+	}
+}

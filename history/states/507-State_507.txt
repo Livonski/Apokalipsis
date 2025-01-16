@@ -1,0 +1,25 @@
+state={
+	id=507
+	name="STATE_507"
+	manpower=170700
+	
+	state_category = town
+	
+	history={
+		owner = BFZ
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			3810 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = BFZ 
+		victory_points = {
+			3810 3 
+		}
+	}
+	provinces={
+		3630 3810 3841 8897 8948 8986 9024 9064 9065 
+	}
+}

@@ -1,0 +1,27 @@
+state={
+	id=9
+	name="STATE_9"
+	manpower=12000
+	resources = {
+			Steel = 8
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = NHA
+		buildings = {
+			12 = {
+			naval_base = 1
+			}
+			}
+		add_core_of = NHA 
+		victory_points = {
+			12 5 
+		}
+	}
+	provinces={
+		12 65 147 294 316 488 994 2056 2529 4060 4062 4070 4080 
+	}
+}
+

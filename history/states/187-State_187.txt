@@ -1,0 +1,26 @@
+state={
+	id=187
+	name="STATE_187"
+	manpower=69300
+	resources = {
+			Steel = 12
+			Tungsten = 12
+			chromium = 20
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = CGM
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = CGM 
+		victory_points = {
+			963 3 
+		}
+	}
+	provinces={
+		334 390 963 1588 2345 2692 3195 3281 3459 3577 3583 3988 5864 5933 5988 5996 5997 6000 6064 6065 6096 6119 6148 6172 6198 
+	}
+}

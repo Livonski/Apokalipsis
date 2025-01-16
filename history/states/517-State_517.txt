@@ -1,0 +1,21 @@
+state={
+	id=517
+	name="STATE_517"
+	manpower=298000
+	
+	state_category = town
+	
+	history={
+		owner = CDS
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = CDS 
+		victory_points = {
+			9073 5 
+		}
+	}
+	provinces={
+		1958 3045 3520 3795 9072 9073 9123 
+	}
+}

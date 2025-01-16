@@ -1,0 +1,27 @@
+state={
+	id=531
+	name="STATE_531"
+	manpower=47200
+	resources = {
+			oil = 14
+	}
+	
+	state_category = town
+	
+	history={
+		owner = TRF
+		buildings = {
+			infrastructure = 2
+			}
+		add_core_of = TRF 
+		victory_points = {
+			9371 1 
+		}
+		victory_points = {
+			9440 3 
+		}
+	}
+	provinces={
+		497 958 2164 2364 3021 9188 9197 9231 9245 9285 9316 9323 9356 9371 9393 9398 9414 9417 9423 9440 9441 9445 9453 
+	}
+}

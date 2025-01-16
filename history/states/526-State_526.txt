@@ -1,0 +1,26 @@
+state={
+	id=526
+	name="STATE_526"
+	manpower=47400
+	resources = {
+			Steel = 18
+			aluminium = 9
+	}
+	
+	state_category = town
+	
+	history={
+		owner = CPP
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			}
+		add_core_of = CPP 
+		victory_points = {
+			9160 15 
+		}
+	}
+	provinces={
+		1018 1473 2349 3278 9133 9160 9200 9211 
+	}
+}

@@ -1,0 +1,26 @@
+state={
+	id=501
+	name="STATE_501"
+	manpower=142000
+	
+	state_category = large_town
+	
+	history={
+		owner = MRE
+		buildings = {
+			infrastructure = 1
+			arms_factory = 2
+			industrial_complex = 1
+			}
+		add_core_of = MRE 
+		victory_points = {
+			9050 20 
+		}
+		victory_points = {
+			9277 3 
+		}
+	}
+	provinces={
+		590 1755 1872 1898 2305 2937 3349 3796 3857 8853 8884 8930 8951 8961 8974 9018 9019 9034 9042 9043 9050 9051 9093 9109 9110 9117 9125 9174 9187 9206 9221 9260 9277 
+	}
+}

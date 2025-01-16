@@ -1,0 +1,32 @@
+state={
+	id=439
+	name="STATE_439"
+	manpower=138000
+	resources = {
+			Steel = 20
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = BFZ
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			industrial_complex = 1
+			}
+		add_core_of = BFZ 
+		victory_points = {
+			8737 3 
+		}
+		victory_points = {
+			8667 5 
+		}
+		victory_points = {
+			8646 1 
+		}
+	}
+	provinces={
+		163 245 888 892 1048 1274 2040 2327 2757 4025 8501 8518 8532 8543 8563 8575 8606 8646 8647 8658 8667 8701 8737 8864 
+	}
+}

@@ -1,0 +1,30 @@
+state={
+	id=45
+	name="STATE_45"
+	manpower=85300
+	resources = {
+			Rubber = 10
+	}
+	
+	state_category = megalopolis
+	
+	history={
+		owner = FPA
+		buildings = {
+			infrastructure = 5
+			air_base = 2
+			arms_factory = 4
+			industrial_complex = 8
+			4242 = {
+			naval_base = 4
+			}
+			}
+		add_core_of = FPA 
+		victory_points = {
+			1527 30 
+		}
+	}
+	provinces={
+		168 1527 2892 4242 4247 4257 4262 
+	}
+}

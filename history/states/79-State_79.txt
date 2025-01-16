@@ -1,0 +1,22 @@
+state={
+	id=79
+	name="STATE_79"
+	manpower=435000
+	
+	state_category = large_town
+	
+	history={
+		owner = ERM
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			}
+		add_core_of = ERM 
+		victory_points = {
+			1233 30 
+		}
+	}
+	provinces={
+		555 812 1227 1233 2158 2535 2575 3545 3982 4489 4513 4517 4531 4544 4548 4555 4569 4570 4574 4590 4591 4599 4609 4610 4617 4638 4652 4657 
+	}
+}

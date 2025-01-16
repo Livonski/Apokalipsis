@@ -1,0 +1,21 @@
+state={
+	id=250
+	name="STATE_250"
+	manpower=139000
+	
+	state_category = rural
+	
+history={
+		owner = UNT
+		buildings = {
+			infrastructure = 2
+			}
+		add_core_of = UNT 
+		victory_points = {
+			3271 1 
+		}
+	}
+	provinces={
+		1010 1075 1086 3137 3164 3271 3947 6603 6622 6659 6671 6682 6727 6756 6819 6828 6888 6898 
+	}
+}

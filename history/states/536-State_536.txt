@@ -1,0 +1,22 @@
+state={
+	id=536
+	name="STATE_536"
+	manpower=82400
+	
+	state_category = town
+	
+	history={
+		owner = MRE
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			}
+		add_core_of = MRE 
+		victory_points = {
+			2504 5 
+		}
+	}
+	provinces={
+		2504 3596 9234 9270 9276 9314 9315 
+	}
+}

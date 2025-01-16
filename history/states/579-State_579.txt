@@ -1,0 +1,33 @@
+state={
+	id=579
+	name="STATE_579"
+	manpower=469000
+	resources = {
+			Steel = 9
+			Tungsten = 3
+	}
+	
+	state_category = town
+	
+	history={
+		owner = DWO
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+			9576 = {
+			naval_base = 2
+			}
+			}
+		add_core_of = DWO 
+		victory_points = {
+			9533 1 
+		}
+		victory_points = {
+			1213 15 
+		}
+	}
+	provinces={
+		330 1213 1827 3805 4036 9530 9533 9553 9554 9558 9564 9572 9576 9579 9580 9587 
+	}
+}

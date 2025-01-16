@@ -1,0 +1,15 @@
+state={
+	id=143
+	name="STATE_143"
+	manpower=4200
+	
+	state_category = town
+	
+	history={
+		owner = RWF
+		add_core_of = RWF 
+		}
+	provinces={
+		346 499 962 1278 1351 2137 2662 2963 3199 3282 3570 3769 4017 5170 5221 5228 5250 5257 5279 5280 5305 5306 5333 5334 5339 5358 5404 5422 5451 
+	}
+}

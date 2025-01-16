@@ -1,0 +1,26 @@
+state={
+	id=141
+	name="STATE_141"
+	manpower=38700
+	resources = {
+			oil = 4
+	}
+	
+	state_category = large_town
+	
+	history={
+		owner = MHL
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		add_core_of = MHL 
+		victory_points = {
+			545 15 
+		}
+	}
+	provinces={
+		545 1037 1222 5078 5084 5108 5123 5171 5184 
+	}
+}
+

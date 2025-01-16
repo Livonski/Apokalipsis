@@ -1,0 +1,25 @@
+state={
+	id=329
+	name="STATE_329"
+	manpower=83300
+	resources = {
+			Steel = 24
+			Chromium = 35
+	}
+	
+	state_category = town
+	
+	history={
+		owner = CGM
+		buildings = {
+			infrastructure = 1
+			}
+		add_core_of = CGM 
+		victory_points = {
+			3460 3 
+		}
+	}
+	provinces={
+		110 1094 1741 3279 3285 3294 3460 3562 3755 3939 7649 7667 7691 7750 7756 7801 7819 7827 7862 7875 7887 7888 7924 7938 7955 7991 
+	}
+}

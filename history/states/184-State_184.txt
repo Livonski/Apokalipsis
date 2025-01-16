@@ -1,0 +1,24 @@
+state={
+	id=184
+	name="STATE_184"
+	manpower=14900
+	
+	state_category = town
+	
+	history={
+		owner = COB
+		buildings = {
+			infrastructure = 2
+			5786 = {
+			naval_base = 3
+			}
+			}
+		add_core_of = COB 
+		victory_points = {
+			5858 1 
+		}
+	}
+	provinces={
+		2490 2945 5786 5858 5922 
+	}
+}

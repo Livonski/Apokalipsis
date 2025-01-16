@@ -1,0 +1,19 @@
+state={
+	id=27
+	name="STATE_27"
+	manpower=5
+	resources = {
+			Steel = 2
+	}
+	
+	state_category = wasteland
+	
+	history={
+		owner = ARH
+		add_core_of = ARH 
+		}
+	provinces={
+		111 326 410 773 816 875 1039 1082 1228 1582 1689 1752 2172 2424 2434 2603 2762 2955 3457 4158 4170 4176 4177 4181 4183 4187 9685 
+	}
+}
+

@@ -1,0 +1,20 @@
+state={
+	id=337
+	name="STATE_337"
+	manpower=138300
+	resources = {
+			Steel = 44
+			Tungsten = 14
+			Chromium = 10
+	}
+	
+	state_category = pastoral
+	
+	history={
+		owner = CGM
+		add_core_of = CGM 
+	}
+	provinces={
+		225 811 907 1064 1164 1191 1504 1882 2484 2546 2715 3346 3977 7492 7553 7562 7628 7637 7670 7692 7709 7721 7780 7951 7983 7994 8012 
+	}
+}

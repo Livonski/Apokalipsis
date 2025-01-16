@@ -1,0 +1,28 @@
+state={
+	id=246
+	name="STATE_246"
+	manpower=224000
+	
+	state_category = large_town
+	
+history={
+		owner = GEM 
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			}
+		add_core_of = GEM 
+		victory_points = {
+			772 3 
+		}
+		victory_points = {
+			6656 5 
+		}
+		victory_points = {
+			6944 5 
+		}
+	}
+	provinces={
+		772 2913 3132 3473 3504 4014 6566 6575 6599 6656 6668 6677 6691 6752 6753 6759 6777 6791 6816 6863 6872 6873 6944 
+	}
+}

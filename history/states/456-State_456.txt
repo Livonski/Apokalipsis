@@ -1,0 +1,25 @@
+state={
+	id=456
+	name="STATE_456"
+	manpower=283000
+	resources = {
+			Tungsten = 10
+	}
+	
+	state_category = town
+	
+	history={
+		owner = CDS
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		add_core_of = CDS 
+		victory_points = {
+			483 15 
+		}
+	}
+	provinces={
+		483 2386 2722 2749 3008 8634 8764 8840 
+	}
+}
