@@ -1,0 +1,230 @@
+#Генерик портреты скелетов
+BOC = {
+	army = {
+		male = {
+			"GFX_Skeleton_General_1"
+			"GFX_Skeleton_General_2"
+			"GFX_Skeleton_General_3"
+			"GFX_Skeleton_General_4"
+			"GFX_Skeleton_General_5"
+			"GFX_Skeleton_General_6"
+			"GFX_Skeleton_General_7"
+			"GFX_Skeleton_General_8"
+			"GFX_Skeleton_General_9"
+			"GFX_Skeleton_General_10"
+			"GFX_Skeleton_General_11"
+		}
+		female = {
+			"GFX_Skeleton_General_1"
+			"GFX_Skeleton_General_2"
+			"GFX_Skeleton_General_3"
+			"GFX_Skeleton_General_4"
+			"GFX_Skeleton_General_5"
+			"GFX_Skeleton_General_6"
+			"GFX_Skeleton_General_7"
+			"GFX_Skeleton_General_8"
+			"GFX_Skeleton_General_9"
+			"GFX_Skeleton_General_10"
+			"GFX_Skeleton_General_11"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Skeleton_Admiral_1"
+			"GFX_Skeleton_Admiral_2"
+			"GFX_Skeleton_Admiral_3"
+			"GFX_Skeleton_Admiral_4"
+		}
+		female = {
+			"GFX_Skeleton_Admiral_1"
+			"GFX_Skeleton_Admiral_2"
+			"GFX_Skeleton_Admiral_3"
+			"GFX_Skeleton_Admiral_4"
+		}
+	}
+}
+
+CGM = {
+	army = {
+		male = {
+			"GFX_Skeleton_General_1"
+			"GFX_Skeleton_General_2"
+			"GFX_Skeleton_General_3"
+			"GFX_Skeleton_General_4"
+			"GFX_Skeleton_General_5"
+			"GFX_Skeleton_General_6"
+			"GFX_Skeleton_General_7"
+			"GFX_Skeleton_General_8"
+			"GFX_Skeleton_General_9"
+			"GFX_Skeleton_General_10"
+			"GFX_Skeleton_General_11"
+		}
+		female = {
+			"GFX_Skeleton_General_1"
+			"GFX_Skeleton_General_2"
+			"GFX_Skeleton_General_3"
+			"GFX_Skeleton_General_4"
+			"GFX_Skeleton_General_5"
+			"GFX_Skeleton_General_6"
+			"GFX_Skeleton_General_7"
+			"GFX_Skeleton_General_8"
+			"GFX_Skeleton_General_9"
+			"GFX_Skeleton_General_10"
+			"GFX_Skeleton_General_11"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Skeleton_Admiral_1"
+			"GFX_Skeleton_Admiral_2"
+			"GFX_Skeleton_Admiral_3"
+			"GFX_Skeleton_Admiral_4"
+		}
+		female = {
+			"GFX_Skeleton_Admiral_1"
+			"GFX_Skeleton_Admiral_2"
+			"GFX_Skeleton_Admiral_3"
+			"GFX_Skeleton_Admiral_4"
+		}
+	}
+}
+
+DWO = {
+	army = {
+		male = {
+			"GFX_Skeleton_General_1"
+			"GFX_Skeleton_General_2"
+			"GFX_Skeleton_General_3"
+			"GFX_Skeleton_General_4"
+			"GFX_Skeleton_General_5"
+			"GFX_Skeleton_General_6"
+			"GFX_Skeleton_General_7"
+			"GFX_Skeleton_General_8"
+			"GFX_Skeleton_General_9"
+			"GFX_Skeleton_General_10"
+			"GFX_Skeleton_General_11"
+		}
+		female = {
+			"GFX_Skeleton_General_1"
+			"GFX_Skeleton_General_2"
+			"GFX_Skeleton_General_3"
+			"GFX_Skeleton_General_4"
+			"GFX_Skeleton_General_5"
+			"GFX_Skeleton_General_6"
+			"GFX_Skeleton_General_7"
+			"GFX_Skeleton_General_8"
+			"GFX_Skeleton_General_9"
+			"GFX_Skeleton_General_10"
+			"GFX_Skeleton_General_11"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Skeleton_Admiral_1"
+			"GFX_Skeleton_Admiral_2"
+			"GFX_Skeleton_Admiral_3"
+			"GFX_Skeleton_Admiral_4"
+		}
+		female = {
+			"GFX_Skeleton_Admiral_1"
+			"GFX_Skeleton_Admiral_2"
+			"GFX_Skeleton_Admiral_3"
+			"GFX_Skeleton_Admiral_4"
+		}
+	}
+}
+
+IAT = {
+	army = {
+		male = {
+			"GFX_Skeleton_General_1"
+			"GFX_Skeleton_General_2"
+			"GFX_Skeleton_General_3"
+			"GFX_Skeleton_General_4"
+			"GFX_Skeleton_General_5"
+			"GFX_Skeleton_General_6"
+			"GFX_Skeleton_General_7"
+			"GFX_Skeleton_General_8"
+			"GFX_Skeleton_General_9"
+			"GFX_Skeleton_General_10"
+			"GFX_Skeleton_General_11"
+		}
+		female = {
+			"GFX_Skeleton_General_1"
+			"GFX_Skeleton_General_2"
+			"GFX_Skeleton_General_3"
+			"GFX_Skeleton_General_4"
+			"GFX_Skeleton_General_5"
+			"GFX_Skeleton_General_6"
+			"GFX_Skeleton_General_7"
+			"GFX_Skeleton_General_8"
+			"GFX_Skeleton_General_9"
+			"GFX_Skeleton_General_10"
+			"GFX_Skeleton_General_11"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Skeleton_Admiral_1"
+			"GFX_Skeleton_Admiral_2"
+			"GFX_Skeleton_Admiral_3"
+			"GFX_Skeleton_Admiral_4"
+		}
+		female = {
+			"GFX_Skeleton_Admiral_1"
+			"GFX_Skeleton_Admiral_2"
+			"GFX_Skeleton_Admiral_3"
+			"GFX_Skeleton_Admiral_4"
+		}
+	}
+}
+
+NHA = {
+	army = {
+		male = {
+			"GFX_Skeleton_General_1"
+			"GFX_Skeleton_General_2"
+			"GFX_Skeleton_General_3"
+			"GFX_Skeleton_General_4"
+			"GFX_Skeleton_General_5"
+			"GFX_Skeleton_General_6"
+			"GFX_Skeleton_General_7"
+			"GFX_Skeleton_General_8"
+			"GFX_Skeleton_General_9"
+			"GFX_Skeleton_General_10"
+			"GFX_Skeleton_General_11"
+		}
+		female = {
+			"GFX_Skeleton_General_1"
+			"GFX_Skeleton_General_2"
+			"GFX_Skeleton_General_3"
+			"GFX_Skeleton_General_4"
+			"GFX_Skeleton_General_5"
+			"GFX_Skeleton_General_6"
+			"GFX_Skeleton_General_7"
+			"GFX_Skeleton_General_8"
+			"GFX_Skeleton_General_9"
+			"GFX_Skeleton_General_10"
+			"GFX_Skeleton_General_11"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Skeleton_Admiral_1"
+			"GFX_Skeleton_Admiral_2"
+			"GFX_Skeleton_Admiral_3"
+			"GFX_Skeleton_Admiral_4"
+		}
+		female = {
+			"GFX_Skeleton_Admiral_1"
+			"GFX_Skeleton_Admiral_2"
+			"GFX_Skeleton_Admiral_3"
+			"GFX_Skeleton_Admiral_4"
+		}
+	}
+}

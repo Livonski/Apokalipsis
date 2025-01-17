@@ -1,16 +1,81 @@
 spriteTypes = {
+	######################################################################################
+	### Skeleton Generals
 	SpriteType = {
-		name = "GFX_Portrait_Skeleton_1"
-		texturefile = "gfx/leaders/skeletons/skeleton_1.dds"
+		name = "GFX_Skeleton_General_1"
+		texturefile = "gfx/leaders/GenericPortraits/Skeletons/Army/Skeleton_General_1.dds"
 	}
 	
 	SpriteType = {
-		name = "GFX_Portrait_Skeleton_2"
-		texturefile = "gfx/leaders/skeletons/skeleton_2.dds"
+		name = "GFX_Skeleton_General_2"
+		texturefile = "gfx/leaders/GenericPortraits/Skeletons/Army/Skeleton_General_2.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_Skeleton_General_3"
+		texturefile = "gfx/leaders/GenericPortraits/Skeletons/Army/Skeleton_General_3.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_Skeleton_General_4"
+		texturefile = "gfx/leaders/GenericPortraits/Skeletons/Army/Skeleton_General_4.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_Skeleton_General_5"
+		texturefile = "gfx/leaders/GenericPortraits/Skeletons/Army/Skeleton_General_5.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_Skeleton_General_6"
+		texturefile = "gfx/leaders/GenericPortraits/Skeletons/Army/Skeleton_General_6.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_Skeleton_General_7"
+		texturefile = "gfx/leaders/GenericPortraits/Skeletons/Army/Skeleton_General_7.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_Skeleton_General_8"
+		texturefile = "gfx/leaders/GenericPortraits/Skeletons/Army/Skeleton_General_8.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_Skeleton_General_9"
+		texturefile = "gfx/leaders/GenericPortraits/Skeletons/Army/Skeleton_General_9.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_Skeleton_General_10"
+		texturefile = "gfx/leaders/GenericPortraits/Skeletons/Army/Skeleton_General_10.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_Skeleton_General_11"
+		texturefile = "gfx/leaders/GenericPortraits/Skeletons/Army/Skeleton_General_11.dds"
+	}
+
+	######################################################################################
+	### Skeleton Admirals
+
+	SpriteType = {
+		name = "GFX_Skeleton_Admiral_1"
+		texturefile = "gfx/leaders/GenericPortraits/Skeletons/Navy/Skeleton_Admiral_1.dds"
 	}
 	
 	SpriteType = {
-		name = "GFX_Portrait_Skeleton_3"
-		texturefile = "gfx/leaders/skeletons/skeleton_3.dds"
+		name = "GFX_Skeleton_Admiral_2"
+		texturefile = "gfx/leaders/GenericPortraits/Skeletons/Navy/Skeleton_Admiral_2.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_Skeleton_Admiral_3"
+		texturefile = "gfx/leaders/GenericPortraits/Skeletons/Navy/Skeleton_Admiral_3.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_Skeleton_Admiral_4"
+		texturefile = "gfx/leaders/GenericPortraits/Skeletons/Navy/Skeleton_Admiral_4.dds"
 	}
 }
