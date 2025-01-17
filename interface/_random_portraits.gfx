@@ -53,10 +53,117 @@ spriteTypes = {
 		name = "GFX_Portrait_Arabia_Generic_3"
 		texturefile = "gfx/leaders/GenericPortraits/VanillaPolitics/Portrait_Arabia_Generic_3.dds"
 	}
-	
-	
-	######################################################################################
-	### Skeleton Generals
+
+######################################################################################
+### Human Generals
+	SpriteType = {
+		name = "GFX_Human_General_1"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Army/Human_General_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_Human_General_2"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Army/Human_General_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_Human_General_3"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Army/Human_General_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_Human_General_4"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Army/Human_General_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_Human_General_5"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Army/Human_General_5.dds"
+	}
+	SpriteType = {
+		name = "GFX_Human_General_6"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Army/Human_General_6.dds"
+	}
+	SpriteType = {
+		name = "GFX_Human_General_7"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Army/Human_General_7.dds"
+	}
+	SpriteType = {
+		name = "GFX_Human_General_8"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Army/Human_General_8.dds"
+	}
+	SpriteType = {
+		name = "GFX_Human_General_9"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Army/Human_General_9.dds"
+	}
+	SpriteType = {
+		name = "GFX_Human_General_10"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Army/Human_General_10.dds"
+	}
+	SpriteType = {
+		name = "GFX_Human_General_11"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Army/Human_General_11.dds"
+	}
+	SpriteType = {
+		name = "GFX_Human_General_12"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Army/Human_General_12.dds"
+	}
+	SpriteType = {
+		name = "GFX_Human_General_13"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Army/Human_General_13.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_Human_Admiral_1"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Navy/Human_Admiral_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_Human_Admiral_2"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Navy/Human_Admiral_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_Human_Admiral_3"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Navy/Human_Admiral_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_Human_Admiral_4"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Navy/Human_Admiral_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_Human_Admiral_5"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Navy/Human_Admiral_5.dds"
+	}
+	SpriteType = {
+		name = "GFX_Human_Admiral_6"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Navy/Human_Admiral_6.dds"
+	}
+	SpriteType = {
+		name = "GFX_Human_Admiral_7"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Navy/Human_Admiral_7.dds"
+	}
+	SpriteType = {
+		name = "GFX_Human_Admiral_8"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Navy/Human_Admiral_8.dds"
+	}
+	SpriteType = {
+		name = "GFX_Human_Admiral_9"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Navy/Human_Admiral_9.dds"
+	}
+	SpriteType = {
+		name = "GFX_Human_Admiral_10"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Navy/Human_Admiral_10.dds"
+	}
+	SpriteType = {
+		name = "GFX_Human_Admiral_11"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Navy/Human_Admiral_11.dds"
+	}
+	SpriteType = {
+		name = "GFX_Human_Admiral_12"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Navy/Human_Admiral_12.dds"
+	}
+	SpriteType = {
+		name = "GFX_Human_Admiral_13"
+		texturefile = "gfx/leaders/GenericPortraits/Human/Navy/Human_Admiral_13.dds"
+	}
+
+######################################################################################
+### Skeleton Generals
 	SpriteType = {
 		name = "GFX_Skeleton_General_1"
 		texturefile = "gfx/leaders/GenericPortraits/Skeletons/Army/Skeleton_General_1.dds"

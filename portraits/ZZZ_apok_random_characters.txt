@@ -1,3 +1,72 @@
+#Генерик портреты
+default = {
+	army = {
+		male = {
+			"GFX_Human_General_1"
+			"GFX_Human_General_2"
+			"GFX_Human_General_3"
+			"GFX_Human_General_4"
+			"GFX_Human_General_5"
+			"GFX_Human_General_6"
+			"GFX_Human_General_7"
+			"GFX_Human_General_8"
+			"GFX_Human_General_9"
+			"GFX_Human_General_10"
+			"GFX_Human_General_11"
+			"GFX_Human_General_12"
+			"GFX_Human_General_13"
+		}
+		female = {
+			"GFX_Human_General_1"
+			"GFX_Human_General_2"
+			"GFX_Human_General_3"
+			"GFX_Human_General_4"
+			"GFX_Human_General_5"
+			"GFX_Human_General_6"
+			"GFX_Human_General_7"
+			"GFX_Human_General_8"
+			"GFX_Human_General_9"
+			"GFX_Human_General_10"
+			"GFX_Human_General_11"
+			"GFX_Human_General_12"
+			"GFX_Human_General_13"
+		}
+	}
+
+	navy = {
+		male = {
+			"GFX_Human_Admiral_1"
+			"GFX_Human_Admiral_2"
+			"GFX_Human_Admiral_3"
+			"GFX_Human_Admiral_4"
+			"GFX_Human_Admiral_5"
+			"GFX_Human_Admiral_6"
+			"GFX_Human_Admiral_7"
+			"GFX_Human_Admiral_8"
+			"GFX_Human_Admiral_9"
+			"GFX_Human_Admiral_10"
+			"GFX_Human_Admiral_11"
+			"GFX_Human_Admiral_12"
+			"GFX_Human_Admiral_13"
+		}
+		female = {
+			"GFX_Human_Admiral_1"
+			"GFX_Human_Admiral_2"
+			"GFX_Human_Admiral_3"
+			"GFX_Human_Admiral_4"
+			"GFX_Human_Admiral_5"
+			"GFX_Human_Admiral_6"
+			"GFX_Human_Admiral_7"
+			"GFX_Human_Admiral_8"
+			"GFX_Human_Admiral_9"
+			"GFX_Human_Admiral_10"
+			"GFX_Human_Admiral_11"
+			"GFX_Human_Admiral_12"
+			"GFX_Human_Admiral_13"
+		}
+	}
+}
+
 #Генерик портреты скелетов
 BOC = {
 	army = {
