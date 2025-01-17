@@ -1,5 +1,61 @@
 spriteTypes = {
 	######################################################################################
+	### Generic Vanilla Politics
+	
+	SpriteType = {
+		name = "GFX_Portrait_Europe_Generic_1"
+		texturefile = "gfx/leaders/GenericPortraits/VanillaPolitics/Portrait_Europe_Generic_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_Portrait_Europe_Generic_2"
+		texturefile = "gfx/leaders/GenericPortraits/VanillaPolitics/Portrait_Europe_Generic_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_Portrait_Europe_Generic_3"
+		texturefile = "gfx/leaders/GenericPortraits/VanillaPolitics/Portrait_Europe_Generic_3.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_Portrait_South_America_Generic_1"
+		texturefile = "gfx/leaders/GenericPortraits/VanillaPolitics/Portrait_South_America_Generic_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_Portrait_South_America_Generic_2"
+		texturefile = "gfx/leaders/GenericPortraits/VanillaPolitics/Portrait_South_America_Generic_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_Portrait_South_America_Generic_3"
+		texturefile = "gfx/leaders/GenericPortraits/VanillaPolitics/Portrait_South_America_Generic_3.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_Portrait_Africa_Generic_1"
+		texturefile = "gfx/leaders/GenericPortraits/VanillaPolitics/Portrait_Africa_Generic_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_Portrait_Africa_Generic_2"
+		texturefile = "gfx/leaders/GenericPortraits/VanillaPolitics/Portrait_Africa_Generic_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_Portrait_Africa_Generic_3"
+		texturefile = "gfx/leaders/GenericPortraits/VanillaPolitics/Portrait_Africa_Generic_3.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_Portrait_Arabia_Generic_1"
+		texturefile = "gfx/leaders/GenericPortraits/VanillaPolitics/Portrait_Arabia_Generic_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_Portrait_Arabia_Generic_2"
+		texturefile = "gfx/leaders/GenericPortraits/VanillaPolitics/Portrait_Arabia_Generic_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_Portrait_Arabia_Generic_3"
+		texturefile = "gfx/leaders/GenericPortraits/VanillaPolitics/Portrait_Arabia_Generic_3.dds"
+	}
+	
+	
+	######################################################################################
 	### Skeleton Generals
 	SpriteType = {
 		name = "GFX_Skeleton_General_1"
